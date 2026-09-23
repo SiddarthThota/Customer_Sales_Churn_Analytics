@@ -1,0 +1,2001 @@
+Order_ID,Order_Date,Customer_ID,Product,Category,Region,Quantity,Revenue,Profit,Customer_Type,Month,Profit_Status
+1001,06/01/2026,C001,Laptop,Electronics,Delhi,1,65000,8000,New Customer,January,Profit
+1002,06/03/2026,C002,Phone,Electronics,Delhi,2,,6000,Repeat Customer,March,Profit
+1003,Invalid Date,C003,Headphones,Electronics,Mumbai,1,5000,1200,Repeat Customer,Unknown,Profit
+1004,06/05/2026,C004,Chair,Furniture,Bangalore,3,12000,2500,Repeat Customer,May,Profit
+1005,07/03/2026,C314,Vacuum Cleaner,Home,Delhi,3,8506,1455,Repeat Customer,March,Profit
+1006,Invalid Date,C359,Chair,Furniture,Chennai,1,4307,892,Repeat Customer,Unknown,Profit
+1007,08/02/2026,C241,Headphones,Electronics,Kolkata,6,39396,7334,Repeat Customer,February,Profit
+1008,Invalid Date,C314,Camera,Electronics,Hyderabad,6,374814,51761,Repeat Customer,Unknown,Profit
+1009,Invalid Date,C290,Bookshelf,Furniture,Chennai,2,22960,5742,Repeat Customer,Unknown,Profit
+1010,Invalid Date,C447,Desk,Furniture,Mumbai,2,26696,6419,Repeat Customer,Unknown,Profit
+1011,08/11/2026,C026,Makeup Kit,Beauty,Delhi,5,20375,7418,Repeat Customer,November,Profit
+1012,Invalid Date,Unknown Customer,Shoes,Apparel,Kolkata,3,6969,2075,Unknown Customer,Unknown,Profit
+1013,Invalid Date,C470,Makeup Kit,Beauty,Chennai,5,20680,7568,Repeat Customer,Unknown,Profit
+1014,05/12/2026,C446,Jeans,Apparel,Unknown Region,2,,867,Repeat Customer,December,Profit
+1015,Invalid Date,C241,Camera,Electronics,Kolkata,5,288810,42477,Repeat Customer,Unknown,Profit
+1016,Invalid Date,C310,Tablet,Electronics,Mumbai,5,148500,16484,Repeat Customer,Unknown,Profit
+1017,Invalid Date,C141,Speaker,Electronics,Chennai,2,17140,-744,Repeat Customer,Unknown,Loss
+1018,Invalid Date,C097,Microwave,Home,Hyderabad,6,60828,10647,Repeat Customer,Unknown,Profit
+1019,Invalid Date,C242,Microwave,Home,Kolkata,1,11868,2064,Repeat Customer,Unknown,Profit
+1020,01/03/2026,C184,Microwave,Home,Delhi,2,26576,5208,Repeat Customer,March,Profit
+1021,08/05/2026,C289,Skincare Set,Beauty,Delhi,2,3766,1170,Repeat Customer,May,Profit
+1022,Invalid Date,C044,Table,Furniture,Delhi,3,32876,6342,Repeat Customer,Unknown,Profit
+1023,Invalid Date,C476,Sofa,Furniture,Bangalore,1,44455,8790,Repeat Customer,Unknown,Profit
+1024,Invalid Date,C476,Laptop,Electronics,Mumbai,3,258822,33163,Repeat Customer,Unknown,Profit
+1025,03/08/2026,C359,Chair,Furniture,Mumbai,3,4582,926,Repeat Customer,August,Profit
+1026,07/04/2026,C265,Table,Furniture,Delhi,4,,9568,Repeat Customer,April,Profit
+1027,04/08/2026,C157,Camera,Electronics,Bangalore,6,249834,34927,Repeat Customer,August,Profit
+1028,Invalid Date,C409,Cookware Set,Home,Kolkata,5,441450,89593,Repeat Customer,Unknown,Profit
+1029,07/03/2026,C352,Skincare Set,Beauty,Hyderabad,1,3876,1283,Repeat Customer,March,Profit
+1030,Invalid Date,C081,Chair,Furniture,Mumbai,1,3873,764,Repeat Customer,Unknown,Profit
+1031,03/12/2026,C449,Jeans,Apparel,Kolkata,5,12735,3881,Repeat Customer,December,Profit
+1032,Invalid Date,C412,Chair,Furniture,Bangalore,5,18300,3632,Repeat Customer,Unknown,Profit
+1033,Invalid Date,C470,Microwave,Home,Chennai,3,29676,5674,Repeat Customer,Unknown,Profit
+1034,Invalid Date,C369,Makeup Kit,Beauty,Mumbai,2,7096,2772,Repeat Customer,Unknown,Profit
+1035,03/03/2026,C306,T-Shirt,Apparel,Bangalore,4,1276,325,Repeat Customer,March,Profit
+1036,04/12/2026,C221,Microwave,Home,Mumbai,3,33129,5845,Repeat Customer,December,Profit
+1037,01/04/2026,C465,Microwave,Home,Hyderabad,2,13338,2108,Repeat Customer,April,Profit
+1038,08/07/2026,C438,Tablet,Electronics,Chennai,6,180384,22751,Repeat Customer,July,Profit
+1039,01/03/2026,C026,Table,Furniture,Chennai,4,61344,12901,Repeat Customer,March,Profit
+1040,Invalid Date,C012,Chair,Furniture,Hyderabad,5,24840,5754,Repeat Customer,Unknown,Profit
+1041,06/02/2026,C197,Desk,Furniture,Hyderabad,3,27354,6502,Repeat Customer,February,Profit
+1042,05/01/2026,C409,Camera,Electronics,Bangalore,2,79618,10513,Repeat Customer,January,Profit
+1043,06/05/2026,C476,Phone,Electronics,Bangalore,4,77904,8105,Repeat Customer,May,Profit
+1044,Invalid Date,C074,Shoes,Apparel,Chennai,4,13740,4383,Repeat Customer,Unknown,Profit
+1045,Invalid Date,C297,T-Shirt,Apparel,Chennai,4,2392,666,Repeat Customer,Unknown,Profit
+1046,06/03/2026,C198,Table,Furniture,Pune,1,8718,1984,Repeat Customer,March,Profit
+1047,Invalid Date,C476,Bookshelf,Furniture,Kolkata,1,5875,1450,Repeat Customer,Unknown,Profit
+1048,Invalid Date,C421,Vacuum Cleaner,Home,Pune,1,11700,2183,Repeat Customer,Unknown,Profit
+1049,Invalid Date,C420,Kurta,Apparel,Pune,1,1946,576,Repeat Customer,Unknown,Profit
+1050,Invalid Date,C243,Vacuum Cleaner,Home,Kolkata,6,39564,6373,Repeat Customer,Unknown,Profit
+1051,Invalid Date,C220,Jacket,Apparel,Mumbai,2,6142,1903,Repeat Customer,Unknown,Profit
+1052,Invalid Date,C141,Skincare Set,Beauty,Chennai,4,12024,4006,Repeat Customer,Unknown,Profit
+1053,Invalid Date,C034,Kurta,Apparel,Chennai,6,5466,1386,Repeat Customer,Unknown,Profit
+1054,Invalid Date,C438,Table,Furniture,Bangalore,4,66584,13735,Repeat Customer,Unknown,Profit
+1055,Invalid Date,C409,Makeup Kit,Beauty,Delhi,1,4114,1593,Repeat Customer,Unknown,Profit
+1056,Invalid Date,C480,Speaker,Electronics,Delhi,4,23780,4537,Repeat Customer,Unknown,Profit
+1057,Invalid Date,C479,T-Shirt,Apparel,Hyderabad,3,1509,506,Repeat Customer,Unknown,Profit
+1058,Invalid Date,C273,Sofa,Furniture,Pune,5,206385,40154,Repeat Customer,Unknown,Profit
+1059,07/11/2026,C391,Smartwatch,Electronics,Delhi,3,49845,7937,Repeat Customer,November,Profit
+1060,04/06/2026,C468,Jeans,Apparel,Delhi,2,4854,1604,Repeat Customer,June,Profit
+1061,Invalid Date,C428,Laptop,Electronics,Kolkata,5,282480,26350,Repeat Customer,Unknown,Profit
+1062,Invalid Date,C131,Kurta,Apparel,Chennai,6,12156,3548,Repeat Customer,Unknown,Profit
+1063,Invalid Date,C238,Desk,Furniture,Delhi,3,41760,9671,Repeat Customer,Unknown,Profit
+1064,Invalid Date,C068,Smartwatch,Electronics,Pune,1,9788,2025,Repeat Customer,Unknown,Profit
+1065,06/07/2026,C472,Laptop,Electronics,Bangalore,2,147182,13313,Repeat Customer,July,Profit
+1066,06/12/2026,C306,Skincare Set,Beauty,Kolkata,6,5562,1935,Repeat Customer,December,Profit
+1067,Invalid Date,C120,Kurta,Apparel,Kolkata,4,6540,1699,Repeat Customer,Unknown,Profit
+1068,Invalid Date,C341,Bookshelf,Furniture,Chennai,3,21198,4980,Repeat Customer,Unknown,Profit
+1069,Invalid Date,C309,Desk,Furniture,Pune,4,23368,5328,Repeat Customer,Unknown,Profit
+1070,Invalid Date,C187,Blender,Home,Pune,5,21320,0,Repeat Customer,Unknown,Break-even
+1071,Invalid Date,C056,Makeup Kit,Beauty,Hyderabad,1,4056,1369,Repeat Customer,Unknown,Profit
+1072,01/02/2026,C341,Skincare Set,Beauty,Chennai,4,,3748,Repeat Customer,February,Profit
+1073,01/05/2026,C262,Smartwatch,Electronics,Pune,3,,4206,Repeat Customer,May,Profit
+1074,Invalid Date,C391,Bookshelf,Furniture,Kolkata,4,39248,7973,Repeat Customer,Unknown,Profit
+1075,02/07/2026,C262,Kurta,Apparel,Pune,3,3159,842,Repeat Customer,July,Profit
+1076,Invalid Date,C428,Smartwatch,Electronics,Pune,1,8804,1707,Repeat Customer,Unknown,Profit
+1077,Invalid Date,C272,Jeans,Apparel,Hyderabad,3,,795,Repeat Customer,Unknown,Profit
+1078,07/01/2026,C275,Phone,Electronics,Chennai,5,,31818,Repeat Customer,January,Profit
+1079,06/04/2026,C442,Shoes,Apparel,Kolkata,3,9951,2959,Repeat Customer,April,Profit
+1080,07/09/2026,C212,Microwave,Home,Hyderabad,3,30246,5502,Repeat Customer,September,Profit
+1081,Invalid Date,C070,Headphones,Electronics,Hyderabad,5,22320,4037,Repeat Customer,Unknown,Profit
+1082,06/06/2026,C012,Phone,Electronics,Hyderabad,5,102940,9187,Repeat Customer,June,Profit
+1083,06/04/2026,C389,Jeans,Apparel,Mumbai,3,8163,2199,Repeat Customer,April,Profit
+1084,Invalid Date,C310,Vacuum Cleaner,Home,Chennai,5,,5716,Repeat Customer,Unknown,Profit
+1085,02/05/2026,C363,Phone,Electronics,Chennai,2,74614,7647,Repeat Customer,May,Profit
+1086,Invalid Date,C114,Cookware Set,Home,Delhi,1,4096,786,Repeat Customer,Unknown,Profit
+1087,05/10/2026,C070,Cookware Set,Home,Kolkata,3,33550,6424,Repeat Customer,October,Profit
+1088,04/01/2026,C008,Laptop,Electronics,Chennai,1,76659,7849,New Customer,January,Profit
+1089,Invalid Date,C183,Speaker,Electronics,Pune,4,,8139,Repeat Customer,Unknown,Profit
+1090,Invalid Date,C294,Vacuum Cleaner,Home,Mumbai,1,14743,2505,Repeat Customer,Unknown,Profit
+1091,06/07/2026,C204,T-Shirt,Apparel,Delhi,2,1716,446,Repeat Customer,July,Profit
+1092,Invalid Date,C229,Phone,Electronics,Delhi,4,143236,17903,Repeat Customer,Unknown,Profit
+1093,Invalid Date,C447,Jeans,Apparel,Bangalore,1,1363,395,Repeat Customer,Unknown,Profit
+1094,08/06/2026,C183,Perfume,Beauty,Chennai,2,,1408,Repeat Customer,June,Profit
+1095,Invalid Date,C259,Perfume,Beauty,Hyderabad,3,16101,6416,Repeat Customer,Unknown,Profit
+1096,02/03/2026,C396,Makeup Kit,Beauty,Chennai,4,17488,5465,Repeat Customer,March,Profit
+1097,Invalid Date,C205,Phone,Electronics,Pune,2,63862,6345,Repeat Customer,Unknown,Profit
+1098,Invalid Date,C312,Vacuum Cleaner,Home,Mumbai,5,32630,6850,New Customer,Unknown,Profit
+1099,06/05/2026,C436,Vacuum Cleaner,Home,Delhi,6,77628,18361,Repeat Customer,May,Profit
+1100,Invalid Date,C470,Bookshelf,Furniture,Hyderabad,3,,8663,Repeat Customer,Unknown,Profit
+1101,Invalid Date,C071,Speaker,Electronics,Pune,5,35615,5739,New Customer,Unknown,Profit
+1102,05/10/2026,C462,Vacuum Cleaner,Home,Hyderabad,5,20665,4018,Repeat Customer,October,Profit
+1103,05/02/2026,C249,Cookware Set,Home,Hyderabad,2,,1360,Repeat Customer,February,Profit
+1104,Invalid Date,C137,Shoes,Apparel,Mumbai,5,18045,5757,Repeat Customer,Unknown,Profit
+1105,08/04/2026,C241,Sofa,Furniture,Pune,6,213714,39156,Repeat Customer,April,Profit
+1106,Invalid Date,C476,Chair,Furniture,Delhi,6,23400,5037,Repeat Customer,Unknown,Profit
+1107,Invalid Date,C249,Skincare Set,Beauty,Chennai,3,4527,1599,Repeat Customer,Unknown,Profit
+1108,Invalid Date,C171,Sofa,Furniture,Pune,2,75234,12954,Repeat Customer,Unknown,Profit
+1109,Invalid Date,C315,Sofa,Furniture,Hyderabad,4,145976,26791,Repeat Customer,Unknown,Profit
+1110,Invalid Date,C127,Tablet,Electronics,Chennai,4,73176,7921,Repeat Customer,Unknown,Profit
+1111,08/12/2026,C042,Headphones,Electronics,Hyderabad,5,37755,9199,Repeat Customer,December,Profit
+1112,03/07/2026,C068,Laptop,Electronics,Bangalore,1,56957,7936,Repeat Customer,July,Profit
+1113,01/02/2026,C068,Bookshelf,Furniture,Pune,6,61218,14011,Repeat Customer,February,Profit
+1114,Invalid Date,C075,Table,Furniture,Bangalore,6,92316,21444,Repeat Customer,Unknown,Profit
+1115,08/12/2026,C070,Desk,Furniture,Kolkata,2,25668,6155,Repeat Customer,December,Profit
+1116,05/11/2026,C322,Shoes,Apparel,Hyderabad,5,9595,2636,Repeat Customer,November,Profit
+1117,Invalid Date,C093,Smartwatch,Electronics,Kolkata,5,24455,4819,Repeat Customer,Unknown,Profit
+1118,08/12/2026,C183,Jacket,Apparel,Delhi,2,9298,2920,Repeat Customer,December,Profit
+1119,Invalid Date,Unknown Customer,Desk,Furniture,Delhi,5,57195,13625,Unknown Customer,Unknown,Profit
+1120,Invalid Date,C246,Makeup Kit,Beauty,Pune,6,16302,6416,Repeat Customer,Unknown,Profit
+1121,Invalid Date,C338,Phone,Electronics,Mumbai,3,82038,10163,Repeat Customer,Unknown,Profit
+1122,08/06/2026,C089,Makeup Kit,Beauty,Mumbai,4,13104,5205,Repeat Customer,June,Profit
+1123,03/10/2026,C102,Smartwatch,Electronics,Pune,1,,3122,Repeat Customer,October,Profit
+1124,03/04/2026,C022,Phone,Electronics,Pune,5,297340,27658,New Customer,April,Profit
+1125,Invalid Date,C087,Kurta,Apparel,Mumbai,3,4137,1302,Repeat Customer,Unknown,Profit
+1126,Invalid Date,C142,Chair,Furniture,Hyderabad,3,22596,5114,New Customer,Unknown,Profit
+1127,Invalid Date,C090,Makeup Kit,Beauty,Chennai,6,25536,8018,Repeat Customer,Unknown,Profit
+1128,07/04/2026,C050,Vacuum Cleaner,Home,Mumbai,2,8298,1630,Repeat Customer,April,Profit
+1129,Invalid Date,C062,Laptop,Electronics,Kolkata,6,379308,51049,Repeat Customer,Unknown,Profit
+1130,08/08/2026,C242,Perfume,Beauty,Unknown Region,1,1459,493,Repeat Customer,August,Profit
+1131,07/12/2026,C112,Phone,Electronics,Mumbai,6,294864,24412,Repeat Customer,December,Profit
+1132,Invalid Date,C192,Headphones,Electronics,Bangalore,2,12284,2320,Repeat Customer,Unknown,Profit
+1133,Invalid Date,C254,Cookware Set,Home,Pune,5,26245,5409,New Customer,Unknown,Profit
+1134,Invalid Date,C356,Perfume,Beauty,Delhi,2,8624,3133,New Customer,Unknown,Profit
+1135,Invalid Date,C021,Tablet,Electronics,Delhi,5,90245,13272,Repeat Customer,Unknown,Profit
+1136,04/12/2026,C402,Sofa,Furniture,Bangalore,1,20479,3675,Repeat Customer,December,Profit
+1137,Invalid Date,C314,Bookshelf,Furniture,Chennai,6,71880,14666,Repeat Customer,Unknown,Profit
+1138,Invalid Date,C044,Kurta,Apparel,Bangalore,5,5045,1536,Repeat Customer,Unknown,Profit
+1139,04/03/2026,C442,Smartwatch,Electronics,Hyderabad,3,24150,4956,Repeat Customer,March,Profit
+1140,Invalid Date,C454,Cookware Set,Home,Hyderabad,1,8299,1935,Repeat Customer,Unknown,Profit
+1141,07/06/2026,C035,Shoes,Apparel,Kolkata,5,14050,3640,Repeat Customer,June,Profit
+1142,07/09/2026,C141,Jeans,Apparel,Pune,4,8904,2616,Repeat Customer,September,Profit
+1143,Invalid Date,C406,Speaker,Electronics,Bangalore,4,23192,0,Repeat Customer,Unknown,Break-even
+1144,Invalid Date,C385,Headphones,Electronics,Kolkata,5,15155,2571,Repeat Customer,Unknown,Profit
+1145,Invalid Date,C095,Perfume,Beauty,Pune,5,9470,3137,Repeat Customer,Unknown,Profit
+1146,05/06/2026,C113,Speaker,Electronics,Kolkata,3,12894,2694,Repeat Customer,June,Profit
+1147,Invalid Date,C193,Jacket,Apparel,Mumbai,1,4759,1328,Repeat Customer,Unknown,Profit
+1148,Invalid Date,C248,Blender,Home,Pune,6,19842,4745,Repeat Customer,Unknown,Profit
+1149,Invalid Date,C309,Makeup Kit,Beauty,Kolkata,6,20994,6646,Repeat Customer,Unknown,Profit
+1150,Invalid Date,C193,Shoes,Apparel,Hyderabad,2,8742,2790,Repeat Customer,Unknown,Profit
+1151,Invalid Date,C242,Unknown Product,Apparel,Chennai,1,1425,395,Repeat Customer,Unknown,Profit
+1152,Invalid Date,C385,Blender,Home,Chennai,4,19512,3541,Repeat Customer,Unknown,Profit
+1153,Invalid Date,C018,Speaker,Electronics,Chennai,4,,4541,Repeat Customer,Unknown,Profit
+1154,02/03/2026,C135,Perfume,Beauty,Pune,6,11682,3505,Repeat Customer,March,Profit
+1155,Invalid Date,C366,Headphones,Electronics,Hyderabad,1,4066,731,New Customer,Unknown,Profit
+1156,06/03/2026,C447,Smartwatch,Electronics,Chennai,4,40472,6355,Repeat Customer,March,Profit
+1157,Invalid Date,C257,Perfume,Beauty,Delhi,6,22026,7944,Repeat Customer,Unknown,Profit
+1158,05/10/2026,C262,Desk,Furniture,Bangalore,5,,13954,Repeat Customer,October,Profit
+1159,Invalid Date,C054,T-Shirt,Apparel,Chennai,1,955,297,Repeat Customer,Unknown,Profit
+1160,Invalid Date,C235,T-Shirt,Apparel,Hyderabad,2,,245,Repeat Customer,Unknown,Profit
+1161,Invalid Date,C262,Makeup Kit,Beauty,Bangalore,2,8142,2661,Repeat Customer,Unknown,Profit
+1162,02/08/2026,C128,Microwave,Home,Unknown Region,3,0,3618,Repeat Customer,August,Profit
+1163,01/12/2026,C140,Phone,Electronics,Kolkata,6,329832,32754,Repeat Customer,December,Profit
+1164,07/07/2026,C197,Jeans,Apparel,Pune,3,6420,1898,Repeat Customer,July,Profit
+1165,03/02/2026,C010,Chair,Furniture,Mumbai,3,12780,2654,Repeat Customer,February,Profit
+1166,Invalid Date,C166,Smartwatch,Electronics,Hyderabad,1,10584,1972,Repeat Customer,Unknown,Profit
+1167,Invalid Date,C113,Sofa,Furniture,Bangalore,4,151844,26244,Repeat Customer,Unknown,Profit
+1168,Invalid Date,C170,Camera,Electronics,Chennai,3,83574,12407,Repeat Customer,Unknown,Profit
+1169,06/11/2026,C061,Speaker,Electronics,Delhi,4,44432,7441,Repeat Customer,November,Profit
+1170,Invalid Date,C446,Microwave,Home,Bangalore,1,5357,813,Repeat Customer,Unknown,Profit
+1171,Invalid Date,C297,Laptop,Electronics,Chennai,2,116392,10618,Repeat Customer,Unknown,Profit
+1172,06/02/2026,C347,Vacuum Cleaner,Home,Pune,6,102852,16617,Repeat Customer,February,Profit
+1173,Invalid Date,C397,Table,Furniture,Delhi,4,58696,13307,Repeat Customer,Unknown,Profit
+1174,Invalid Date,C251,Desk,Furniture,Pune,2,15770,3239,Repeat Customer,Unknown,Profit
+1175,01/06/2026,Unknown Customer,Sofa,Furniture,Mumbai,1,16840,2783,Unknown Customer,June,Profit
+1176,Invalid Date,C265,Smartwatch,Electronics,Pune,5,74780,13172,Repeat Customer,Unknown,Profit
+1177,08/06/2026,C293,Blender,Home,Hyderabad,5,0,5035,Repeat Customer,June,Profit
+1178,07/06/2026,C384,Phone,Electronics,Mumbai,5,132380,11417,Repeat Customer,June,Profit
+1179,08/10/2026,C227,Table,Furniture,Mumbai,1,11742,-506,Repeat Customer,October,Loss
+1180,Invalid Date,C067,Chair,Furniture,Mumbai,1,5415,1087,Repeat Customer,Unknown,Profit
+1181,Invalid Date,C147,Vacuum Cleaner,Home,Mumbai,4,26292,4903,New Customer,Unknown,Profit
+1182,Invalid Date,C190,Desk,Furniture,Delhi,3,44499,8355,New Customer,Unknown,Profit
+1183,Invalid Date,C325,Kurta,Apparel,Bangalore,1,1139,314,Repeat Customer,Unknown,Profit
+1184,Invalid Date,C280,Shoes,Apparel,Chennai,6,29334,7144,Repeat Customer,Unknown,Profit
+1185,04/12/2026,C186,Speaker,Electronics,Mumbai,2,5398,1183,Repeat Customer,December,Profit
+1186,Invalid Date,C476,Shoes,Apparel,Chennai,1,5813,1522,Repeat Customer,Unknown,Profit
+1187,03/10/2026,C306,Table,Furniture,Chennai,5,79885,15479,Repeat Customer,October,Profit
+1188,Invalid Date,C124,Sofa,Furniture,Bangalore,4,172488,27059,Repeat Customer,Unknown,Profit
+1189,Invalid Date,C053,Jacket,Apparel,Pune,3,14586,4800,Repeat Customer,Unknown,Profit
+1190,Invalid Date,C075,Desk,Furniture,Hyderabad,3,37815,8728,Repeat Customer,Unknown,Profit
+1191,01/03/2026,C130,Headphones,Electronics,Bangalore,3,,394,Repeat Customer,March,Profit
+1192,06/09/2026,C081,Speaker,Electronics,Kolkata,2,12270,2650,Repeat Customer,September,Profit
+1193,Invalid Date,C096,Shoes,Apparel,Hyderabad,3,16797,4718,Repeat Customer,Unknown,Profit
+1194,Invalid Date,C148,Chair,Furniture,Delhi,5,,7397,Repeat Customer,Unknown,Profit
+1195,Invalid Date,C089,Skincare Set,Beauty,Kolkata,4,14204,4687,Repeat Customer,Unknown,Profit
+1196,05/09/2026,C447,Chair,Furniture,Bangalore,3,19332,3992,Repeat Customer,September,Profit
+1197,Invalid Date,C044,Shoes,Apparel,Bangalore,2,,1080,Repeat Customer,Unknown,Profit
+1197,Invalid Date,C044,Shoes,Apparel,Bangalore,2,,1080,Repeat Customer,Unknown,Profit
+1198,04/06/2026,C262,Table,Furniture,Mumbai,2,30882,6768,Repeat Customer,June,Profit
+1199,Invalid Date,C217,Shoes,Apparel,Mumbai,3,3038,934,New Customer,Unknown,Profit
+1200,07/02/2026,C476,Smartwatch,Electronics,Bangalore,4,,9544,Repeat Customer,February,Profit
+1201,Invalid Date,C056,Vacuum Cleaner,Home,Bangalore,5,23980,3928,Repeat Customer,Unknown,Profit
+1202,Invalid Date,C207,Skincare Set,Beauty,Delhi,3,10050,3152,Repeat Customer,Unknown,Profit
+1203,Invalid Date,C476,T-Shirt,Apparel,Bangalore,5,4040,1288,Repeat Customer,Unknown,Profit
+1204,08/07/2026,C438,Table,Furniture,Hyderabad,3,,5823,Repeat Customer,July,Profit
+1205,Invalid Date,C412,Bookshelf,Furniture,Bangalore,5,30985,5807,Repeat Customer,Unknown,Profit
+1206,02/03/2026,C137,Makeup Kit,Beauty,Delhi,2,2848,1022,Repeat Customer,March,Profit
+1207,Invalid Date,C088,T-Shirt,Apparel,Chennai,3,2910,932,Repeat Customer,Unknown,Profit
+1208,Invalid Date,C338,Jacket,Apparel,Bangalore,6,18456,6139,Repeat Customer,Unknown,Profit
+1209,Invalid Date,C463,Phone,Electronics,Kolkata,6,220884,20785,Repeat Customer,Unknown,Profit
+1210,05/02/2026,C274,Headphones,Electronics,Pune,5,33610,6750,Repeat Customer,February,Profit
+1211,Invalid Date,C280,Jeans,Apparel,Delhi,6,102480,29259,Repeat Customer,Unknown,Profit
+1212,05/10/2026,C143,Camera,Electronics,Delhi,4,136512,20051,Repeat Customer,October,Profit
+1213,04/09/2026,C391,Shoes,Apparel,Hyderabad,4,23172,6275,Repeat Customer,September,Profit
+1214,06/11/2026,C096,Perfume,Beauty,Pune,4,16032,5535,Repeat Customer,November,Profit
+1215,Invalid Date,C166,Perfume,Beauty,Bangalore,6,13716,5006,Repeat Customer,Unknown,Profit
+1216,Invalid Date,C227,Blender,Home,Bangalore,4,19240,3242,Repeat Customer,Unknown,Profit
+1217,04/10/2026,C257,Phone,Electronics,Bangalore,1,52377,6514,Repeat Customer,October,Profit
+1218,Invalid Date,C128,Skincare Set,Beauty,Bangalore,1,853,273,Repeat Customer,Unknown,Profit
+1219,02/09/2026,C056,Sofa,Furniture,Chennai,6,104640,16969,Repeat Customer,September,Profit
+1220,Invalid Date,C306,Cookware Set,Home,Delhi,6,42258,8624,Repeat Customer,Unknown,Profit
+1221,06/09/2026,C151,Chair,Furniture,Mumbai,3,17865,4573,Repeat Customer,September,Profit
+1222,Invalid Date,C287,Bookshelf,Furniture,Chennai,1,7161,1703,Repeat Customer,Unknown,Profit
+1223,07/11/2026,C076,Blender,Home,Kolkata,3,2363,524,Repeat Customer,November,Profit
+1224,01/02/2026,C248,Perfume,Beauty,Bangalore,1,1644,534,Repeat Customer,February,Profit
+1225,02/04/2026,C262,Makeup Kit,Beauty,Kolkata,1,2465,765,Repeat Customer,April,Profit
+1226,Invalid Date,C031,Blender,Home,Bangalore,2,5440,0,Repeat Customer,Unknown,Break-even
+1227,07/12/2026,C177,Camera,Electronics,Hyderabad,6,255204,39387,Repeat Customer,December,Profit
+1228,Invalid Date,C070,Jeans,Apparel,Hyderabad,3,,869,Repeat Customer,Unknown,Profit
+1229,Invalid Date,C035,Microwave,Home,Mumbai,3,30546,4585,Repeat Customer,Unknown,Profit
+1230,Invalid Date,C478,Blender,Home,Delhi,5,,2098,New Customer,Unknown,Profit
+1231,Invalid Date,C166,Camera,Electronics,Delhi,5,276840,40560,Repeat Customer,Unknown,Profit
+1232,04/05/2026,C407,Cookware Set,Home,Hyderabad,5,15745,3059,Repeat Customer,May,Profit
+1233,04/07/2026,C135,Shoes,Apparel,Pune,4,18896,4232,Repeat Customer,July,Profit
+1234,02/08/2026,C350,Headphones,Electronics,Kolkata,2,11460,2655,Repeat Customer,August,Profit
+1235,06/11/2026,C391,Perfume,Beauty,Pune,2,,3419,Repeat Customer,November,Profit
+1236,Invalid Date,C298,Smartwatch,Electronics,Delhi,2,39858,7650,Repeat Customer,Unknown,Profit
+1237,Invalid Date,C244,Smartwatch,Electronics,Pune,2,39476,7922,Repeat Customer,Unknown,Profit
+1238,Invalid Date,C218,Speaker,Electronics,Chennai,5,0,2470,Repeat Customer,Unknown,Profit
+1239,Invalid Date,C183,Phone,Electronics,Hyderabad,2,87192,8969,Repeat Customer,Unknown,Profit
+1240,Invalid Date,C463,Table,Furniture,Mumbai,3,15469,3427,Repeat Customer,Unknown,Profit
+1241,07/11/2026,C414,Skincare Set,Beauty,Chennai,4,12244,4263,Repeat Customer,November,Profit
+1242,03/09/2026,C474,Speaker,Electronics,Delhi,4,30176,5823,Repeat Customer,September,Profit
+1243,Invalid Date,C064,Phone,Electronics,Hyderabad,4,0,20306,Repeat Customer,Unknown,Profit
+1244,07/08/2026,Unknown Customer,Cookware Set,Home,Kolkata,2,14078,2574,Unknown Customer,August,Profit
+1245,Invalid Date,C465,Blender,Home,Bangalore,5,19435,4607,Repeat Customer,Unknown,Profit
+1246,Invalid Date,C093,Shoes,Apparel,Bangalore,5,15245,4826,Repeat Customer,Unknown,Profit
+1247,Invalid Date,C035,Chair,Furniture,Hyderabad,3,19134,-1338,Repeat Customer,Unknown,Loss
+1248,Invalid Date,C382,Makeup Kit,Beauty,Hyderabad,2,6086,1968,Repeat Customer,Unknown,Profit
+1248,Invalid Date,C382,Makeup Kit,Beauty,Hyderabad,2,6086,1968,Repeat Customer,Unknown,Profit
+1249,Invalid Date,C281,Blender,Home,Delhi,3,12126,2811,Repeat Customer,Unknown,Profit
+1250,Invalid Date,C421,Blender,Home,Delhi,4,17244,3389,Repeat Customer,Unknown,Profit
+1251,Invalid Date,C070,Jacket,Apparel,Kolkata,2,7084,2067,Repeat Customer,Unknown,Profit
+1252,Invalid Date,C401,Kurta,Apparel,Mumbai,6,5436,1364,Repeat Customer,Unknown,Profit
+1253,Invalid Date,C108,Phone,Electronics,Mumbai,4,213112,26569,Repeat Customer,Unknown,Profit
+1254,Invalid Date,C082,Speaker,Electronics,Pune,3,31089,6266,Repeat Customer,Unknown,Profit
+1255,08/07/2026,C082,Headphones,Electronics,Mumbai,3,12285,2715,Repeat Customer,July,Profit
+1256,02/09/2026,C409,Skincare Set,Beauty,Bangalore,6,23220,7353,Repeat Customer,September,Profit
+1257,Invalid Date,C337,Kurta,Apparel,Bangalore,6,7086,1861,Repeat Customer,Unknown,Profit
+1258,03/08/2026,C262,Perfume,Beauty,Kolkata,5,24700,8980,Repeat Customer,August,Profit
+1259,Invalid Date,C187,Shoes,Apparel,Pune,2,7634,2087,Repeat Customer,Unknown,Profit
+1260,Invalid Date,C442,Kurta,Apparel,Mumbai,6,11532,3319,Repeat Customer,Unknown,Profit
+1261,Invalid Date,C204,Headphones,Electronics,Mumbai,1,6717,1311,Repeat Customer,Unknown,Profit
+1262,05/01/2026,C412,Smartwatch,Electronics,Delhi,3,,10361,Repeat Customer,January,Profit
+1263,04/10/2026,C230,Table,Furniture,Pune,1,,1896,Repeat Customer,October,Profit
+1264,02/12/2026,C197,Bookshelf,Furniture,Mumbai,1,10100,2238,Repeat Customer,December,Profit
+1265,Invalid Date,C242,Kurta,Apparel,Pune,1,1790,532,Repeat Customer,Unknown,Profit
+1266,Invalid Date,C155,Blender,Home,Pune,4,9812,2008,Repeat Customer,Unknown,Profit
+1267,01/01/2026,C385,Perfume,Beauty,Chennai,2,11306,4219,Repeat Customer,January,Profit
+1268,Invalid Date,C253,Makeup Kit,Beauty,Mumbai,5,22545,8161,Repeat Customer,Unknown,Profit
+1269,06/05/2026,C122,Shoes,Apparel,Hyderabad,2,4926,1183,Repeat Customer,May,Profit
+1270,Invalid Date,C447,Camera,Electronics,Hyderabad,1,50674,5251,Repeat Customer,Unknown,Profit
+1271,Invalid Date,C199,Shoes,Apparel,Delhi,2,10710,2563,Repeat Customer,Unknown,Profit
+1272,07/05/2026,C268,Speaker,Electronics,Pune,4,41072,6615,Repeat Customer,May,Profit
+1273,Invalid Date,C447,Blender,Home,Mumbai,5,22745,5389,Repeat Customer,Unknown,Profit
+1274,Invalid Date,C314,Perfume,Beauty,Pune,5,26940,10576,Repeat Customer,Unknown,Profit
+1275,Invalid Date,C057,Headphones,Electronics,Hyderabad,4,11664,2798,New Customer,Unknown,Profit
+1276,Invalid Date,C466,T-Shirt,Apparel,Pune,2,2130,660,New Customer,Unknown,Profit
+1277,02/03/2026,C314,Jeans,Apparel,Pune,5,,1629,Repeat Customer,March,Profit
+1278,Invalid Date,C177,Camera,Electronics,Chennai,5,164255,26252,Repeat Customer,Unknown,Profit
+1279,03/04/2026,C070,Laptop,Electronics,Pune,3,226152,28985,Repeat Customer,April,Profit
+1280,01/05/2026,C400,Sofa,Furniture,Delhi,1,24998,3789,Repeat Customer,May,Profit
+1281,Invalid Date,C310,Shoes,Apparel,Delhi,1,3326,963,Repeat Customer,Unknown,Profit
+1282,05/06/2026,C262,Chair,Furniture,Chennai,6,,5007,Repeat Customer,June,Profit
+1283,02/08/2026,C446,Desk,Furniture,Hyderabad,6,,15422,Repeat Customer,August,Profit
+1284,02/05/2026,C397,Smartwatch,Electronics,Delhi,5,52260,9934,Repeat Customer,May,Profit
+1285,Invalid Date,C075,Shoes,Apparel,Mumbai,2,11254,2833,Repeat Customer,Unknown,Profit
+1286,02/04/2026,C158,Vacuum Cleaner,Home,Hyderabad,2,,1863,Repeat Customer,April,Profit
+1287,Invalid Date,C132,Perfume,Beauty,Hyderabad,4,20900,6612,Repeat Customer,Unknown,Profit
+1288,01/10/2026,C384,Cookware Set,Home,Chennai,4,16084,3893,Repeat Customer,October,Profit
+1289,Invalid Date,C015,Phone,Electronics,Mumbai,4,58288,6468,Repeat Customer,Unknown,Profit
+1290,Invalid Date,C280,Jeans,Apparel,Pune,1,2850,934,Repeat Customer,Unknown,Profit
+1291,Invalid Date,C391,Vacuum Cleaner,Home,Hyderabad,6,96078,16249,Repeat Customer,Unknown,Profit
+1292,01/04/2026,C442,Skincare Set,Beauty,Pune,2,3064,0,Repeat Customer,April,Break-even
+1293,Invalid Date,C179,Blender,Home,Pune,3,9896,2105,Repeat Customer,Unknown,Profit
+1294,Invalid Date,C412,Phone,Electronics,Mumbai,6,299310,29304,Repeat Customer,Unknown,Profit
+1295,Invalid Date,C055,Desk,Furniture,Delhi,3,30867,6491,Repeat Customer,Unknown,Profit
+1296,Invalid Date,C424,Microwave,Home,Hyderabad,5,32180,5834,Repeat Customer,Unknown,Profit
+1297,Invalid Date,C067,Jacket,Apparel,Chennai,5,12265,-262,Repeat Customer,Unknown,Loss
+1298,Invalid Date,C206,Perfume,Beauty,Bangalore,1,3721,1320,Repeat Customer,Unknown,Profit
+1299,01/05/2026,C402,Phone,Electronics,Hyderabad,2,106208,14010,Repeat Customer,May,Profit
+1300,03/11/2026,C074,Desk,Furniture,Delhi,3,16530,3471,Repeat Customer,November,Profit
+1301,05/04/2026,C121,Chair,Furniture,Bangalore,3,14310,2776,Repeat Customer,April,Profit
+1302,08/12/2026,C368,Bookshelf,Furniture,Mumbai,1,10734,2375,Repeat Customer,December,Profit
+1303,Invalid Date,C367,Phone,Electronics,Delhi,6,194868,24457,Repeat Customer,Unknown,Profit
+1304,Invalid Date,C322,Shoes,Apparel,Delhi,3,16500,3863,Repeat Customer,Unknown,Profit
+1305,Invalid Date,C358,Headphones,Electronics,Chennai,6,38298,8155,Repeat Customer,Unknown,Profit
+1306,05/05/2026,C267,Perfume,Beauty,Chennai,3,15036,5935,Repeat Customer,May,Profit
+1307,Invalid Date,C135,Desk,Furniture,Chennai,2,19248,4395,Repeat Customer,Unknown,Profit
+1308,05/05/2026,C183,Speaker,Electronics,Chennai,3,,3106,Repeat Customer,May,Profit
+1309,Invalid Date,C093,Bookshelf,Furniture,Kolkata,4,,4625,Repeat Customer,Unknown,Profit
+1310,Invalid Date,C448,Laptop,Electronics,Pune,2,129372,13376,Repeat Customer,Unknown,Profit
+1311,04/11/2026,C289,Cookware Set,Home,Kolkata,2,17966,3764,Repeat Customer,November,Profit
+1312,02/06/2026,C210,Kurta,Apparel,Chennai,2,3912,0,Repeat Customer,June,Break-even
+1313,06/04/2026,C242,T-Shirt,Apparel,Mumbai,6,6750,1995,Repeat Customer,April,Profit
+1314,08/08/2026,C470,Makeup Kit,Beauty,Mumbai,3,,2877,Repeat Customer,August,Profit
+1315,Invalid Date,C075,Jeans,Apparel,Kolkata,5,5810,1818,Repeat Customer,Unknown,Profit
+1316,07/08/2026,C291,Makeup Kit,Beauty,Bangalore,3,6552,2420,New Customer,August,Profit
+1317,Invalid Date,C256,Headphones,Electronics,Mumbai,3,10692,1904,Repeat Customer,Unknown,Profit
+1318,Invalid Date,C306,Shoes,Apparel,Pune,1,2188,661,Repeat Customer,Unknown,Profit
+1319,Invalid Date,C009,Tablet,Electronics,Delhi,4,122420,0,Repeat Customer,Unknown,Break-even
+1320,07/11/2026,C442,Shoes,Apparel,Hyderabad,1,5352,1689,Repeat Customer,November,Profit
+1321,Invalid Date,C465,Camera,Electronics,Kolkata,6,190746,-4592,Repeat Customer,Unknown,Loss
+1322,Invalid Date,C277,Camera,Electronics,Kolkata,6,167172,22782,Repeat Customer,Unknown,Profit
+1323,Invalid Date,C359,Table,Furniture,Pune,6,111678,22401,Repeat Customer,Unknown,Profit
+1324,01/01/2026,C456,Jacket,Apparel,Delhi,4,,2495,Repeat Customer,January,Profit
+1325,Invalid Date,C365,Table,Furniture,Mumbai,4,616560,145883,Repeat Customer,Unknown,Profit
+1326,04/09/2026,C075,Desk,Furniture,Bangalore,4,23616,6062,Repeat Customer,September,Profit
+1327,Invalid Date,C281,Kurta,Apparel,Delhi,3,,1499,Repeat Customer,Unknown,Profit
+1328,07/08/2026,C306,Laptop,Electronics,Delhi,3,259881,27113,Repeat Customer,August,Profit
+1329,Invalid Date,C226,Jacket,Apparel,Kolkata,6,24942,6665,Repeat Customer,Unknown,Profit
+1330,Invalid Date,C379,Camera,Electronics,Chennai,6,386754,41478,Repeat Customer,Unknown,Profit
+1331,06/01/2026,C465,Blender,Home,Mumbai,5,0,1859,Repeat Customer,January,Profit
+1332,Invalid Date,C460,Jacket,Apparel,Hyderabad,2,,2431,Repeat Customer,Unknown,Profit
+1333,05/08/2026,C238,Tablet,Electronics,Kolkata,5,134290,21379,Repeat Customer,August,Profit
+1334,Invalid Date,C056,Phone,Electronics,Delhi,3,77205,7724,Repeat Customer,Unknown,Profit
+1335,Invalid Date,C476,Microwave,Home,Bangalore,6,62016,9092,Repeat Customer,Unknown,Profit
+1336,Invalid Date,C420,Kurta,Apparel,Bangalore,6,5982,2079,Repeat Customer,Unknown,Profit
+1337,Invalid Date,C064,Vacuum Cleaner,Home,Kolkata,5,65280,10896,Repeat Customer,Unknown,Profit
+1338,Invalid Date,C454,Microwave,Home,Mumbai,1,11844,1686,Repeat Customer,Unknown,Profit
+1339,Invalid Date,C442,T-Shirt,Apparel,Mumbai,3,1632,422,Repeat Customer,Unknown,Profit
+1340,Invalid Date,C262,Vacuum Cleaner,Home,Chennai,1,14277,3304,Repeat Customer,Unknown,Profit
+1341,Invalid Date,C295,Shoes,Apparel,Hyderabad,1,1909,508,New Customer,Unknown,Profit
+1342,Invalid Date,C208,Microwave,Home,Pune,2,17386,3370,Repeat Customer,Unknown,Profit
+1343,02/07/2026,C034,Cookware Set,Home,Bangalore,6,,12971,Repeat Customer,July,Profit
+1344,Invalid Date,C177,Shoes,Apparel,Hyderabad,3,4412,1209,Repeat Customer,Unknown,Profit
+1345,08/05/2026,C404,Vacuum Cleaner,Home,Hyderabad,4,54884,11109,Repeat Customer,May,Profit
+1346,Invalid Date,C002,Jeans,Apparel,Mumbai,2,5984,2078,Repeat Customer,Unknown,Profit
+1347,Invalid Date,C175,Skincare Set,Beauty,Bangalore,2,4654,1850,Repeat Customer,Unknown,Profit
+1348,06/08/2026,C207,Perfume,Beauty,Bangalore,3,17697,6724,Repeat Customer,August,Profit
+1349,Invalid Date,C265,Headphones,Electronics,Bangalore,6,,3201,Repeat Customer,Unknown,Profit
+1350,Invalid Date,C454,Phone,Electronics,Hyderabad,2,117842,12040,Repeat Customer,Unknown,Profit
+1351,Invalid Date,C183,Makeup Kit,Beauty,Chennai,4,6284,2260,Repeat Customer,Unknown,Profit
+1352,Invalid Date,C183,Perfume,Beauty,Kolkata,2,5664,1915,Repeat Customer,Unknown,Profit
+1353,08/11/2026,C379,Vacuum Cleaner,Home,Chennai,6,52278,10421,Repeat Customer,November,Profit
+1354,Invalid Date,C239,Perfume,Beauty,Pune,5,29560,9635,Repeat Customer,Unknown,Profit
+1355,04/01/2026,C119,Headphones,Electronics,Kolkata,6,18006,3779,Repeat Customer,January,Profit
+1356,Invalid Date,C239,Shoes,Apparel,Bangalore,4,17500,5443,Repeat Customer,Unknown,Profit
+1357,07/10/2026,C070,T-Shirt,Apparel,Chennai,1,1138,286,Repeat Customer,October,Profit
+1358,06/01/2026,C090,Perfume,Beauty,Mumbai,3,6678,2658,Repeat Customer,January,Profit
+1359,Invalid Date,C251,Table,Furniture,Delhi,6,37008,8977,Repeat Customer,Unknown,Profit
+1360,05/10/2026,C221,Makeup Kit,Beauty,Kolkata,5,6395,2288,Repeat Customer,October,Profit
+1361,Invalid Date,C452,Perfume,Beauty,Kolkata,6,12474,4184,Repeat Customer,Unknown,Profit
+1362,Invalid Date,C189,Headphones,Electronics,Bangalore,4,15292,3419,Repeat Customer,Unknown,Profit
+1363,Invalid Date,C286,Skincare Set,Beauty,Chennai,4,10376,3814,New Customer,Unknown,Profit
+1364,Invalid Date,C315,Tablet,Electronics,Mumbai,6,188124,26865,Repeat Customer,Unknown,Profit
+1365,Invalid Date,C007,Tablet,Electronics,Bangalore,2,71180,7244,Repeat Customer,Unknown,Profit
+1366,08/07/2026,C336,Jacket,Apparel,Pune,3,12633,3795,Repeat Customer,July,Profit
+1367,02/10/2026,C092,Phone,Electronics,Mumbai,3,174816,18502,Repeat Customer,October,Profit
+1368,Invalid Date,C472,Jacket,Apparel,Kolkata,5,,7425,Repeat Customer,Unknown,Profit
+1369,05/12/2026,C074,T-Shirt,Apparel,Bangalore,2,,311,Repeat Customer,December,Profit
+1370,Invalid Date,C219,Perfume,Beauty,Chennai,3,12882,4279,Repeat Customer,Unknown,Profit
+1371,Invalid Date,C047,Headphones,Electronics,Pune,2,7708,1385,Repeat Customer,Unknown,Profit
+1372,Invalid Date,C479,Headphones,Electronics,Hyderabad,5,,4035,Repeat Customer,Unknown,Profit
+1373,08/05/2026,C253,Makeup Kit,Beauty,Chennai,6,19092,7355,Repeat Customer,May,Profit
+1374,Invalid Date,C298,Headphones,Electronics,Hyderabad,4,14744,3164,Repeat Customer,Unknown,Profit
+1375,Invalid Date,C035,Camera,Electronics,Mumbai,1,36934,4308,Repeat Customer,Unknown,Profit
+1376,Invalid Date,C386,Desk,Furniture,Hyderabad,1,11502,2736,Repeat Customer,Unknown,Profit
+1377,Invalid Date,C113,Bookshelf,Furniture,Bangalore,6,43164,10338,Repeat Customer,Unknown,Profit
+1378,Invalid Date,C447,T-Shirt,Apparel,Chennai,3,3600,952,Repeat Customer,Unknown,Profit
+1379,Invalid Date,C110,Kurta,Apparel,Bangalore,6,8058,2566,Repeat Customer,Unknown,Profit
+1380,02/11/2026,C100,Speaker,Electronics,Chennai,6,51936,8786,New Customer,November,Profit
+1381,02/10/2026,C018,Desk,Furniture,Chennai,5,51765,9430,Repeat Customer,October,Profit
+1382,04/11/2026,C245,Vacuum Cleaner,Home,Pune,5,76175,17912,New Customer,November,Profit
+1383,Invalid Date,C277,Microwave,Home,Mumbai,3,5376,961,Repeat Customer,Unknown,Profit
+1384,Invalid Date,C035,Microwave,Home,Delhi,3,60645,11868,Repeat Customer,Unknown,Profit
+1385,Invalid Date,C392,Sofa,Furniture,Hyderabad,4,83640,0,Repeat Customer,Unknown,Break-even
+1386,Invalid Date,C240,Camera,Electronics,Hyderabad,4,272964,28492,New Customer,Unknown,Profit
+1387,02/06/2026,C262,Cookware Set,Home,Chennai,4,29992,7721,Repeat Customer,June,Profit
+1388,02/08/2026,C231,Smartwatch,Electronics,Chennai,3,44445,7546,Repeat Customer,August,Profit
+1389,Invalid Date,C210,Vacuum Cleaner,Home,Pune,2,12870,2247,Repeat Customer,Unknown,Profit
+1390,Invalid Date,C274,Smartwatch,Electronics,Delhi,2,24618,3982,Repeat Customer,Unknown,Profit
+1391,03/10/2026,C076,Tablet,Electronics,Bangalore,3,37325,4005,Repeat Customer,October,Profit
+1391,03/10/2026,C076,Tablet,Electronics,Bangalore,3,37325,4005,Repeat Customer,October,Profit
+1392,06/04/2026,C093,Phone,Electronics,Hyderabad,4,133172,18642,Repeat Customer,April,Profit
+1393,Invalid Date,C436,Speaker,Electronics,Mumbai,4,13844,2278,Repeat Customer,Unknown,Profit
+1394,Invalid Date,C470,Skincare Set,Beauty,Delhi,5,8090,3143,Repeat Customer,Unknown,Profit
+1395,Invalid Date,C194,Vacuum Cleaner,Home,Hyderabad,4,50552,10210,Repeat Customer,Unknown,Profit
+1396,04/11/2026,C141,Phone,Electronics,Kolkata,4,156268,18697,Repeat Customer,November,Profit
+1397,Invalid Date,C324,Perfume,Beauty,Bangalore,6,29562,10198,Repeat Customer,Unknown,Profit
+1397,Invalid Date,C324,Perfume,Beauty,Bangalore,6,29562,10198,Repeat Customer,Unknown,Profit
+1398,Invalid Date,C215,Tablet,Electronics,Delhi,4,120312,18302,Repeat Customer,Unknown,Profit
+1399,01/06/2026,C012,Camera,Electronics,Delhi,6,194010,21836,Repeat Customer,June,Profit
+1400,05/07/2026,C077,Makeup Kit,Beauty,Hyderabad,4,11724,4044,Repeat Customer,July,Profit
+1401,Invalid Date,C367,Blender,Home,Bangalore,4,13964,3043,Repeat Customer,Unknown,Profit
+1402,Invalid Date,C331,Jacket,Apparel,Kolkata,3,10008,2522,Repeat Customer,Unknown,Profit
+1403,02/10/2026,C012,Makeup Kit,Beauty,Hyderabad,4,,6445,Repeat Customer,October,Profit
+1404,Invalid Date,C117,T-Shirt,Apparel,Chennai,2,,438,Repeat Customer,Unknown,Profit
+1405,Invalid Date,C121,Bookshelf,Furniture,Pune,1,10308,2076,Repeat Customer,Unknown,Profit
+1406,02/09/2026,C341,Cookware Set,Home,Pune,1,8747,1929,Repeat Customer,September,Profit
+1407,07/12/2026,C010,Smartwatch,Electronics,Delhi,4,66492,10004,Repeat Customer,December,Profit
+1408,Invalid Date,C053,Chair,Furniture,Mumbai,4,25412,6509,Repeat Customer,Unknown,Profit
+1409,07/04/2026,C403,Phone,Electronics,Chennai,6,324234,37116,Repeat Customer,April,Profit
+1410,Invalid Date,C092,Laptop,Electronics,Pune,5,375015,45758,Repeat Customer,Unknown,Profit
+1411,03/08/2026,C326,Blender,Home,Bangalore,6,,5481,Repeat Customer,August,Profit
+1412,Invalid Date,C126,Makeup Kit,Beauty,Chennai,1,3998,1348,Repeat Customer,Unknown,Profit
+1413,04/03/2026,C052,Perfume,Beauty,Hyderabad,5,15575,5115,Repeat Customer,March,Profit
+1414,Invalid Date,C128,T-Shirt,Apparel,Pune,1,363,95,Repeat Customer,Unknown,Profit
+1415,Invalid Date,C368,Makeup Kit,Beauty,Chennai,2,6142,2279,Repeat Customer,Unknown,Profit
+1416,Invalid Date,C431,Tablet,Electronics,Bangalore,1,,3929,Repeat Customer,Unknown,Profit
+1417,Invalid Date,C414,Laptop,Electronics,Delhi,1,37928,4338,Repeat Customer,Unknown,Profit
+1418,06/11/2026,C205,Makeup Kit,Beauty,Bangalore,5,,6301,Repeat Customer,November,Profit
+1419,01/05/2026,C338,Blender,Home,Hyderabad,5,9240,1935,Repeat Customer,May,Profit
+1420,Invalid Date,C110,Perfume,Beauty,Pune,4,7572,2731,Repeat Customer,Unknown,Profit
+1421,04/07/2026,C154,Sofa,Furniture,Mumbai,1,20053,3579,Repeat Customer,July,Profit
+1422,01/05/2026,C447,Phone,Electronics,Mumbai,5,,27853,Repeat Customer,May,Profit
+1423,Invalid Date,C007,Skincare Set,Beauty,Delhi,5,17340,5730,Repeat Customer,Unknown,Profit
+1424,Invalid Date,C048,Phone,Electronics,Delhi,5,154780,13936,Repeat Customer,Unknown,Profit
+1425,07/01/2026,C113,Microwave,Home,Delhi,4,28056,5148,Repeat Customer,January,Profit
+1426,Invalid Date,Unknown Customer,Bookshelf,Furniture,Bangalore,5,33450,7872,Unknown Customer,Unknown,Profit
+1427,Invalid Date,C093,Vacuum Cleaner,Home,Delhi,6,,12754,Repeat Customer,Unknown,Profit
+1428,Invalid Date,C288,Table,Furniture,Hyderabad,3,27411,6279,Repeat Customer,Unknown,Profit
+1429,Invalid Date,C223,Tablet,Electronics,Pune,5,155935,17406,Repeat Customer,Unknown,Profit
+1430,03/12/2026,C446,Camera,Electronics,Pune,6,386496,44514,Repeat Customer,December,Profit
+1431,Invalid Date,C412,Jacket,Apparel,Unknown Region,1,4454,1237,Repeat Customer,Unknown,Profit
+1432,Invalid Date,C179,Chair,Furniture,Mumbai,3,10542,1979,Repeat Customer,Unknown,Profit
+1433,Invalid Date,C138,Chair,Furniture,Delhi,5,,7581,Repeat Customer,Unknown,Profit
+1434,06/08/2026,C198,T-Shirt,Apparel,Delhi,1,872,292,Repeat Customer,August,Profit
+1435,07/05/2026,C294,Skincare Set,Beauty,Pune,3,2918,931,Repeat Customer,May,Profit
+1436,Invalid Date,C140,Smartwatch,Electronics,Pune,2,26424,4912,Repeat Customer,Unknown,Profit
+1437,Invalid Date,C314,Phone,Electronics,Mumbai,5,77890,7144,Repeat Customer,Unknown,Profit
+1438,Invalid Date,C216,Sofa,Furniture,Chennai,1,29886,6387,Repeat Customer,Unknown,Profit
+1439,Invalid Date,C272,Speaker,Electronics,Pune,3,,986,Repeat Customer,Unknown,Profit
+1440,Invalid Date,C229,Blender,Home,Mumbai,1,2221,517,Repeat Customer,Unknown,Profit
+1441,Invalid Date,C155,Cookware Set,Home,Chennai,1,2970,754,Repeat Customer,Unknown,Profit
+1442,Invalid Date,C470,Smartwatch,Electronics,Bangalore,6,,15314,Repeat Customer,Unknown,Profit
+1443,03/02/2026,C391,Shoes,Apparel,Chennai,6,24372,6539,Repeat Customer,February,Profit
+1444,Invalid Date,C070,Kurta,Apparel,Kolkata,3,3363,885,Repeat Customer,Unknown,Profit
+1445,Invalid Date,C440,Laptop,Electronics,Mumbai,3,231879,31092,Repeat Customer,Unknown,Profit
+1446,Invalid Date,C249,Sofa,Furniture,Hyderabad,6,0,51088,Repeat Customer,Unknown,Profit
+1447,Invalid Date,C447,Microwave,Home,Pune,4,53596,10563,Repeat Customer,Unknown,Profit
+1448,Invalid Date,C403,Camera,Electronics,Chennai,6,0,36097,Repeat Customer,Unknown,Profit
+1449,04/08/2026,C227,Kurta,Apparel,Pune,5,6065,1530,Repeat Customer,August,Profit
+1450,04/09/2026,C012,Blender,Home,Chennai,1,2846,558,Repeat Customer,September,Profit
+1451,02/03/2026,C140,Skincare Set,Beauty,Kolkata,1,,732,Repeat Customer,March,Profit
+1452,Invalid Date,C267,Perfume,Beauty,Hyderabad,5,29555,10602,Repeat Customer,Unknown,Profit
+1453,Invalid Date,C315,Microwave,Home,Delhi,3,37428,7132,Repeat Customer,Unknown,Profit
+1454,04/05/2026,C137,Kurta,Apparel,Hyderabad,2,4826,1338,Repeat Customer,May,Profit
+1455,02/04/2026,C070,Bookshelf,Furniture,Chennai,3,17094,0,Repeat Customer,April,Break-even
+1456,Invalid Date,C418,Jacket,Apparel,Chennai,5,20955,7229,New Customer,Unknown,Profit
+1457,Invalid Date,C476,Table,Furniture,Mumbai,2,19098,4801,Repeat Customer,Unknown,Profit
+1457,Invalid Date,C476,Table,Furniture,Mumbai,2,19098,4801,Repeat Customer,Unknown,Profit
+1458,Invalid Date,C262,Kurta,Apparel,Pune,2,2734,738,Repeat Customer,Unknown,Profit
+1459,04/10/2026,C088,T-Shirt,Apparel,Kolkata,3,1890,508,Repeat Customer,October,Profit
+1460,Invalid Date,C141,Skincare Set,Beauty,Pune,5,11555,4489,Repeat Customer,Unknown,Profit
+1461,03/01/2026,C010,Perfume,Beauty,Chennai,6,13728,4990,Repeat Customer,January,Profit
+1462,07/05/2026,C452,Laptop,Electronics,Mumbai,3,84737,8349,Repeat Customer,May,Profit
+1463,Invalid Date,C058,Makeup Kit,Beauty,Bangalore,3,10908,3315,Repeat Customer,Unknown,Profit
+1464,Invalid Date,C282,Perfume,Beauty,Hyderabad,4,,-1579,Repeat Customer,Unknown,Loss
+1465,02/12/2026,C141,Makeup Kit,Beauty,Chennai,6,,3447,Repeat Customer,December,Profit
+1466,Invalid Date,C273,Cookware Set,Home,Hyderabad,2,17428,3809,Repeat Customer,Unknown,Profit
+1467,05/06/2026,C325,Cookware Set,Home,Chennai,2,15712,3022,Repeat Customer,June,Profit
+1468,04/09/2026,C414,Headphones,Electronics,Chennai,1,4652,773,Repeat Customer,September,Profit
+1469,Invalid Date,C112,Chair,Furniture,Chennai,3,24504,4466,Repeat Customer,Unknown,Profit
+1470,07/06/2026,C004,Kurta,Apparel,Chennai,1,1661,560,Repeat Customer,June,Profit
+1471,07/07/2026,C070,Unknown Product,Home,Pune,2,18814,3683,Repeat Customer,July,Profit
+1472,06/09/2026,C447,Speaker,Electronics,Hyderabad,4,19924,3142,Repeat Customer,September,Profit
+1473,Invalid Date,C442,Headphones,Electronics,Bangalore,1,3767,576,Repeat Customer,Unknown,Profit
+1473,Invalid Date,C442,Headphones,Electronics,Bangalore,1,3767,576,Repeat Customer,Unknown,Profit
+1474,04/02/2026,C300,Cookware Set,Home,Kolkata,3,17940,3712,New Customer,February,Profit
+1475,05/12/2026,C303,Laptop,Electronics,Chennai,4,330112,44730,Repeat Customer,December,Profit
+1476,05/02/2026,C337,Vacuum Cleaner,Home,Pune,6,59406,14112,Repeat Customer,February,Profit
+1477,Invalid Date,C089,Tablet,Electronics,Hyderabad,5,106960,16278,Repeat Customer,Unknown,Profit
+1478,03/07/2026,C452,Tablet,Electronics,Chennai,2,45948,6671,Repeat Customer,July,Profit
+1479,04/08/2026,C221,Skincare Set,Beauty,Delhi,5,16975,5246,Repeat Customer,August,Profit
+1480,Invalid Date,C199,T-Shirt,Apparel,Pune,3,1254,327,Repeat Customer,Unknown,Profit
+1481,05/08/2026,C262,Kurta,Apparel,Chennai,3,6699,2208,Repeat Customer,August,Profit
+1482,Invalid Date,C027,Sofa,Furniture,Mumbai,6,96750,16604,New Customer,Unknown,Profit
+1483,Invalid Date,C084,Camera,Electronics,Pune,2,131802,20480,New Customer,Unknown,Profit
+1484,Invalid Date,C379,Kurta,Apparel,Chennai,6,,2421,Repeat Customer,Unknown,Profit
+1485,08/04/2026,Unknown Customer,Perfume,Beauty,Chennai,2,5836,2187,Unknown Customer,April,Profit
+1486,Invalid Date,C305,Desk,Furniture,Chennai,1,6922,1605,Repeat Customer,Unknown,Profit
+1487,05/03/2026,Unknown Customer,Skincare Set,Beauty,Hyderabad,4,13852,5031,Unknown Customer,March,Profit
+1488,Invalid Date,C201,Microwave,Home,Mumbai,6,72630,10713,Repeat Customer,Unknown,Profit
+1489,Invalid Date,C151,Microwave,Home,Kolkata,6,42198,6432,Repeat Customer,Unknown,Profit
+1490,Invalid Date,C186,Phone,Electronics,Unknown Region,5,157835,17782,Repeat Customer,Unknown,Profit
+1491,04/02/2026,C367,Bookshelf,Furniture,Kolkata,3,26895,5292,Repeat Customer,February,Profit
+1492,Invalid Date,C155,T-Shirt,Apparel,Delhi,3,2070,551,Repeat Customer,Unknown,Profit
+1493,Invalid Date,C278,Skincare Set,Beauty,Hyderabad,5,7355,2319,Repeat Customer,Unknown,Profit
+1494,Invalid Date,C246,Table,Furniture,Mumbai,2,20966,4406,Repeat Customer,Unknown,Profit
+1495,03/08/2026,C336,Sofa,Furniture,Kolkata,1,44378,7644,Repeat Customer,August,Profit
+1496,03/12/2026,C465,Smartwatch,Electronics,Hyderabad,4,47044,9445,Repeat Customer,December,Profit
+1497,05/07/2026,C377,Perfume,Beauty,Pune,6,,3907,Repeat Customer,July,Profit
+1498,07/11/2026,C115,T-Shirt,Apparel,Hyderabad,6,2634,794,Repeat Customer,November,Profit
+1499,Invalid Date,C013,Skincare Set,Beauty,Pune,5,18005,6495,Repeat Customer,Unknown,Profit
+1500,05/12/2026,C140,Tablet,Electronics,Bangalore,2,65330,9895,Repeat Customer,December,Profit
+1501,Invalid Date,C298,Jeans,Apparel,Kolkata,1,0,668,Repeat Customer,Unknown,Profit
+1502,01/02/2026,C031,Tablet,Electronics,Chennai,3,67224,8232,Repeat Customer,February,Profit
+1503,07/02/2026,C250,Camera,Electronics,Delhi,1,28760,4159,Repeat Customer,February,Profit
+1504,06/02/2026,C299,Kurta,Apparel,Kolkata,6,,3672,Repeat Customer,February,Profit
+1505,Invalid Date,C176,Sofa,Furniture,Bangalore,4,92472,18591,Repeat Customer,Unknown,Profit
+1506,06/12/2026,C391,Speaker,Electronics,Mumbai,5,,3532,Repeat Customer,December,Profit
+1507,Invalid Date,C054,T-Shirt,Apparel,Chennai,4,,1001,Repeat Customer,Unknown,Profit
+1508,03/02/2026,C041,Tablet,Electronics,Chennai,4,107652,11485,New Customer,February,Profit
+1509,07/05/2026,C373,Kurta,Apparel,Delhi,2,,989,Repeat Customer,May,Profit
+1510,05/04/2026,C250,Blender,Home,Hyderabad,2,4570,991,Repeat Customer,April,Profit
+1511,Invalid Date,C353,Shoes,Apparel,Pune,3,5908,1871,Repeat Customer,Unknown,Profit
+1512,Invalid Date,C229,Kurta,Apparel,Kolkata,4,7372,1978,Repeat Customer,Unknown,Profit
+1513,Invalid Date,C130,Tablet,Electronics,Mumbai,5,114025,15778,Repeat Customer,Unknown,Profit
+1514,01/05/2026,C412,Desk,Furniture,Bangalore,6,83994,16016,Repeat Customer,May,Profit
+1515,Invalid Date,C402,Microwave,Home,Delhi,6,67548,10499,Repeat Customer,Unknown,Profit
+1516,06/05/2026,C359,Desk,Furniture,Mumbai,1,13125,2556,Repeat Customer,May,Profit
+1517,03/05/2026,C141,T-Shirt,Apparel,Mumbai,6,4272,1293,Repeat Customer,May,Profit
+1518,Invalid Date,C294,Vacuum Cleaner,Home,Kolkata,3,16970,3714,Repeat Customer,Unknown,Profit
+1519,Invalid Date,C188,Blender,Home,Delhi,3,1682,309,Repeat Customer,Unknown,Profit
+1520,Invalid Date,C051,Perfume,Beauty,Pune,4,,3339,Repeat Customer,Unknown,Profit
+1521,Invalid Date,C454,Skincare Set,Beauty,Chennai,6,21684,8278,Repeat Customer,Unknown,Profit
+1522,06/04/2026,C070,Smartwatch,Electronics,Chennai,4,20820,3745,Repeat Customer,April,Profit
+1523,04/03/2026,C470,Vacuum Cleaner,Home,Mumbai,5,60720,12108,Repeat Customer,March,Profit
+1524,Invalid Date,C234,Laptop,Electronics,Bangalore,2,84438,8524,Repeat Customer,Unknown,Profit
+1525,Invalid Date,C095,Tablet,Electronics,Hyderabad,4,,24644,Repeat Customer,Unknown,Profit
+1526,Invalid Date,C267,T-Shirt,Apparel,Mumbai,4,0,1284,Repeat Customer,Unknown,Profit
+1527,Invalid Date,C442,Shoes,Apparel,Mumbai,3,18884,5720,Repeat Customer,Unknown,Profit
+1528,Invalid Date,C377,Kurta,Apparel,Mumbai,5,9195,3049,Repeat Customer,Unknown,Profit
+1529,Invalid Date,C406,Bookshelf,Furniture,Delhi,2,,3322,Repeat Customer,Unknown,Profit
+1530,Invalid Date,C331,Headphones,Electronics,Bangalore,3,22971,4360,Repeat Customer,Unknown,Profit
+1531,05/09/2026,C357,Kurta,Apparel,Chennai,1,1194,379,Repeat Customer,September,Profit
+1532,02/09/2026,C427,Vacuum Cleaner,Home,Kolkata,3,33993,6360,New Customer,September,Profit
+1533,07/01/2026,C134,Tablet,Electronics,Pune,3,98784,14604,New Customer,January,Profit
+1534,06/09/2026,C249,Jacket,Apparel,Bangalore,4,16652,5728,Repeat Customer,September,Profit
+1535,Invalid Date,C117,Skincare Set,Beauty,Chennai,3,10785,4289,Repeat Customer,Unknown,Profit
+1536,05/05/2026,C476,Headphones,Electronics,Bangalore,6,35298,6935,Repeat Customer,May,Profit
+1537,Invalid Date,C468,Tablet,Electronics,Bangalore,5,100515,10929,Repeat Customer,Unknown,Profit
+1538,Invalid Date,C021,Skincare Set,Beauty,Chennai,6,9126,2801,Repeat Customer,Unknown,Profit
+1539,Invalid Date,C364,Sofa,Furniture,Mumbai,4,0,24405,Repeat Customer,Unknown,Profit
+1540,08/08/2026,C460,Smartwatch,Electronics,Bangalore,6,80226,17068,Repeat Customer,August,Profit
+1541,Invalid Date,C093,Microwave,Home,Delhi,6,,8369,Repeat Customer,Unknown,Profit
+1542,04/08/2026,C279,Tablet,Electronics,Hyderabad,4,114268,13841,New Customer,August,Profit
+1543,Invalid Date,C452,Skincare Set,Beauty,Chennai,6,20046,7829,Repeat Customer,Unknown,Profit
+1544,Invalid Date,C015,Microwave,Home,Pune,3,35673,6657,Repeat Customer,Unknown,Profit
+1544,Invalid Date,C015,Microwave,Home,Pune,3,35673,6657,Repeat Customer,Unknown,Profit
+1545,Invalid Date,C359,Desk,Furniture,Pune,3,,5663,Repeat Customer,Unknown,Profit
+1546,Invalid Date,C155,Bookshelf,Furniture,Bangalore,5,37610,9698,Repeat Customer,Unknown,Profit
+1547,Invalid Date,C458,Chair,Furniture,Delhi,2,,3224,New Customer,Unknown,Profit
+1548,Invalid Date,C476,Headphones,Electronics,Kolkata,6,45084,8808,Repeat Customer,Unknown,Profit
+1549,Invalid Date,C468,Headphones,Electronics,Mumbai,6,37476,6037,Repeat Customer,Unknown,Profit
+1550,Invalid Date,C246,Headphones,Electronics,Chennai,1,3222,604,Repeat Customer,Unknown,Profit
+1551,Invalid Date,C436,Cookware Set,Home,Kolkata,2,12548,3188,Repeat Customer,Unknown,Profit
+1552,Invalid Date,C422,Smartwatch,Electronics,Bangalore,2,12026,2268,Repeat Customer,Unknown,Profit
+1553,Invalid Date,C163,Microwave,Home,Bangalore,2,25984,4333,Repeat Customer,Unknown,Profit
+1554,04/06/2026,C413,Shoes,Apparel,Bangalore,3,17841,5075,Repeat Customer,June,Profit
+1555,Invalid Date,C019,Laptop,Electronics,Bangalore,6,339312,38697,New Customer,Unknown,Profit
+1556,01/06/2026,C299,Vacuum Cleaner,Home,Chennai,4,36824,6475,Repeat Customer,June,Profit
+1557,07/12/2026,C121,Microwave,Home,Delhi,3,21441,3519,Repeat Customer,December,Profit
+1558,Invalid Date,C062,Bookshelf,Furniture,Chennai,4,,0,Repeat Customer,Unknown,Break-even
+1559,04/08/2026,C043,Chair,Furniture,Mumbai,6,36126,-2214,Repeat Customer,August,Loss
+1560,Invalid Date,C359,Smartwatch,Electronics,Kolkata,2,26926,5458,Repeat Customer,Unknown,Profit
+1561,04/09/2026,C179,Headphones,Electronics,Bangalore,6,13068,3052,Repeat Customer,September,Profit
+1562,05/12/2026,C368,Camera,Electronics,Pune,5,268400,39086,Repeat Customer,December,Profit
+1563,04/01/2026,C035,Headphones,Electronics,Bangalore,6,24096,5005,Repeat Customer,January,Profit
+1564,Invalid Date,C161,Headphones,Electronics,Bangalore,2,9502,1907,Repeat Customer,Unknown,Profit
+1565,07/07/2026,C266,Tablet,Electronics,Hyderabad,2,37278,3846,Repeat Customer,July,Profit
+1566,Invalid Date,Unknown Customer,Jacket,Apparel,Mumbai,2,5846,1874,Unknown Customer,Unknown,Profit
+1567,05/01/2026,C163,Jeans,Apparel,Mumbai,6,16458,0,Repeat Customer,January,Break-even
+1568,Invalid Date,C314,Microwave,Home,Hyderabad,2,27212,5042,Repeat Customer,Unknown,Profit
+1569,Invalid Date,C445,Perfume,Beauty,Bangalore,6,31002,11426,Repeat Customer,Unknown,Profit
+1570,Invalid Date,C307,Camera,Electronics,Chennai,3,183249,28211,Repeat Customer,Unknown,Profit
+1571,Invalid Date,C122,Perfume,Beauty,Bangalore,1,4750,1694,Repeat Customer,Unknown,Profit
+1572,Invalid Date,C012,Sofa,Furniture,Delhi,1,0,5072,Repeat Customer,Unknown,Profit
+1573,Invalid Date,C442,Blender,Home,Mumbai,6,15648,3421,Repeat Customer,Unknown,Profit
+1574,Invalid Date,C012,Sofa,Furniture,Kolkata,5,,25264,Repeat Customer,Unknown,Profit
+1575,Invalid Date,C442,T-Shirt,Apparel,Delhi,4,4040,1387,Repeat Customer,Unknown,Profit
+1576,Invalid Date,C262,Chair,Furniture,Kolkata,2,16172,3642,Repeat Customer,Unknown,Profit
+1577,Invalid Date,C465,Tablet,Electronics,Bangalore,3,100584,12057,Repeat Customer,Unknown,Profit
+1578,04/11/2026,C402,Smartwatch,Electronics,Bangalore,6,19266,3730,Repeat Customer,November,Profit
+1579,05/11/2026,C479,Kurta,Apparel,Chennai,2,4646,1282,Repeat Customer,November,Profit
+1580,01/03/2026,C184,Jacket,Apparel,Chennai,6,,3428,Repeat Customer,March,Profit
+1581,Invalid Date,C391,Vacuum Cleaner,Home,Hyderabad,1,9811,1937,Repeat Customer,Unknown,Profit
+1582,07/01/2026,C211,Vacuum Cleaner,Home,Hyderabad,4,62868,10763,Repeat Customer,January,Profit
+1583,Invalid Date,C248,Shoes,Apparel,Bangalore,3,17469,4451,Repeat Customer,Unknown,Profit
+1584,Invalid Date,C314,Makeup Kit,Beauty,Pune,2,7964,2991,Repeat Customer,Unknown,Profit
+1585,Invalid Date,C442,Kurta,Apparel,Mumbai,5,8695,2393,Repeat Customer,Unknown,Profit
+1586,08/07/2026,C476,Smartwatch,Electronics,Delhi,4,21432,4238,Repeat Customer,July,Profit
+1587,Invalid Date,C391,T-Shirt,Apparel,Hyderabad,1,882,289,Repeat Customer,Unknown,Profit
+1588,Invalid Date,C220,Speaker,Electronics,Bangalore,5,29775,6408,Repeat Customer,Unknown,Profit
+1589,Invalid Date,C223,Phone,Electronics,Mumbai,6,201606,24152,Repeat Customer,Unknown,Profit
+1590,Invalid Date,C379,Headphones,Electronics,Kolkata,2,7432,1192,Repeat Customer,Unknown,Profit
+1591,Invalid Date,C126,Kurta,Apparel,Hyderabad,1,1731,499,Repeat Customer,Unknown,Profit
+1592,01/12/2026,C055,Chair,Furniture,Delhi,2,,3205,Repeat Customer,December,Profit
+1593,04/04/2026,C185,Chair,Furniture,Bangalore,4,27684,6437,Repeat Customer,April,Profit
+1594,07/09/2026,C151,Vacuum Cleaner,Home,Mumbai,3,27672,5542,Repeat Customer,September,Profit
+1595,06/06/2026,C155,Makeup Kit,Beauty,Pune,1,1962,716,Repeat Customer,June,Profit
+1596,03/09/2026,C122,Kurta,Apparel,Chennai,2,2042,645,Repeat Customer,September,Profit
+1597,Invalid Date,C024,Laptop,Electronics,Bangalore,5,317235,40275,Repeat Customer,Unknown,Profit
+1598,06/07/2026,C009,Shoes,Apparel,Bangalore,4,19312,6034,Repeat Customer,July,Profit
+1599,Invalid Date,C476,Table,Furniture,Pune,5,31010,6991,Repeat Customer,Unknown,Profit
+1600,Invalid Date,C227,Headphones,Electronics,Bangalore,5,20360,3950,Repeat Customer,Unknown,Profit
+1601,Invalid Date,C199,Jeans,Apparel,Kolkata,5,8665,2785,Repeat Customer,Unknown,Profit
+1602,01/08/2026,C348,Camera,Electronics,Bangalore,6,283560,35611,New Customer,August,Profit
+1603,Invalid Date,C116,Smartwatch,Electronics,Kolkata,3,,1844,Repeat Customer,Unknown,Profit
+1604,Invalid Date,C470,Chair,Furniture,Kolkata,5,40815,8711,Repeat Customer,Unknown,Profit
+1605,Invalid Date,C397,Desk,Furniture,Mumbai,6,41340,8912,Repeat Customer,Unknown,Profit
+1606,Invalid Date,C051,Smartwatch,Electronics,Kolkata,4,30104,6192,Repeat Customer,Unknown,Profit
+1607,Invalid Date,C220,Table,Furniture,Pune,4,72680,18137,Repeat Customer,Unknown,Profit
+1608,Invalid Date,C442,Tablet,Electronics,Bangalore,3,103143,10981,Repeat Customer,Unknown,Profit
+1609,Invalid Date,C468,Microwave,Home,Pune,1,7494,1316,Repeat Customer,Unknown,Profit
+1610,Invalid Date,C243,Shoes,Apparel,Kolkata,4,13344,3360,Repeat Customer,Unknown,Profit
+1611,06/03/2026,C306,Sofa,Furniture,Bangalore,2,88022,18990,Repeat Customer,March,Profit
+1612,08/05/2026,C085,Blender,Home,Kolkata,1,3500,567,Repeat Customer,May,Profit
+1613,Invalid Date,C479,Jacket,Apparel,Bangalore,2,5280,1381,Repeat Customer,Unknown,Profit
+1614,03/09/2026,C122,Phone,Electronics,Chennai,6,276978,36141,Repeat Customer,September,Profit
+1615,06/07/2026,C468,Speaker,Electronics,Hyderabad,2,10506,1641,Repeat Customer,July,Profit
+1616,Invalid Date,C325,Vacuum Cleaner,Home,Bangalore,6,41700,9476,Repeat Customer,Unknown,Profit
+1617,01/08/2026,C306,Jeans,Apparel,Bangalore,4,5096,1761,Repeat Customer,August,Profit
+1618,Invalid Date,C258,T-Shirt,Apparel,Delhi,3,1701,495,Repeat Customer,Unknown,Profit
+1619,Invalid Date,C121,Camera,Electronics,Pune,5,300130,40907,Repeat Customer,Unknown,Profit
+1620,Invalid Date,C090,Speaker,Electronics,Pune,6,34542,5571,Repeat Customer,Unknown,Profit
+1621,07/07/2026,C117,Sofa,Furniture,Delhi,6,,28069,Repeat Customer,July,Profit
+1622,Invalid Date,C096,Blender,Home,Kolkata,1,4514,863,Repeat Customer,Unknown,Profit
+1623,01/07/2026,C395,Headphones,Electronics,Mumbai,5,18905,4551,Repeat Customer,July,Profit
+1624,07/05/2026,C183,Desk,Furniture,Chennai,6,60534,14817,Repeat Customer,May,Profit
+1625,Invalid Date,C034,Phone,Electronics,Pune,4,129644,16861,Repeat Customer,Unknown,Profit
+1626,Invalid Date,C476,Jacket,Apparel,Kolkata,6,27012,7036,Repeat Customer,Unknown,Profit
+1627,Invalid Date,C443,Shoes,Apparel,Chennai,5,22125,5524,Repeat Customer,Unknown,Profit
+1628,Invalid Date,C462,Perfume,Beauty,Bangalore,3,,5983,Repeat Customer,Unknown,Profit
+1628,Invalid Date,C462,Perfume,Beauty,Bangalore,3,,5983,Repeat Customer,Unknown,Profit
+1629,08/11/2026,C479,Perfume,Beauty,Mumbai,1,,1734,Repeat Customer,November,Profit
+1630,Invalid Date,C089,Desk,Furniture,Kolkata,3,42579,9910,Repeat Customer,Unknown,Profit
+1631,Invalid Date,C205,Cookware Set,Home,Bangalore,6,42270,9209,Repeat Customer,Unknown,Profit
+1632,02/12/2026,C390,Jeans,Apparel,Chennai,3,6117,1601,Repeat Customer,December,Profit
+1633,Invalid Date,C359,Perfume,Beauty,Mumbai,5,24085,9125,Repeat Customer,Unknown,Profit
+1634,Invalid Date,C076,Camera,Electronics,Chennai,6,,15109,Repeat Customer,Unknown,Profit
+1635,01/10/2026,C411,Perfume,Beauty,Hyderabad,6,10008,3826,Repeat Customer,October,Profit
+1636,Invalid Date,C119,Perfume,Beauty,Mumbai,2,4556,1746,Repeat Customer,Unknown,Profit
+1637,Invalid Date,C119,Bookshelf,Furniture,Hyderabad,5,49575,10971,Repeat Customer,Unknown,Profit
+1638,Invalid Date,C265,Perfume,Beauty,Kolkata,6,7356,2619,Repeat Customer,Unknown,Profit
+1639,Invalid Date,C297,Speaker,Electronics,Pune,3,28626,5745,Repeat Customer,Unknown,Profit
+1640,01/10/2026,C285,T-Shirt,Apparel,Mumbai,3,1512,422,Repeat Customer,October,Profit
+1641,Invalid Date,C051,Smartwatch,Electronics,Kolkata,6,,21357,Repeat Customer,Unknown,Profit
+1642,Invalid Date,C442,Shoes,Apparel,Hyderabad,4,8580,2164,Repeat Customer,Unknown,Profit
+1643,Invalid Date,C140,Desk,Furniture,Bangalore,5,40250,8658,Repeat Customer,Unknown,Profit
+1644,Invalid Date,C068,Chair,Furniture,Pune,5,19415,4696,Repeat Customer,Unknown,Profit
+1645,Invalid Date,C446,Bookshelf,Furniture,Pune,1,6533,1249,Repeat Customer,Unknown,Profit
+1646,02/02/2026,C472,Skincare Set,Beauty,Kolkata,3,2460,822,Repeat Customer,February,Profit
+1647,04/03/2026,C436,Kurta,Apparel,Pune,3,6834,2304,Repeat Customer,March,Profit
+1648,03/08/2026,C407,Cookware Set,Home,Kolkata,1,7288,1603,Repeat Customer,August,Profit
+1649,Invalid Date,C328,Speaker,Electronics,Chennai,1,9617,1675,Repeat Customer,Unknown,Profit
+1650,08/11/2026,C272,T-Shirt,Apparel,Bangalore,1,918,312,Repeat Customer,November,Profit
+1651,Invalid Date,C049,Bookshelf,Furniture,Hyderabad,2,16436,3915,Repeat Customer,Unknown,Profit
+1652,02/07/2026,C215,Laptop,Electronics,Kolkata,3,175164,18708,Repeat Customer,July,Profit
+1653,Invalid Date,C194,Table,Furniture,Bangalore,6,96672,23785,Repeat Customer,Unknown,Profit
+1654,Invalid Date,C138,Makeup Kit,Beauty,Delhi,6,24408,8300,Repeat Customer,Unknown,Profit
+1655,Invalid Date,C368,Chair,Furniture,Hyderabad,3,23088,5560,Repeat Customer,Unknown,Profit
+1656,06/02/2026,C250,Skincare Set,Beauty,Mumbai,4,13012,4729,Repeat Customer,February,Profit
+1657,05/05/2026,C044,Blender,Home,Delhi,3,8754,1506,Repeat Customer,May,Profit
+1658,Invalid Date,C117,Camera,Electronics,Hyderabad,3,119775,14243,Repeat Customer,Unknown,Profit
+1659,Invalid Date,C351,Kurta,Apparel,Kolkata,5,11700,3388,Repeat Customer,Unknown,Profit
+1660,08/12/2026,C042,Bookshelf,Furniture,Pune,1,9441,2424,Repeat Customer,December,Profit
+1661,06/03/2026,C428,Blender,Home,Pune,4,16748,3895,Repeat Customer,March,Profit
+1662,07/05/2026,C250,Laptop,Electronics,Bangalore,2,144620,17507,Repeat Customer,May,Profit
+1663,Invalid Date,C248,Perfume,Beauty,Mumbai,3,5190,1664,Repeat Customer,Unknown,Profit
+1664,06/05/2026,C296,Chair,Furniture,Chennai,1,3056,716,Repeat Customer,May,Profit
+1665,03/09/2026,C413,Laptop,Electronics,Chennai,6,233508,24262,Repeat Customer,September,Profit
+1666,Invalid Date,C183,Tablet,Electronics,Hyderabad,4,146052,22605,Repeat Customer,Unknown,Profit
+1667,Invalid Date,C347,Jeans,Apparel,Hyderabad,3,2838,751,Repeat Customer,Unknown,Profit
+1668,Invalid Date,C277,Perfume,Beauty,Mumbai,3,13041,4209,Repeat Customer,Unknown,Profit
+1669,02/08/2026,C140,Smartwatch,Electronics,Kolkata,3,,9839,Repeat Customer,August,Profit
+1670,Invalid Date,C442,Tablet,Electronics,Hyderabad,4,120204,16626,Repeat Customer,Unknown,Profit
+1671,06/05/2026,C402,Blender,Home,Pune,1,4768,979,Repeat Customer,May,Profit
+1672,Invalid Date,C330,Makeup Kit,Beauty,Mumbai,1,4711,1659,Repeat Customer,Unknown,Profit
+1673,03/06/2026,C428,Jacket,Apparel,Mumbai,5,11900,-544,Repeat Customer,June,Loss
+1674,05/05/2026,C439,Jacket,Apparel,Hyderabad,5,17395,6003,Repeat Customer,May,Profit
+1675,Invalid Date,C365,Shoes,Apparel,Chennai,2,3074,883,Repeat Customer,Unknown,Profit
+1676,Invalid Date,C419,Tablet,Electronics,Hyderabad,5,109450,11960,Repeat Customer,Unknown,Profit
+1677,04/01/2026,C359,Chair,Furniture,Bangalore,3,18111,3743,Repeat Customer,January,Profit
+1678,08/08/2026,C349,Jeans,Apparel,Pune,6,9768,3142,Repeat Customer,August,Profit
+1679,Invalid Date,C309,Speaker,Electronics,Bangalore,6,70284,15320,Repeat Customer,Unknown,Profit
+1680,03/08/2026,C387,Jeans,Apparel,Bangalore,2,2206,722,New Customer,August,Profit
+1681,06/04/2026,C079,Perfume,Beauty,Delhi,1,3771,1267,Repeat Customer,April,Profit
+1682,Invalid Date,C442,Tablet,Electronics,Hyderabad,4,123744,18549,Repeat Customer,Unknown,Profit
+1683,Invalid Date,C442,Makeup Kit,Beauty,Delhi,5,,6627,Repeat Customer,Unknown,Profit
+1684,Invalid Date,C012,Makeup Kit,Beauty,Mumbai,1,,582,Repeat Customer,Unknown,Profit
+1685,01/07/2026,C413,Chair,Furniture,Kolkata,3,22083,5150,Repeat Customer,July,Profit
+1686,Invalid Date,C068,Phone,Electronics,Pune,3,49617,4908,Repeat Customer,Unknown,Profit
+1687,02/01/2026,C177,Kurta,Apparel,Delhi,6,14094,4059,Repeat Customer,January,Profit
+1688,Invalid Date,C384,Jacket,Apparel,Hyderabad,6,16782,4548,Repeat Customer,Unknown,Profit
+1689,Invalid Date,C081,Headphones,Electronics,Chennai,6,23778,5234,Repeat Customer,Unknown,Profit
+1690,Invalid Date,C412,Smartwatch,Electronics,Mumbai,1,5004,824,Repeat Customer,Unknown,Profit
+1691,01/12/2026,C415,Tablet,Electronics,Pune,4,,11929,Repeat Customer,December,Profit
+1692,01/01/2026,C257,Makeup Kit,Beauty,Kolkata,1,1061,341,Repeat Customer,January,Profit
+1693,07/10/2026,C002,Table,Furniture,Mumbai,5,59945,13995,Repeat Customer,October,Profit
+1694,02/07/2026,C151,Cookware Set,Home,Delhi,3,10536,2150,Repeat Customer,July,Profit
+1695,06/10/2026,C308,Phone,Electronics,Hyderabad,4,213640,19627,Repeat Customer,October,Profit
+1696,Invalid Date,C476,Kurta,Apparel,Chennai,4,7488,2201,Repeat Customer,Unknown,Profit
+1697,Invalid Date,C315,Bookshelf,Furniture,Pune,1,10405,2407,Repeat Customer,Unknown,Profit
+1698,Invalid Date,C138,Shoes,Apparel,Mumbai,5,12980,3738,Repeat Customer,Unknown,Profit
+1699,Invalid Date,C316,Shoes,Apparel,Mumbai,1,2356,720,Repeat Customer,Unknown,Profit
+1700,Invalid Date,C266,T-Shirt,Apparel,Chennai,2,,519,Repeat Customer,Unknown,Profit
+1701,Invalid Date,C395,Chair,Furniture,Chennai,6,38592,7543,Repeat Customer,Unknown,Profit
+1702,07/04/2026,C054,Bookshelf,Furniture,Delhi,5,32745,7915,Repeat Customer,April,Profit
+1703,08/10/2026,C391,Phone,Electronics,Chennai,3,,6141,Repeat Customer,October,Profit
+1704,01/04/2026,C266,Skincare Set,Beauty,Chennai,4,10108,3138,Repeat Customer,April,Profit
+1705,06/01/2026,C473,Chair,Furniture,Kolkata,5,32765,6170,Repeat Customer,January,Profit
+1706,Invalid Date,C179,Tablet,Electronics,Kolkata,2,53638,7646,Repeat Customer,Unknown,Profit
+1707,03/05/2026,C315,T-Shirt,Apparel,Hyderabad,2,1760,550,Repeat Customer,May,Profit
+1708,04/01/2026,C465,Bookshelf,Furniture,Chennai,6,36930,7121,Repeat Customer,January,Profit
+1709,02/10/2026,C053,Chair,Furniture,Bangalore,1,8914,1894,Repeat Customer,October,Profit
+1710,02/07/2026,C465,Tablet,Electronics,Mumbai,5,189725,22344,Repeat Customer,July,Profit
+1711,03/12/2026,C353,Kurta,Apparel,Mumbai,1,,772,Repeat Customer,December,Profit
+1712,08/06/2026,C035,Perfume,Beauty,Mumbai,2,9614,3091,Repeat Customer,June,Profit
+1713,03/05/2026,C155,Microwave,Home,Chennai,6,65778,10249,Repeat Customer,May,Profit
+1714,Invalid Date,C365,Tablet,Electronics,Pune,6,183528,19506,Repeat Customer,Unknown,Profit
+1715,07/06/2026,C035,T-Shirt,Apparel,Delhi,2,644,196,Repeat Customer,June,Profit
+1716,Invalid Date,C288,T-Shirt,Apparel,Hyderabad,2,1410,416,Repeat Customer,Unknown,Profit
+1717,05/07/2026,C183,Phone,Electronics,Hyderabad,5,99215,8359,Repeat Customer,July,Profit
+1718,Invalid Date,C311,Tablet,Electronics,Chennai,6,166170,20418,Repeat Customer,Unknown,Profit
+1719,Invalid Date,C026,Unknown Product,Home,Delhi,1,,2898,Repeat Customer,Unknown,Profit
+1720,02/08/2026,C442,Headphones,Electronics,Mumbai,5,27905,4795,Repeat Customer,August,Profit
+1721,Invalid Date,C476,Cookware Set,Home,Delhi,1,8612,2194,Repeat Customer,Unknown,Profit
+1722,Invalid Date,C476,Kurta,Apparel,Pune,1,1969,558,Repeat Customer,Unknown,Profit
+1723,Invalid Date,C386,Tablet,Electronics,Pune,6,218736,28794,Repeat Customer,Unknown,Profit
+1724,07/11/2026,C068,Jacket,Apparel,Delhi,3,11394,3291,Repeat Customer,November,Profit
+1725,Invalid Date,C390,Vacuum Cleaner,Home,Bangalore,5,22290,4106,Repeat Customer,Unknown,Profit
+1726,Invalid Date,C012,Jeans,Apparel,Mumbai,6,12666,0,Repeat Customer,Unknown,Break-even
+1727,07/08/2026,C012,Speaker,Electronics,Chennai,3,25755,4118,Repeat Customer,August,Profit
+1728,Invalid Date,C166,Laptop,Electronics,Chennai,4,212896,19452,Repeat Customer,Unknown,Profit
+1729,Invalid Date,C249,Jacket,Apparel,Delhi,3,6555,1806,Repeat Customer,Unknown,Profit
+1730,Invalid Date,C391,Jacket,Apparel,Mumbai,1,3420,893,Repeat Customer,Unknown,Profit
+1731,Invalid Date,C351,Camera,Electronics,Pune,3,68601,10764,Repeat Customer,Unknown,Profit
+1732,07/04/2026,C234,Bookshelf,Furniture,Hyderabad,1,,2756,Repeat Customer,April,Profit
+1733,05/02/2026,C141,Desk,Furniture,Delhi,1,8828,1591,Repeat Customer,February,Profit
+1734,Invalid Date,C479,Sofa,Furniture,Hyderabad,4,179304,35466,Repeat Customer,Unknown,Profit
+1735,Invalid Date,C227,Kurta,Apparel,Bangalore,3,6345,2097,Repeat Customer,Unknown,Profit
+1736,Invalid Date,C239,Jeans,Apparel,Chennai,4,9156,2898,Repeat Customer,Unknown,Profit
+1737,04/09/2026,C082,T-Shirt,Apparel,Bangalore,2,1404,366,Repeat Customer,September,Profit
+1738,05/05/2026,C400,Jeans,Apparel,Delhi,4,6020,1954,Repeat Customer,May,Profit
+1739,Invalid Date,C358,Cookware Set,Home,Kolkata,1,7539,1396,Repeat Customer,Unknown,Profit
+1740,06/10/2026,C117,Bookshelf,Furniture,Kolkata,4,31564,6123,Repeat Customer,October,Profit
+1741,Invalid Date,C045,Perfume,Beauty,Pune,1,2401,743,Repeat Customer,Unknown,Profit
+1742,07/02/2026,C349,Jacket,Apparel,Hyderabad,3,5544,1424,Repeat Customer,February,Profit
+1743,Invalid Date,C327,Desk,Furniture,Kolkata,4,,4781,Repeat Customer,Unknown,Profit
+1744,Invalid Date,C141,Jeans,Apparel,Chennai,3,8028,2274,Repeat Customer,Unknown,Profit
+1745,08/09/2026,C470,Bookshelf,Furniture,Bangalore,4,29340,5591,Repeat Customer,September,Profit
+1746,Invalid Date,C074,Smartwatch,Electronics,Pune,2,10876,1680,Repeat Customer,Unknown,Profit
+1747,07/03/2026,C227,Jeans,Apparel,Hyderabad,6,7398,1891,Repeat Customer,March,Profit
+1748,02/06/2026,C468,Shoes,Apparel,Mumbai,2,0,2413,Repeat Customer,June,Profit
+1749,07/08/2026,C221,Camera,Electronics,Hyderabad,1,32333,3856,Repeat Customer,August,Profit
+1749,07/08/2026,C221,Camera,Electronics,Hyderabad,1,32333,3856,Repeat Customer,August,Profit
+1750,Invalid Date,C320,Skincare Set,Beauty,Bangalore,2,2128,743,New Customer,Unknown,Profit
+1751,Invalid Date,C206,Desk,Furniture,Hyderabad,6,36474,8687,Repeat Customer,Unknown,Profit
+1752,04/04/2026,C141,Jeans,Apparel,Chennai,4,10796,3200,Repeat Customer,April,Profit
+1753,07/05/2026,C476,Skincare Set,Beauty,Mumbai,2,3376,1144,Repeat Customer,May,Profit
+1754,02/10/2026,C216,Speaker,Electronics,Chennai,1,7789,0,Repeat Customer,October,Break-even
+1755,Invalid Date,C446,Cookware Set,Home,Chennai,5,15300,3171,Repeat Customer,Unknown,Profit
+1756,Invalid Date,C121,Bookshelf,Furniture,Hyderabad,4,41780,8659,Repeat Customer,Unknown,Profit
+1757,03/12/2026,C114,Jacket,Apparel,Delhi,1,3073,959,Repeat Customer,December,Profit
+1758,06/02/2026,C013,Phone,Electronics,Chennai,6,73200,9478,Repeat Customer,February,Profit
+1759,Invalid Date,C326,Phone,Electronics,Hyderabad,5,225190,28698,Repeat Customer,Unknown,Profit
+1760,Invalid Date,C193,Jeans,Apparel,Hyderabad,2,5238,1365,Repeat Customer,Unknown,Profit
+1761,02/03/2026,C438,Makeup Kit,Beauty,Chennai,6,16668,5659,Repeat Customer,March,Profit
+1762,Invalid Date,C246,Smartwatch,Electronics,Mumbai,2,21400,3749,Repeat Customer,Unknown,Profit
+1763,05/09/2026,C475,Jeans,Apparel,Mumbai,3,5193,1633,Repeat Customer,September,Profit
+1764,Invalid Date,C095,Vacuum Cleaner,Home,Hyderabad,5,82710,13389,Repeat Customer,Unknown,Profit
+1765,Invalid Date,C440,Speaker,Electronics,Chennai,5,10600,2142,Repeat Customer,Unknown,Profit
+1766,Invalid Date,C393,Jeans,Apparel,Kolkata,6,17376,4699,Repeat Customer,Unknown,Profit
+1767,Invalid Date,C391,Desk,Furniture,Chennai,6,52590,13186,Repeat Customer,Unknown,Profit
+1768,Invalid Date,C423,Speaker,Electronics,Chennai,5,,6564,New Customer,Unknown,Profit
+1769,Invalid Date,C391,Speaker,Electronics,Delhi,2,10250,2069,Repeat Customer,Unknown,Profit
+1770,Invalid Date,C314,Vacuum Cleaner,Home,Hyderabad,1,11807,1995,Repeat Customer,Unknown,Profit
+1771,08/12/2026,C070,Laptop,Electronics,Delhi,4,248112,20046,Repeat Customer,December,Profit
+1772,04/06/2026,C014,Laptop,Electronics,Hyderabad,5,448740,50948,Repeat Customer,June,Profit
+1773,Invalid Date,C454,Blender,Home,Kolkata,6,24708,4297,Repeat Customer,Unknown,Profit
+1774,08/06/2026,C308,Smartwatch,Electronics,Bangalore,6,109728,20600,Repeat Customer,June,Profit
+1775,05/06/2026,C402,Camera,Electronics,Pune,1,47458,7566,Repeat Customer,June,Profit
+1776,Invalid Date,C248,Desk,Furniture,Kolkata,5,57175,11897,Repeat Customer,Unknown,Profit
+1777,Invalid Date,C058,Perfume,Beauty,Bangalore,4,14724,5215,Repeat Customer,Unknown,Profit
+1778,Invalid Date,C065,Kurta,Apparel,Delhi,3,,1057,New Customer,Unknown,Profit
+1779,07/05/2026,C352,Blender,Home,Pune,6,23424,4405,Repeat Customer,May,Profit
+1780,01/08/2026,C227,Tablet,Electronics,Chennai,3,68727,8807,Repeat Customer,August,Profit
+1781,Invalid Date,C107,Shoes,Apparel,Mumbai,6,33768,10552,Repeat Customer,Unknown,Profit
+1782,Invalid Date,C249,Headphones,Electronics,Mumbai,2,3092,694,Repeat Customer,Unknown,Profit
+1783,Invalid Date,C035,Tablet,Electronics,Mumbai,6,208986,26391,Repeat Customer,Unknown,Profit
+1784,Invalid Date,C287,Headphones,Electronics,Bangalore,6,26574,5333,Repeat Customer,Unknown,Profit
+1785,Invalid Date,C140,Skincare Set,Beauty,Mumbai,1,0,990,Repeat Customer,Unknown,Profit
+1786,08/09/2026,C402,Smartwatch,Electronics,Bangalore,4,39988,7327,Repeat Customer,September,Profit
+1787,04/06/2026,C158,Headphones,Electronics,Kolkata,6,46026,9783,Repeat Customer,June,Profit
+1788,Invalid Date,C241,Chair,Furniture,Hyderabad,4,,7097,Repeat Customer,Unknown,Profit
+1789,08/12/2026,C005,Smartwatch,Electronics,Pune,3,36267,6619,Repeat Customer,December,Profit
+1790,05/12/2026,C039,Blender,Home,Hyderabad,6,28308,5592,Repeat Customer,December,Profit
+1791,Invalid Date,C204,Bookshelf,Furniture,Mumbai,3,35895,8832,Repeat Customer,Unknown,Profit
+1792,03/04/2026,C248,Perfume,Beauty,Kolkata,2,9980,3167,Repeat Customer,April,Profit
+1793,Invalid Date,C303,Microwave,Home,Chennai,2,18346,2846,Repeat Customer,Unknown,Profit
+1794,Invalid Date,C152,T-Shirt,Apparel,Mumbai,4,,1167,New Customer,Unknown,Profit
+1795,08/04/2026,C359,Tablet,Electronics,Hyderabad,2,32616,-1313,Repeat Customer,April,Loss
+1796,Invalid Date,C434,Microwave,Home,Bangalore,2,,3992,Repeat Customer,Unknown,Profit
+1797,06/07/2026,C395,Chair,Furniture,Bangalore,2,16996,3847,Repeat Customer,July,Profit
+1798,04/07/2026,C021,Table,Furniture,Mumbai,4,52616,11676,Repeat Customer,July,Profit
+1799,Invalid Date,C248,Camera,Electronics,Bangalore,3,,16761,Repeat Customer,Unknown,Profit
+1800,01/10/2026,C053,Jacket,Apparel,Chennai,4,7464,2125,Repeat Customer,October,Profit
+1801,02/12/2026,C128,Chair,Furniture,Delhi,2,7512,1684,Repeat Customer,December,Profit
+1802,Invalid Date,C476,Headphones,Electronics,Kolkata,6,47490,11653,Repeat Customer,Unknown,Profit
+1803,Invalid Date,C070,Speaker,Electronics,Kolkata,4,44268,8881,Repeat Customer,Unknown,Profit
+1804,01/01/2026,C251,Jacket,Apparel,Mumbai,2,7988,2455,Repeat Customer,January,Profit
+1805,02/12/2026,C309,Jacket,Apparel,Hyderabad,5,18585,6298,Repeat Customer,December,Profit
+1806,06/01/2026,C362,Phone,Electronics,Mumbai,3,94674,12709,Repeat Customer,January,Profit
+1807,Invalid Date,C274,Vacuum Cleaner,Home,Pune,2,12662,2255,Repeat Customer,Unknown,Profit
+1808,01/03/2026,C004,Desk,Furniture,Delhi,4,48400,9850,Repeat Customer,March,Profit
+1809,Invalid Date,C169,Perfume,Beauty,Kolkata,1,,1891,New Customer,Unknown,Profit
+1810,06/07/2026,C262,Shoes,Apparel,Delhi,5,28195,9018,Repeat Customer,July,Profit
+1811,07/06/2026,C049,Phone,Electronics,Delhi,2,49492,4534,Repeat Customer,June,Profit
+1812,Invalid Date,C183,Jeans,Apparel,Mumbai,4,5068,1499,Repeat Customer,Unknown,Profit
+1813,06/01/2026,C014,Smartwatch,Electronics,Hyderabad,6,72846,14895,Repeat Customer,January,Profit
+1814,06/09/2026,C044,Tablet,Electronics,Pune,2,44348,5096,Repeat Customer,September,Profit
+1815,Invalid Date,C205,Headphones,Electronics,Pune,1,5068,979,Repeat Customer,Unknown,Profit
+1816,Invalid Date,C070,Sofa,Furniture,Mumbai,2,52026,8995,Repeat Customer,Unknown,Profit
+1817,Invalid Date,C278,Phone,Electronics,Delhi,1,20747,2709,Repeat Customer,Unknown,Profit
+1818,Invalid Date,C354,Camera,Electronics,Pune,4,208544,28279,Repeat Customer,Unknown,Profit
+1819,Invalid Date,C403,Sofa,Furniture,Delhi,3,110373,20207,Repeat Customer,Unknown,Profit
+1820,02/01/2026,C106,Smartwatch,Electronics,Hyderabad,1,4925,779,New Customer,January,Profit
+1821,Invalid Date,C085,Skincare Set,Beauty,Kolkata,3,11112,3859,Repeat Customer,Unknown,Profit
+1822,Invalid Date,C053,Bookshelf,Furniture,Chennai,3,30315,6480,Repeat Customer,Unknown,Profit
+1823,05/09/2026,C317,Chair,Furniture,Kolkata,3,0,2981,Repeat Customer,September,Profit
+1824,Invalid Date,C364,Skincare Set,Beauty,Hyderabad,6,,5834,Repeat Customer,Unknown,Profit
+1825,Invalid Date,C013,Phone,Electronics,Bangalore,4,202484,25818,Repeat Customer,Unknown,Profit
+1826,Invalid Date,C465,Chair,Furniture,Hyderabad,3,18702,4160,Repeat Customer,Unknown,Profit
+1827,Invalid Date,C031,Makeup Kit,Beauty,Pune,3,12447,3797,Repeat Customer,Unknown,Profit
+1828,Invalid Date,C266,T-Shirt,Apparel,Delhi,2,1582,416,Repeat Customer,Unknown,Profit
+1829,Invalid Date,C365,Blender,Home,Hyderabad,2,3994,640,Repeat Customer,Unknown,Profit
+1830,02/11/2026,C442,Jacket,Apparel,Hyderabad,1,2959,844,Repeat Customer,November,Profit
+1831,Invalid Date,C367,Perfume,Beauty,Kolkata,6,24468,9428,Repeat Customer,Unknown,Profit
+1832,Invalid Date,C404,Unknown Product,Furniture,Pune,4,30264,6385,Repeat Customer,Unknown,Profit
+1832,Invalid Date,C404,Unknown Product,Furniture,Pune,4,30264,6385,Repeat Customer,Unknown,Profit
+1833,Invalid Date,C179,Bookshelf,Furniture,Pune,2,21812,4834,Repeat Customer,Unknown,Profit
+1834,05/08/2026,C409,T-Shirt,Apparel,Bangalore,1,356,112,Repeat Customer,August,Profit
+1835,Invalid Date,C044,Laptop,Electronics,Delhi,3,141327,18679,Repeat Customer,Unknown,Profit
+1836,Invalid Date,C447,Phone,Electronics,Bangalore,5,237375,20124,Repeat Customer,Unknown,Profit
+1837,Invalid Date,C271,Skincare Set,Beauty,Bangalore,1,1360,537,Repeat Customer,Unknown,Profit
+1838,03/11/2026,C412,Speaker,Electronics,Hyderabad,6,22206,0,Repeat Customer,November,Break-even
+1839,02/01/2026,C239,Camera,Electronics,Chennai,1,48162,6743,Repeat Customer,January,Profit
+1840,01/12/2026,C323,Cookware Set,Home,Chennai,3,5322,1275,Repeat Customer,December,Profit
+1841,Invalid Date,C262,Smartwatch,Electronics,Mumbai,1,3092,619,Repeat Customer,Unknown,Profit
+1842,Invalid Date,C376,Table,Furniture,Chennai,6,50340,10483,Repeat Customer,Unknown,Profit
+1843,Invalid Date,C044,Jeans,Apparel,Kolkata,4,5008,1322,Repeat Customer,Unknown,Profit
+1844,Invalid Date,C035,Kurta,Apparel,Bangalore,2,2994,753,Repeat Customer,Unknown,Profit
+1845,Invalid Date,C130,Shoes,Apparel,Pune,4,4664,1472,Repeat Customer,Unknown,Profit
+1846,06/10/2026,Unknown Customer,Laptop,Electronics,Mumbai,3,256089,28997,Unknown Customer,October,Profit
+1847,Invalid Date,C442,Cookware Set,Home,Kolkata,1,5112,1000,Repeat Customer,Unknown,Profit
+1848,Invalid Date,C116,Chair,Furniture,Chennai,2,13652,3545,Repeat Customer,Unknown,Profit
+1849,Invalid Date,C476,Vacuum Cleaner,Home,Kolkata,2,,1979,Repeat Customer,Unknown,Profit
+1850,07/09/2026,C178,Jacket,Apparel,Unknown Region,4,11416,3429,Repeat Customer,September,Profit
+1851,07/05/2026,C093,Laptop,Electronics,Hyderabad,2,177782,22089,Repeat Customer,May,Profit
+1852,02/09/2026,Unknown Customer,Sofa,Furniture,Pune,2,75082,15998,Unknown Customer,September,Profit
+1853,Invalid Date,C331,Perfume,Beauty,Pune,6,32766,12725,Repeat Customer,Unknown,Profit
+1854,Invalid Date,C251,T-Shirt,Apparel,Mumbai,4,2340,726,Repeat Customer,Unknown,Profit
+1855,06/05/2026,C273,Chair,Furniture,Hyderabad,1,7588,1917,Repeat Customer,May,Profit
+1856,02/07/2026,C367,Blender,Home,Kolkata,5,18505,3347,Repeat Customer,July,Profit
+1857,Invalid Date,C120,Makeup Kit,Beauty,Hyderabad,6,24678,7809,Repeat Customer,Unknown,Profit
+1858,04/08/2026,C479,Vacuum Cleaner,Home,Kolkata,6,,9586,Repeat Customer,August,Profit
+1859,06/09/2026,C476,Shoes,Apparel,Hyderabad,3,9408,2583,Repeat Customer,September,Profit
+1860,02/01/2026,C325,Jacket,Apparel,Delhi,4,6428,1638,Repeat Customer,January,Profit
+1861,08/08/2026,C105,Table,Furniture,Kolkata,3,,7568,Repeat Customer,August,Profit
+1862,Invalid Date,C349,Desk,Furniture,Pune,5,68075,12604,Repeat Customer,Unknown,Profit
+1863,Invalid Date,C039,Blender,Home,Chennai,2,7224,1570,Repeat Customer,Unknown,Profit
+1864,Invalid Date,C013,Makeup Kit,Beauty,Bangalore,2,2168,741,Repeat Customer,Unknown,Profit
+1865,Invalid Date,C137,Vacuum Cleaner,Home,Chennai,3,49239,11318,Repeat Customer,Unknown,Profit
+1866,Invalid Date,C242,T-Shirt,Apparel,Pune,3,2475,820,Repeat Customer,Unknown,Profit
+1867,Invalid Date,C439,Cookware Set,Home,Pune,6,45828,9311,Repeat Customer,Unknown,Profit
+1868,Invalid Date,C371,Kurta,Apparel,Hyderabad,2,4500,1167,New Customer,Unknown,Profit
+1869,Invalid Date,C383,Vacuum Cleaner,Home,Bangalore,1,10662,2322,Repeat Customer,Unknown,Profit
+1870,05/01/2026,C227,Shoes,Apparel,Delhi,3,5418,1732,Repeat Customer,January,Profit
+1871,Invalid Date,C183,Makeup Kit,Beauty,Bangalore,5,7450,2911,Repeat Customer,Unknown,Profit
+1872,02/07/2026,C193,Microwave,Home,Bangalore,3,26100,4483,Repeat Customer,July,Profit
+1873,05/07/2026,C476,Bookshelf,Furniture,Bangalore,1,6090,1435,Repeat Customer,July,Profit
+1874,Invalid Date,C021,Makeup Kit,Beauty,Delhi,1,1477,506,Repeat Customer,Unknown,Profit
+1875,Invalid Date,C439,Smartwatch,Electronics,Hyderabad,3,29922,4855,Repeat Customer,Unknown,Profit
+1876,Invalid Date,C284,Smartwatch,Electronics,Kolkata,5,58215,12657,Repeat Customer,Unknown,Profit
+1877,Invalid Date,C229,T-Shirt,Apparel,Delhi,6,4098,1075,Repeat Customer,Unknown,Profit
+1878,Invalid Date,C368,Laptop,Electronics,Hyderabad,3,219600,22876,Repeat Customer,Unknown,Profit
+1879,Invalid Date,C248,Makeup Kit,Beauty,Hyderabad,4,5468,1802,Repeat Customer,Unknown,Profit
+1880,Invalid Date,C442,Camera,Electronics,Mumbai,1,,4767,Repeat Customer,Unknown,Profit
+1881,Invalid Date,C447,Tablet,Electronics,Chennai,1,36034,5223,Repeat Customer,Unknown,Profit
+1882,Invalid Date,C223,Laptop,Electronics,Pune,3,,269615,Repeat Customer,Unknown,Profit
+1883,02/07/2026,C141,Skincare Set,Beauty,Mumbai,3,3546,1199,Repeat Customer,July,Profit
+1884,02/12/2026,C296,Bookshelf,Furniture,Kolkata,1,6063,1468,Repeat Customer,December,Profit
+1885,Invalid Date,C451,Laptop,Electronics,Hyderabad,4,297388,39586,Repeat Customer,Unknown,Profit
+1886,Invalid Date,C113,Headphones,Electronics,Chennai,5,34050,6105,Repeat Customer,Unknown,Profit
+1887,06/02/2026,C314,Makeup Kit,Beauty,Bangalore,3,6318,2208,Repeat Customer,February,Profit
+1888,03/09/2026,C315,Headphones,Electronics,Hyderabad,6,,9627,Repeat Customer,September,Profit
+1889,Invalid Date,C377,Camera,Electronics,Chennai,2,81182,12651,Repeat Customer,Unknown,Profit
+1890,Invalid Date,C070,Laptop,Electronics,Chennai,4,202380,28084,Repeat Customer,Unknown,Profit
+1891,Invalid Date,C367,Speaker,Electronics,Pune,1,4307,734,Repeat Customer,Unknown,Profit
+1892,Invalid Date,C448,Jeans,Apparel,Hyderabad,6,17412,4677,Repeat Customer,Unknown,Profit
+1893,01/08/2026,C092,Makeup Kit,Beauty,Pune,6,22878,7398,Repeat Customer,August,Profit
+1894,01/04/2026,C125,Jeans,Apparel,Hyderabad,3,2555,875,Repeat Customer,April,Profit
+1894,01/04/2026,C125,Jeans,Apparel,Hyderabad,3,2555,875,Repeat Customer,April,Profit
+1895,03/09/2026,C476,Blender,Home,Mumbai,2,4478,841,Repeat Customer,September,Profit
+1896,Invalid Date,C093,Headphones,Electronics,Kolkata,2,4190,686,Repeat Customer,Unknown,Profit
+1897,Invalid Date,C429,Laptop,Electronics,Mumbai,1,56684,7770,New Customer,Unknown,Profit
+1898,Invalid Date,C249,Makeup Kit,Beauty,Kolkata,6,7620,2502,Repeat Customer,Unknown,Profit
+1899,02/08/2026,C131,Jacket,Apparel,Mumbai,6,13584,4232,Repeat Customer,August,Profit
+1900,Invalid Date,C442,T-Shirt,Apparel,Kolkata,2,,652,Repeat Customer,Unknown,Profit
+1901,04/06/2026,C233,Table,Furniture,Delhi,3,55137,11604,New Customer,June,Profit
+1902,Invalid Date,C259,Shoes,Apparel,Chennai,4,10424,3154,Repeat Customer,Unknown,Profit
+1903,Invalid Date,C187,Microwave,Home,Delhi,2,18542,3352,Repeat Customer,Unknown,Profit
+1904,Invalid Date,C297,Perfume,Beauty,Mumbai,5,21155,8166,Repeat Customer,Unknown,Profit
+1905,Invalid Date,C081,Jacket,Apparel,Pune,3,7254,2035,Repeat Customer,Unknown,Profit
+1906,Invalid Date,C203,Microwave,Home,Mumbai,1,6409,978,Repeat Customer,Unknown,Profit
+1907,04/01/2026,C476,Shoes,Apparel,Delhi,4,18656,4189,Repeat Customer,January,Profit
+1908,Invalid Date,C137,Shoes,Apparel,Unknown Region,5,24365,6834,Repeat Customer,Unknown,Profit
+1909,Invalid Date,C329,Bookshelf,Furniture,Kolkata,4,29632,6102,Repeat Customer,Unknown,Profit
+1910,Invalid Date,C167,Table,Furniture,Kolkata,6,93834,19620,Repeat Customer,Unknown,Profit
+1911,Invalid Date,C391,Smartwatch,Electronics,Pune,3,4404,755,Repeat Customer,Unknown,Profit
+1912,05/06/2026,C069,Laptop,Electronics,Bangalore,1,69195,8163,Repeat Customer,June,Profit
+1913,Invalid Date,C476,Perfume,Beauty,Mumbai,6,28878,9508,Repeat Customer,Unknown,Profit
+1914,03/04/2026,C241,Speaker,Electronics,Hyderabad,1,4190,0,Repeat Customer,April,Break-even
+1915,Invalid Date,C123,Camera,Electronics,Hyderabad,3,64761,9456,New Customer,Unknown,Profit
+1916,07/03/2026,C039,Kurta,Apparel,Mumbai,1,1266,327,Repeat Customer,March,Profit
+1917,Invalid Date,C087,Jacket,Apparel,Mumbai,6,14280,4694,Repeat Customer,Unknown,Profit
+1918,Invalid Date,C262,T-Shirt,Apparel,Mumbai,6,4422,1396,Repeat Customer,Unknown,Profit
+1919,Invalid Date,C178,Bookshelf,Furniture,Kolkata,3,,5299,Repeat Customer,Unknown,Profit
+1920,05/08/2026,Unknown Customer,Cookware Set,Home,Hyderabad,2,11320,2805,Unknown Customer,August,Profit
+1921,Invalid Date,C227,Perfume,Beauty,Pune,5,28865,10157,Repeat Customer,Unknown,Profit
+1922,Invalid Date,C132,Table,Furniture,Pune,5,96420,24180,Repeat Customer,Unknown,Profit
+1923,Invalid Date,C309,Phone,Electronics,Pune,1,25237,3499,Repeat Customer,Unknown,Profit
+1924,Invalid Date,C365,Headphones,Electronics,Delhi,6,37368,9068,Repeat Customer,Unknown,Profit
+1924,Invalid Date,C365,Headphones,Electronics,Delhi,6,37368,9068,Repeat Customer,Unknown,Profit
+1925,Invalid Date,C085,T-Shirt,Apparel,Chennai,6,5442,1691,Repeat Customer,Unknown,Profit
+1926,Invalid Date,C086,Phone,Electronics,Delhi,6,336804,29221,Repeat Customer,Unknown,Profit
+1927,Invalid Date,C018,Cookware Set,Home,Hyderabad,1,4405,944,Repeat Customer,Unknown,Profit
+1928,08/05/2026,C379,Laptop,Electronics,Pune,4,,41126,Repeat Customer,May,Profit
+1929,Invalid Date,C336,Makeup Kit,Beauty,Chennai,1,4319,1578,Repeat Customer,Unknown,Profit
+1930,02/01/2026,C246,T-Shirt,Apparel,Bangalore,5,3375,1101,Repeat Customer,January,Profit
+1931,Invalid Date,C422,Chair,Furniture,Kolkata,1,4362,806,Repeat Customer,Unknown,Profit
+1932,04/05/2026,C406,Speaker,Electronics,Pune,6,12744,2545,Repeat Customer,May,Profit
+1933,Invalid Date,C290,Cookware Set,Home,Delhi,5,37730,7841,Repeat Customer,Unknown,Profit
+1934,Invalid Date,C439,Shoes,Apparel,Delhi,1,4379,1007,Repeat Customer,Unknown,Profit
+1935,Invalid Date,C111,Makeup Kit,Beauty,Delhi,6,,2394,Repeat Customer,Unknown,Profit
+1936,Invalid Date,C056,Camera,Electronics,Pune,1,66141,6683,Repeat Customer,Unknown,Profit
+1937,08/01/2026,C140,Skincare Set,Beauty,Pune,2,,2512,Repeat Customer,January,Profit
+1938,01/10/2026,C034,Laptop,Electronics,Delhi,3,184227,15845,Repeat Customer,October,Profit
+1939,03/07/2026,C262,Microwave,Home,Mumbai,5,30565,5311,Repeat Customer,July,Profit
+1940,Invalid Date,C465,Microwave,Home,Bangalore,5,65705,10755,Repeat Customer,Unknown,Profit
+1941,Invalid Date,C021,Kurta,Apparel,Delhi,4,4748,1417,Repeat Customer,Unknown,Profit
+1942,Invalid Date,C063,Cookware Set,Home,Chennai,1,7828,1574,Repeat Customer,Unknown,Profit
+1943,Invalid Date,C239,Speaker,Electronics,Hyderabad,1,6251,1344,Repeat Customer,Unknown,Profit
+1944,Invalid Date,C465,Tablet,Electronics,Delhi,1,38951,5072,Repeat Customer,Unknown,Profit
+1945,Invalid Date,C162,Jeans,Apparel,Bangalore,6,,3094,Repeat Customer,Unknown,Profit
+1946,05/10/2026,C257,Camera,Electronics,Chennai,3,177114,25836,Repeat Customer,October,Profit
+1947,05/07/2026,C023,Kurta,Apparel,Kolkata,6,14016,4394,Repeat Customer,July,Profit
+1948,Invalid Date,C073,Speaker,Electronics,Chennai,6,66378,11505,New Customer,Unknown,Profit
+1949,02/10/2026,C476,Vacuum Cleaner,Home,Bangalore,4,41148,8954,Repeat Customer,October,Profit
+1950,03/08/2026,C474,Chair,Furniture,Pune,3,22335,4020,Repeat Customer,August,Profit
+1951,Invalid Date,C002,Shoes,Apparel,Chennai,1,4480,1358,Repeat Customer,Unknown,Profit
+1952,04/03/2026,C470,Camera,Electronics,Hyderabad,2,67962,-2120,Repeat Customer,March,Loss
+1953,07/11/2026,C321,Sofa,Furniture,Chennai,1,,6062,New Customer,November,Profit
+1954,Invalid Date,C439,Perfume,Beauty,Bangalore,5,,10067,Repeat Customer,Unknown,Profit
+1955,04/08/2026,C241,Cookware Set,Home,Mumbai,6,30504,6822,Repeat Customer,August,Profit
+1956,Invalid Date,C260,Headphones,Electronics,Bangalore,3,12204,1890,Repeat Customer,Unknown,Profit
+1957,03/08/2026,C249,Headphones,Electronics,Chennai,6,44790,10447,Repeat Customer,August,Profit
+1958,Invalid Date,C337,Kurta,Apparel,Chennai,3,1816,557,Repeat Customer,Unknown,Profit
+1959,Invalid Date,C070,T-Shirt,Apparel,Chennai,1,634,175,Repeat Customer,Unknown,Profit
+1960,Invalid Date,C013,Chair,Furniture,Mumbai,5,16180,3226,Repeat Customer,Unknown,Profit
+1961,05/02/2026,C156,Cookware Set,Home,Bangalore,1,2075,485,New Customer,February,Profit
+1962,01/02/2026,C363,Bookshelf,Furniture,Kolkata,1,4849,981,Repeat Customer,February,Profit
+1963,03/11/2026,C108,Laptop,Electronics,Delhi,5,304785,33426,Repeat Customer,November,Profit
+1964,Invalid Date,C342,T-Shirt,Apparel,Pune,2,1906,491,Repeat Customer,Unknown,Profit
+1965,07/12/2026,C476,Blender,Home,Delhi,3,14562,2759,Repeat Customer,December,Profit
+1966,Invalid Date,C051,Phone,Electronics,Hyderabad,3,96063,9328,Repeat Customer,Unknown,Profit
+1967,01/08/2026,C342,Makeup Kit,Beauty,Hyderabad,6,29100,11103,Repeat Customer,August,Profit
+1968,04/09/2026,C232,Blender,Home,Chennai,1,3444,554,Repeat Customer,September,Profit
+1969,08/12/2026,C439,Chair,Furniture,Bangalore,5,20930,5263,Repeat Customer,December,Profit
+1970,05/02/2026,C090,Sofa,Furniture,Kolkata,4,105264,17844,Repeat Customer,February,Profit
+1971,Invalid Date,C358,Perfume,Beauty,Pune,1,3825,1375,Repeat Customer,Unknown,Profit
+1972,07/11/2026,C420,Perfume,Beauty,Kolkata,3,,4832,Repeat Customer,November,Profit
+1973,Invalid Date,C468,Speaker,Electronics,Bangalore,2,22242,4258,Repeat Customer,Unknown,Profit
+1974,Invalid Date,C351,Camera,Electronics,Mumbai,5,,15500,Repeat Customer,Unknown,Profit
+1975,07/05/2026,C250,Laptop,Electronics,Kolkata,5,395025,53396,Repeat Customer,May,Profit
+1976,08/02/2026,C309,Bookshelf,Furniture,Hyderabad,1,8830,1622,Repeat Customer,February,Profit
+1977,Invalid Date,C440,Laptop,Electronics,Mumbai,1,64952,6771,Repeat Customer,Unknown,Profit
+1978,Invalid Date,C280,Skincare Set,Beauty,Chennai,1,1102,401,Repeat Customer,Unknown,Profit
+1979,02/10/2026,C013,Microwave,Home,Bangalore,4,22748,3205,Repeat Customer,October,Profit
+1980,Invalid Date,C464,Laptop,Electronics,Kolkata,4,286284,38322,Repeat Customer,Unknown,Profit
+1981,04/08/2026,C354,Microwave,Home,Chennai,1,14743,2083,Repeat Customer,August,Profit
+1982,05/05/2026,C346,Blender,Home,Pune,3,15045,3539,Repeat Customer,May,Profit
+1983,Invalid Date,C115,Headphones,Electronics,Delhi,6,36102,5747,Repeat Customer,Unknown,Profit
+1984,08/11/2026,C331,Table,Furniture,Hyderabad,3,,5490,Repeat Customer,November,Profit
+1985,05/09/2026,C204,Perfume,Beauty,Kolkata,3,1719,553,Repeat Customer,September,Profit
+1986,Invalid Date,C325,Bookshelf,Furniture,Hyderabad,3,,2652,Repeat Customer,Unknown,Profit
+1987,Invalid Date,C054,Unknown Product,Furniture,Delhi,1,10757,2488,Repeat Customer,Unknown,Profit
+1988,05/04/2026,C330,Headphones,Electronics,Hyderabad,6,26826,6215,Repeat Customer,April,Profit
+1989,Invalid Date,C480,Vacuum Cleaner,Home,Delhi,5,84320,18289,Repeat Customer,Unknown,Profit
+1990,03/08/2026,C028,Jacket,Apparel,Pune,6,11160,3675,Repeat Customer,August,Profit
+1991,02/08/2026,C476,Blender,Home,Hyderabad,2,8608,1699,Repeat Customer,August,Profit
+1992,04/08/2026,C214,Table,Furniture,Kolkata,6,78198,17755,New Customer,August,Profit
+1993,Invalid Date,C442,Vacuum Cleaner,Home,Pune,2,25700,4798,Repeat Customer,Unknown,Profit
+1994,05/10/2026,C396,Laptop,Electronics,Kolkata,3,255534,21094,Repeat Customer,October,Profit
+1995,Invalid Date,C278,Skincare Set,Beauty,Delhi,3,11052,4069,Repeat Customer,Unknown,Profit
+1996,Invalid Date,C380,Laptop,Electronics,Delhi,2,127374,16188,New Customer,Unknown,Profit
+1997,Invalid Date,C442,Speaker,Electronics,Bangalore,6,69822,13570,Repeat Customer,Unknown,Profit
+1998,Invalid Date,C212,Makeup Kit,Beauty,Kolkata,6,6684,2450,Repeat Customer,Unknown,Profit
+1998,Invalid Date,C212,Makeup Kit,Beauty,Kolkata,6,6684,2450,Repeat Customer,Unknown,Profit
+1999,06/07/2026,C170,Desk,Furniture,Mumbai,2,24038,5502,Repeat Customer,July,Profit
+2000,Invalid Date,C338,Desk,Furniture,Bangalore,2,,4610,Repeat Customer,Unknown,Profit
+2001,Invalid Date,C406,Kurta,Apparel,Hyderabad,3,2070,702,Repeat Customer,Unknown,Profit
+2002,Invalid Date,C391,Chair,Furniture,Delhi,3,27020,6696,Repeat Customer,Unknown,Profit
+2003,Invalid Date,C402,Jeans,Apparel,Kolkata,5,,1659,Repeat Customer,Unknown,Profit
+2004,01/02/2026,C229,Skincare Set,Beauty,Delhi,1,3409,1207,Repeat Customer,February,Profit
+2005,Invalid Date,C412,Jeans,Apparel,Bangalore,5,13235,4057,Repeat Customer,Unknown,Profit
+2006,07/12/2026,C061,Perfume,Beauty,Mumbai,3,16395,5337,Repeat Customer,December,Profit
+2007,Invalid Date,C268,T-Shirt,Apparel,Hyderabad,1,962,310,Repeat Customer,Unknown,Profit
+2008,07/12/2026,C002,T-Shirt,Apparel,Mumbai,3,2589,836,Repeat Customer,December,Profit
+2009,08/10/2026,C167,Chair,Furniture,Chennai,6,47676,8837,Repeat Customer,October,Profit
+2010,Invalid Date,C192,Shoes,Apparel,Mumbai,4,93240,22169,Repeat Customer,Unknown,Profit
+2011,06/12/2026,C205,Camera,Electronics,Hyderabad,6,326394,33932,Repeat Customer,December,Profit
+2012,Invalid Date,C359,Perfume,Beauty,Hyderabad,2,4538,1587,Repeat Customer,Unknown,Profit
+2013,Invalid Date,C201,Kurta,Apparel,Mumbai,3,1305,403,Repeat Customer,Unknown,Profit
+2014,07/09/2026,C236,T-Shirt,Apparel,Hyderabad,6,6360,1779,Repeat Customer,September,Profit
+2015,04/11/2026,C125,Cookware Set,Home,Chennai,2,13296,3317,Repeat Customer,November,Profit
+2016,Invalid Date,C194,Phone,Electronics,Chennai,4,88100,9755,Repeat Customer,Unknown,Profit
+2017,Invalid Date,C119,Camera,Electronics,Hyderabad,4,170120,23618,Repeat Customer,Unknown,Profit
+2018,Invalid Date,C039,Makeup Kit,Beauty,Bangalore,5,19240,7067,Repeat Customer,Unknown,Profit
+2019,Invalid Date,C305,Smartwatch,Electronics,Hyderabad,3,17319,3289,Repeat Customer,Unknown,Profit
+2020,03/10/2026,C338,Desk,Furniture,Kolkata,2,18542,4745,Repeat Customer,October,Profit
+2021,04/03/2026,C309,Makeup Kit,Beauty,Chennai,5,18825,6270,Repeat Customer,March,Profit
+2022,Invalid Date,C242,Microwave,Home,Chennai,3,34317,6303,Repeat Customer,Unknown,Profit
+2023,03/12/2026,C198,Cookware Set,Home,Bangalore,3,10554,2402,Repeat Customer,December,Profit
+2024,Invalid Date,C437,Perfume,Beauty,Kolkata,3,8061,3170,New Customer,Unknown,Profit
+2025,04/02/2026,C262,Camera,Electronics,Hyderabad,4,228520,31871,Repeat Customer,February,Profit
+2026,03/08/2026,C248,Tablet,Electronics,Delhi,5,148175,23108,Repeat Customer,August,Profit
+2027,Invalid Date,C012,Skincare Set,Beauty,Chennai,4,6376,2017,Repeat Customer,Unknown,Profit
+2028,04/05/2026,C179,Skincare Set,Beauty,Bangalore,2,54340,17816,Repeat Customer,May,Profit
+2029,Invalid Date,C198,Phone,Electronics,Delhi,3,21960,2655,Repeat Customer,Unknown,Profit
+2030,06/03/2026,C208,Camera,Electronics,Pune,6,392940,62716,Repeat Customer,March,Profit
+2031,Invalid Date,C285,Vacuum Cleaner,Home,Pune,2,19270,3659,Repeat Customer,Unknown,Profit
+2032,05/01/2026,C262,Shoes,Apparel,Kolkata,1,3353,896,Repeat Customer,January,Profit
+2033,Invalid Date,C306,Blender,Home,Chennai,2,6186,1379,Repeat Customer,Unknown,Profit
+2034,Invalid Date,C391,Blender,Home,Mumbai,5,21380,5066,Repeat Customer,Unknown,Profit
+2035,07/09/2026,C409,Table,Furniture,Mumbai,2,34636,6626,Repeat Customer,September,Profit
+2036,06/12/2026,C367,Skincare Set,Beauty,Hyderabad,2,,1026,Repeat Customer,December,Profit
+2037,Invalid Date,C472,Chair,Furniture,Delhi,1,7354,1557,Repeat Customer,Unknown,Profit
+2038,01/12/2026,C010,Skincare Set,Beauty,Delhi,4,,1851,Repeat Customer,December,Profit
+2039,Invalid Date,C105,Headphones,Electronics,Pune,6,41424,6571,Repeat Customer,Unknown,Profit
+2040,Invalid Date,Unknown Customer,Camera,Electronics,Kolkata,5,,29188,Unknown Customer,Unknown,Profit
+2041,05/06/2026,C325,Smartwatch,Electronics,Bangalore,2,21966,3956,Repeat Customer,June,Profit
+2042,Invalid Date,C447,Cookware Set,Home,Pune,4,29364,7081,Repeat Customer,Unknown,Profit
+2043,Invalid Date,C128,Perfume,Beauty,Hyderabad,1,1951,659,Repeat Customer,Unknown,Profit
+2044,Invalid Date,C462,Desk,Furniture,Chennai,3,28899,6256,Repeat Customer,Unknown,Profit
+2045,Invalid Date,C035,Jeans,Apparel,Kolkata,3,3492,943,Repeat Customer,Unknown,Profit
+2046,Invalid Date,C465,Table,Furniture,Kolkata,2,27216,5138,Repeat Customer,Unknown,Profit
+2047,Invalid Date,C184,Shoes,Apparel,Mumbai,6,16140,3929,Repeat Customer,Unknown,Profit
+2048,08/08/2026,C053,Sofa,Furniture,Bangalore,3,118266,23609,Repeat Customer,August,Profit
+2049,07/05/2026,C248,Sofa,Furniture,Mumbai,3,131217,19840,Repeat Customer,May,Profit
+2050,05/03/2026,C136,Skincare Set,Beauty,Unknown Region,5,15930,5208,Repeat Customer,March,Profit
+2051,Invalid Date,C148,Sofa,Furniture,Pune,2,,10001,Repeat Customer,Unknown,Profit
+2052,04/11/2026,C155,Makeup Kit,Beauty,Kolkata,1,4370,1703,Repeat Customer,November,Profit
+2053,Invalid Date,C404,Vacuum Cleaner,Home,Hyderabad,1,13099,3113,Repeat Customer,Unknown,Profit
+2054,Invalid Date,C265,Blender,Home,Kolkata,2,5428,951,Repeat Customer,Unknown,Profit
+2055,Invalid Date,C158,Jeans,Apparel,Hyderabad,5,12115,3683,Repeat Customer,Unknown,Profit
+2056,02/11/2026,C306,Vacuum Cleaner,Home,Delhi,4,44712,7384,Repeat Customer,November,Profit
+2057,Invalid Date,C367,Table,Furniture,Chennai,2,26694,6363,Repeat Customer,Unknown,Profit
+2058,05/03/2026,C141,Camera,Electronics,Delhi,2,,8436,Repeat Customer,March,Profit
+2059,03/11/2026,C219,Bookshelf,Furniture,Mumbai,1,5421,1136,Repeat Customer,November,Profit
+2060,Invalid Date,C063,Smartwatch,Electronics,Delhi,3,54066,11789,Repeat Customer,Unknown,Profit
+2061,06/03/2026,C093,Makeup Kit,Beauty,Chennai,3,11115,3848,Repeat Customer,March,Profit
+2062,Invalid Date,C350,Table,Furniture,Delhi,6,89238,22290,Repeat Customer,Unknown,Profit
+2063,Invalid Date,C093,Kurta,Apparel,Pune,6,6726,2168,Repeat Customer,Unknown,Profit
+2064,06/11/2026,C262,Shoes,Apparel,Delhi,3,16584,5171,Repeat Customer,November,Profit
+2065,Invalid Date,C365,Desk,Furniture,Delhi,5,45625,8862,Repeat Customer,Unknown,Profit
+2066,Invalid Date,C054,Laptop,Electronics,Bangalore,2,88918,8053,Repeat Customer,Unknown,Profit
+2067,05/10/2026,C278,Sofa,Furniture,Chennai,1,24985,4654,Repeat Customer,October,Profit
+2068,05/08/2026,C136,Bookshelf,Furniture,Mumbai,4,32280,7623,Repeat Customer,August,Profit
+2069,Invalid Date,C473,Speaker,Electronics,Bangalore,1,8854,1575,Repeat Customer,Unknown,Profit
+2070,Invalid Date,C248,T-Shirt,Apparel,Mumbai,5,3125,989,Repeat Customer,Unknown,Profit
+2071,08/06/2026,C406,Kurta,Apparel,Delhi,3,,1770,Repeat Customer,June,Profit
+2072,Invalid Date,C272,Headphones,Electronics,Pune,2,5486,1277,Repeat Customer,Unknown,Profit
+2073,05/09/2026,C025,Laptop,Electronics,Delhi,1,0,7912,Repeat Customer,September,Profit
+2074,Invalid Date,C315,Vacuum Cleaner,Home,Kolkata,3,37596,8231,Repeat Customer,Unknown,Profit
+2075,Invalid Date,C470,Perfume,Beauty,Chennai,2,3630,1095,Repeat Customer,Unknown,Profit
+2076,01/06/2026,C304,Tablet,Electronics,Delhi,5,148155,21574,Repeat Customer,June,Profit
+2077,01/12/2026,C412,T-Shirt,Apparel,Chennai,3,1004,321,Repeat Customer,December,Profit
+2078,Invalid Date,C443,Chair,Furniture,Kolkata,5,440700,91851,Repeat Customer,Unknown,Profit
+2079,05/10/2026,C120,T-Shirt,Apparel,Mumbai,2,2328,789,Repeat Customer,October,Profit
+2080,07/03/2026,C114,Vacuum Cleaner,Home,Kolkata,4,27600,4647,Repeat Customer,March,Profit
+2081,05/07/2026,C306,Blender,Home,Pune,2,5860,1153,Repeat Customer,July,Profit
+2082,Invalid Date,C218,T-Shirt,Apparel,Pune,3,3435,860,Repeat Customer,Unknown,Profit
+2083,04/07/2026,C421,Perfume,Beauty,Delhi,5,23160,8182,Repeat Customer,July,Profit
+2084,Invalid Date,C447,Kurta,Apparel,Kolkata,2,3704,1138,Repeat Customer,Unknown,Profit
+2085,01/01/2026,C184,Jeans,Apparel,Hyderabad,2,1784,557,Repeat Customer,January,Profit
+2086,Invalid Date,C124,Sofa,Furniture,Hyderabad,3,99966,19318,Repeat Customer,Unknown,Profit
+2087,05/12/2026,C396,Vacuum Cleaner,Home,Bangalore,6,0,16448,Repeat Customer,December,Profit
+2088,Invalid Date,C141,Bookshelf,Furniture,Mumbai,1,5343,1372,Repeat Customer,Unknown,Profit
+2088,Invalid Date,C141,Bookshelf,Furniture,Mumbai,1,5343,1372,Repeat Customer,Unknown,Profit
+2089,08/10/2026,C412,Blender,Home,Kolkata,6,28770,5713,Repeat Customer,October,Profit
+2090,04/02/2026,C226,Jeans,Apparel,Pune,1,9930,2528,Repeat Customer,February,Profit
+2091,Invalid Date,C338,Table,Furniture,Pune,4,59476,14974,Repeat Customer,Unknown,Profit
+2092,Invalid Date,C051,Tablet,Electronics,Hyderabad,4,,11682,Repeat Customer,Unknown,Profit
+2093,Invalid Date,C314,Desk,Furniture,Mumbai,1,11190,2710,Repeat Customer,Unknown,Profit
+2093,Invalid Date,C314,Desk,Furniture,Mumbai,1,11190,2710,Repeat Customer,Unknown,Profit
+2094,Invalid Date,C239,Chair,Furniture,Mumbai,6,50430,12277,Repeat Customer,Unknown,Profit
+2095,Invalid Date,C292,Chair,Furniture,Kolkata,1,,1804,New Customer,Unknown,Profit
+2096,Invalid Date,C086,Headphones,Electronics,Hyderabad,2,15758,3361,Repeat Customer,Unknown,Profit
+2097,Invalid Date,C379,Skincare Set,Beauty,Bangalore,3,4119,1364,Repeat Customer,Unknown,Profit
+2098,Invalid Date,C436,Table,Furniture,Chennai,3,41178,8618,Repeat Customer,Unknown,Profit
+2099,Invalid Date,C116,Microwave,Home,Chennai,3,44640,7142,Repeat Customer,Unknown,Profit
+2100,Invalid Date,C051,Speaker,Electronics,Chennai,5,48865,10372,Repeat Customer,Unknown,Profit
+2101,08/11/2026,C012,Jeans,Apparel,Hyderabad,3,5013,1618,Repeat Customer,November,Profit
+2102,Invalid Date,C322,Jacket,Apparel,Chennai,2,7852,2425,Repeat Customer,Unknown,Profit
+2103,Invalid Date,C306,Microwave,Home,Kolkata,6,33630,5782,Repeat Customer,Unknown,Profit
+2104,Invalid Date,C270,Sofa,Furniture,Bangalore,3,83325,17969,Repeat Customer,Unknown,Profit
+2105,Invalid Date,C122,Jacket,Apparel,Bangalore,5,14635,3843,Repeat Customer,Unknown,Profit
+2106,Invalid Date,C203,Smartwatch,Electronics,Bangalore,2,,6493,Repeat Customer,Unknown,Profit
+2107,08/02/2026,C297,Shoes,Apparel,Chennai,1,1679,405,Repeat Customer,February,Profit
+2108,08/09/2026,C250,Bookshelf,Furniture,Kolkata,3,10044,2335,Repeat Customer,September,Profit
+2109,02/02/2026,C476,Camera,Electronics,Mumbai,3,0,10816,Repeat Customer,February,Profit
+2110,01/11/2026,C070,Makeup Kit,Beauty,Delhi,2,8448,2543,Repeat Customer,November,Profit
+2111,Invalid Date,C359,Bookshelf,Furniture,Pune,1,11008,2089,Repeat Customer,Unknown,Profit
+2112,07/12/2026,C212,Kurta,Apparel,Mumbai,1,1044,314,Repeat Customer,December,Profit
+2113,Invalid Date,C227,Desk,Furniture,Hyderabad,4,36140,7471,Repeat Customer,Unknown,Profit
+2114,03/07/2026,C367,Shoes,Apparel,Mumbai,2,9486,2237,Repeat Customer,July,Profit
+2115,02/01/2026,C357,T-Shirt,Apparel,Delhi,1,938,277,Repeat Customer,January,Profit
+2116,Invalid Date,C479,Blender,Home,Delhi,2,3066,609,Repeat Customer,Unknown,Profit
+2117,Invalid Date,C068,Laptop,Electronics,Kolkata,1,0,5967,Repeat Customer,Unknown,Profit
+2118,Invalid Date,C053,Shoes,Apparel,Chennai,3,11616,3376,Repeat Customer,Unknown,Profit
+2119,07/11/2026,C368,Tablet,Electronics,Pune,4,95516,13939,Repeat Customer,November,Profit
+2120,Invalid Date,C284,Makeup Kit,Beauty,Unknown Region,3,12348,3721,Repeat Customer,Unknown,Profit
+2121,Invalid Date,C141,Speaker,Electronics,Kolkata,2,15424,2493,Repeat Customer,Unknown,Profit
+2122,Invalid Date,C044,Table,Furniture,Delhi,3,,16350,Repeat Customer,Unknown,Profit
+2123,08/04/2026,C048,Smartwatch,Electronics,Mumbai,5,91285,18358,Repeat Customer,April,Profit
+2124,01/04/2026,C446,Sofa,Furniture,Delhi,6,216942,35159,Repeat Customer,April,Profit
+2125,Invalid Date,C102,Perfume,Beauty,Hyderabad,2,2974,991,Repeat Customer,Unknown,Profit
+2126,Invalid Date,C166,Laptop,Electronics,Delhi,2,,11240,Repeat Customer,Unknown,Profit
+2127,Invalid Date,C119,Microwave,Home,Delhi,4,24952,4235,Repeat Customer,Unknown,Profit
+2128,04/12/2026,C185,Headphones,Electronics,Chennai,4,14412,2748,Repeat Customer,December,Profit
+2129,Invalid Date,C036,Camera,Electronics,Kolkata,1,29300,4536,Repeat Customer,Unknown,Profit
+2130,Invalid Date,C262,Desk,Furniture,Bangalore,2,25410,5898,Repeat Customer,Unknown,Profit
+2131,Invalid Date,C035,Tablet,Electronics,Delhi,1,25474,3368,Repeat Customer,Unknown,Profit
+2132,Invalid Date,C403,Shoes,Apparel,Hyderabad,2,9594,-494,Repeat Customer,Unknown,Loss
+2133,Invalid Date,C122,Microwave,Home,Mumbai,3,17142,2987,Repeat Customer,Unknown,Profit
+2134,02/12/2026,C266,Blender,Home,Bangalore,3,10017,0,Repeat Customer,December,Break-even
+2135,03/03/2026,C442,Skincare Set,Beauty,Hyderabad,1,2271,681,Repeat Customer,March,Profit
+2136,05/07/2026,C325,Laptop,Electronics,Kolkata,5,204485,17820,Repeat Customer,July,Profit
+2137,05/03/2026,C262,Microwave,Home,Hyderabad,5,62665,11095,Repeat Customer,March,Profit
+2138,Invalid Date,C166,Phone,Electronics,Delhi,3,51106,7070,Repeat Customer,Unknown,Profit
+2139,Invalid Date,C175,Cookware Set,Home,Kolkata,6,24732,4731,Repeat Customer,Unknown,Profit
+2140,01/05/2026,C339,Laptop,Electronics,Chennai,5,373970,36276,New Customer,May,Profit
+2141,03/09/2026,C479,Blender,Home,Delhi,2,4128,830,Repeat Customer,September,Profit
+2142,Invalid Date,C333,Jeans,Apparel,Mumbai,3,4767,1267,New Customer,Unknown,Profit
+2143,Invalid Date,C274,Skincare Set,Beauty,Chennai,6,9138,3631,Repeat Customer,Unknown,Profit
+2144,01/08/2026,C375,Smartwatch,Electronics,Kolkata,2,36032,5631,Repeat Customer,August,Profit
+2145,Invalid Date,C242,Blender,Home,Hyderabad,4,18048,3972,Repeat Customer,Unknown,Profit
+2146,05/06/2026,C035,T-Shirt,Apparel,Unknown Region,3,2076,524,Repeat Customer,June,Profit
+2147,Invalid Date,C276,Desk,Furniture,Kolkata,1,13047,2906,New Customer,Unknown,Profit
+2148,Invalid Date,C472,Kurta,Apparel,Bangalore,4,3648,1012,Repeat Customer,Unknown,Profit
+2149,Invalid Date,C089,Skincare Set,Beauty,Mumbai,6,9900,3006,Repeat Customer,Unknown,Profit
+2150,Invalid Date,C355,Makeup Kit,Beauty,Chennai,4,12972,4034,New Customer,Unknown,Profit
+2151,Invalid Date,C107,Sofa,Furniture,Hyderabad,1,18312,3531,Repeat Customer,Unknown,Profit
+2152,Invalid Date,C265,Shoes,Apparel,Pune,1,,1484,Repeat Customer,Unknown,Profit
+2153,Invalid Date,C051,Sofa,Furniture,Mumbai,3,,8655,Repeat Customer,Unknown,Profit
+2154,01/04/2026,C237,Shoes,Apparel,Chennai,1,,850,Repeat Customer,April,Profit
+2155,Invalid Date,C390,Jacket,Apparel,Pune,1,4572,1484,Repeat Customer,Unknown,Profit
+2156,Invalid Date,C183,Perfume,Beauty,Kolkata,1,5356,1918,Repeat Customer,Unknown,Profit
+2157,Invalid Date,C337,Perfume,Beauty,Unknown Region,3,2563,942,Repeat Customer,Unknown,Profit
+2158,Invalid Date,C401,Perfume,Beauty,Kolkata,5,25250,7965,Repeat Customer,Unknown,Profit
+2159,Invalid Date,C462,T-Shirt,Apparel,Kolkata,1,,148,Repeat Customer,Unknown,Profit
+2160,Invalid Date,C122,Camera,Electronics,Chennai,2,55930,5720,Repeat Customer,Unknown,Profit
+2161,Invalid Date,C208,Cookware Set,Home,Hyderabad,5,44800,11402,Repeat Customer,Unknown,Profit
+2162,05/09/2026,C075,Camera,Electronics,Mumbai,6,325524,49989,Repeat Customer,September,Profit
+2163,04/10/2026,C479,Sofa,Furniture,Delhi,5,207605,42970,Repeat Customer,October,Profit
+2164,Invalid Date,C462,Chair,Furniture,Mumbai,5,28515,6387,Repeat Customer,Unknown,Profit
+2165,Invalid Date,C266,Tablet,Electronics,Bangalore,5,,18996,Repeat Customer,Unknown,Profit
+2166,Invalid Date,C421,Desk,Furniture,Bangalore,6,34482,8446,Repeat Customer,Unknown,Profit
+2167,Invalid Date,C262,Phone,Electronics,Bangalore,1,13790,1153,Repeat Customer,Unknown,Profit
+2168,04/11/2026,C314,Sofa,Furniture,Mumbai,2,88238,18308,Repeat Customer,November,Profit
+2169,Invalid Date,C051,Smartwatch,Electronics,Chennai,5,64190,11644,Repeat Customer,Unknown,Profit
+2170,Invalid Date,C389,Kurta,Apparel,Chennai,2,,724,Repeat Customer,Unknown,Profit
+2171,Invalid Date,C067,Chair,Furniture,Mumbai,3,18105,3635,Repeat Customer,Unknown,Profit
+2172,Invalid Date,C413,Table,Furniture,Pune,3,34340,7064,Repeat Customer,Unknown,Profit
+2173,08/02/2026,C396,Shoes,Apparel,Bangalore,2,9812,2553,Repeat Customer,February,Profit
+2174,Invalid Date,C365,Jacket,Apparel,Chennai,4,7744,1980,Repeat Customer,Unknown,Profit
+2175,08/01/2026,C018,Laptop,Electronics,Mumbai,2,94534,8584,Repeat Customer,January,Profit
+2176,Invalid Date,C155,Laptop,Electronics,Pune,4,,31522,Repeat Customer,Unknown,Profit
+2177,07/09/2026,C140,Speaker,Electronics,Bangalore,4,,7240,Repeat Customer,September,Profit
+2178,08/09/2026,C188,Table,Furniture,Delhi,3,48264,11844,Repeat Customer,September,Profit
+2179,Invalid Date,C049,Tablet,Electronics,Pune,3,109113,17294,Repeat Customer,Unknown,Profit
+2180,08/11/2026,Unknown Customer,Camera,Electronics,Kolkata,5,345405,42283,Unknown Customer,November,Profit
+2181,03/08/2026,C273,Laptop,Electronics,Hyderabad,1,72030,9411,Repeat Customer,August,Profit
+2182,Invalid Date,C155,Microwave,Home,Mumbai,2,21418,3316,Repeat Customer,Unknown,Profit
+2183,02/11/2026,C205,Chair,Furniture,Bangalore,6,51564,10213,Repeat Customer,November,Profit
+2184,Invalid Date,C235,Speaker,Electronics,Kolkata,1,10804,2047,Repeat Customer,Unknown,Profit
+2185,04/09/2026,C303,Kurta,Apparel,Bangalore,5,9155,3159,Repeat Customer,September,Profit
+2186,08/07/2026,C260,Table,Furniture,Hyderabad,2,26684,6907,Repeat Customer,July,Profit
+2187,07/09/2026,C454,Smartwatch,Electronics,Hyderabad,6,,15149,Repeat Customer,September,Profit
+2188,Invalid Date,C250,Bookshelf,Furniture,Pune,1,5565,1048,Repeat Customer,Unknown,Profit
+2189,06/10/2026,C479,Shoes,Apparel,Pune,5,23880,5876,Repeat Customer,October,Profit
+2190,Invalid Date,C428,Blender,Home,Pune,2,9028,1449,Repeat Customer,Unknown,Profit
+2191,Invalid Date,C113,Desk,Furniture,Delhi,5,29680,6451,Repeat Customer,Unknown,Profit
+2192,Invalid Date,C464,Bookshelf,Furniture,Hyderabad,4,20420,3956,Repeat Customer,Unknown,Profit
+2193,Invalid Date,C056,Microwave,Home,Chennai,2,15656,2520,Repeat Customer,Unknown,Profit
+2194,08/01/2026,C412,Table,Furniture,Mumbai,1,19944,4855,Repeat Customer,January,Profit
+2195,Invalid Date,C198,T-Shirt,Apparel,Chennai,3,3441,1191,Repeat Customer,Unknown,Profit
+2196,01/10/2026,C442,Camera,Electronics,Kolkata,2,61012,7798,Repeat Customer,October,Profit
+2197,Invalid Date,C439,Tablet,Electronics,Hyderabad,1,30532,4647,Repeat Customer,Unknown,Profit
+2198,07/03/2026,C406,Smartwatch,Electronics,Pune,1,9736,2064,Repeat Customer,March,Profit
+2199,Invalid Date,C398,Sofa,Furniture,Delhi,2,60130,10997,New Customer,Unknown,Profit
+2200,Invalid Date,C155,Table,Furniture,Chennai,4,45480,8550,Repeat Customer,Unknown,Profit
+2201,08/12/2026,C044,Sofa,Furniture,Bangalore,1,40184,6643,Repeat Customer,December,Profit
+2202,05/09/2026,C212,Makeup Kit,Beauty,Mumbai,2,5424,0,Repeat Customer,September,Break-even
+2203,Invalid Date,C089,Bookshelf,Furniture,Chennai,3,16284,3877,Repeat Customer,Unknown,Profit
+2204,Invalid Date,C359,Vacuum Cleaner,Home,Chennai,3,22917,5419,Repeat Customer,Unknown,Profit
+2205,Invalid Date,C183,Jeans,Apparel,Mumbai,4,7028,2406,Repeat Customer,Unknown,Profit
+2206,Invalid Date,C476,Perfume,Beauty,Mumbai,1,1290,426,Repeat Customer,Unknown,Profit
+2207,Invalid Date,C322,Chair,Furniture,Chennai,4,31400,6182,Repeat Customer,Unknown,Profit
+2208,Invalid Date,C412,Jacket,Apparel,Kolkata,1,4016,1209,Repeat Customer,Unknown,Profit
+2209,Invalid Date,C070,Speaker,Electronics,Hyderabad,5,51260,11232,Repeat Customer,Unknown,Profit
+2210,Invalid Date,C436,Vacuum Cleaner,Home,Pune,6,99186,22728,Repeat Customer,Unknown,Profit
+2211,Invalid Date,C456,Camera,Electronics,Pune,2,106710,11183,Repeat Customer,Unknown,Profit
+2212,Invalid Date,C249,Makeup Kit,Beauty,Delhi,3,10503,3576,Repeat Customer,Unknown,Profit
+2213,06/05/2026,C306,Cookware Set,Home,Hyderabad,3,14817,0,Repeat Customer,May,Break-even
+2214,05/09/2026,C391,Table,Furniture,Mumbai,5,90825,21134,Repeat Customer,September,Profit
+2214,05/09/2026,C391,Table,Furniture,Mumbai,5,90825,21134,Repeat Customer,September,Profit
+2215,07/05/2026,C089,Vacuum Cleaner,Home,Chennai,3,44601,7542,Repeat Customer,May,Profit
+2216,Invalid Date,C253,Vacuum Cleaner,Home,Kolkata,1,7272,1614,Repeat Customer,Unknown,Profit
+2217,02/07/2026,C208,Headphones,Electronics,Chennai,2,11662,2852,Repeat Customer,July,Profit
+2218,Invalid Date,Unknown Customer,Bookshelf,Furniture,Kolkata,6,46950,8784,Unknown Customer,Unknown,Profit
+2219,04/08/2026,C192,Phone,Electronics,Kolkata,1,27735,2978,Repeat Customer,August,Profit
+2220,06/02/2026,Unknown Customer,Table,Furniture,Bangalore,6,116736,29417,Unknown Customer,February,Profit
+2221,Invalid Date,C012,Smartwatch,Electronics,Mumbai,2,6586,0,Repeat Customer,Unknown,Break-even
+2222,Invalid Date,C070,Perfume,Beauty,Bangalore,3,9063,3103,Repeat Customer,Unknown,Profit
+2223,Invalid Date,C473,Shoes,Apparel,Kolkata,3,17007,4589,Repeat Customer,Unknown,Profit
+2224,Invalid Date,C271,Shoes,Apparel,Chennai,1,2059,516,Repeat Customer,Unknown,Profit
+2225,02/09/2026,C474,Cookware Set,Home,Mumbai,3,21044,4551,Repeat Customer,September,Profit
+2226,03/07/2026,C227,Makeup Kit,Beauty,Kolkata,3,12234,0,Repeat Customer,July,Break-even
+2227,Invalid Date,C158,Table,Furniture,Kolkata,1,11363,2525,Repeat Customer,Unknown,Profit
+2228,Invalid Date,C256,Smartwatch,Electronics,Pune,6,31236,5352,Repeat Customer,Unknown,Profit
+2229,07/01/2026,C230,Vacuum Cleaner,Home,Pune,2,9086,1846,Repeat Customer,January,Profit
+2230,Invalid Date,C053,Speaker,Electronics,Mumbai,2,5014,922,Repeat Customer,Unknown,Profit
+2231,05/03/2026,C322,Phone,Electronics,Hyderabad,3,115095,15280,Repeat Customer,March,Profit
+2232,08/06/2026,C115,Makeup Kit,Beauty,Hyderabad,3,13437,4447,Repeat Customer,June,Profit
+2233,08/02/2026,C309,Jacket,Apparel,Chennai,6,13164,4594,Repeat Customer,February,Profit
+2234,01/07/2026,C325,Microwave,Home,Mumbai,2,16880,2555,Repeat Customer,July,Profit
+2235,Invalid Date,C075,T-Shirt,Apparel,Pune,2,1244,425,Repeat Customer,Unknown,Profit
+2236,Invalid Date,C035,Desk,Furniture,Delhi,2,15454,3514,Repeat Customer,Unknown,Profit
+2237,Invalid Date,C396,Tablet,Electronics,Bangalore,4,94152,0,Repeat Customer,Unknown,Break-even
+2238,04/11/2026,C242,Laptop,Electronics,Hyderabad,3,128046,17808,Repeat Customer,November,Profit
+2239,06/05/2026,C034,Makeup Kit,Beauty,Hyderabad,5,12610,4468,Repeat Customer,May,Profit
+2240,05/10/2026,C479,Kurta,Apparel,Bangalore,6,10974,2967,Repeat Customer,October,Profit
+2241,Invalid Date,C034,T-Shirt,Apparel,Chennai,6,5514,1925,Repeat Customer,Unknown,Profit
+2242,01/09/2026,C359,Headphones,Electronics,Delhi,2,9386,1498,Repeat Customer,September,Profit
+2243,Invalid Date,Unknown Customer,Skincare Set,Beauty,Hyderabad,2,1748,629,Unknown Customer,Unknown,Profit
+2244,02/03/2026,C127,Smartwatch,Electronics,Hyderabad,1,17542,2986,Repeat Customer,March,Profit
+2245,Invalid Date,C070,Bookshelf,Furniture,Hyderabad,4,462360,91809,Repeat Customer,Unknown,Profit
+2246,01/03/2026,C063,Phone,Electronics,Chennai,4,151756,19690,Repeat Customer,March,Profit
+2247,03/01/2026,C155,Microwave,Home,Delhi,1,8887,1320,Repeat Customer,January,Profit
+2248,02/05/2026,C053,Speaker,Electronics,Chennai,5,53695,8554,Repeat Customer,May,Profit
+2249,Invalid Date,C357,Blender,Home,Kolkata,3,8547,1429,Repeat Customer,Unknown,Profit
+2250,Invalid Date,C035,Kurta,Apparel,Mumbai,5,11130,2948,Repeat Customer,Unknown,Profit
+2251,Invalid Date,C257,Laptop,Electronics,Bangalore,6,,36296,Repeat Customer,Unknown,Profit
+2252,07/01/2026,C479,Vacuum Cleaner,Home,Delhi,1,9177,1722,Repeat Customer,January,Profit
+2253,Invalid Date,C409,Makeup Kit,Beauty,Bangalore,6,25944,10219,Repeat Customer,Unknown,Profit
+2254,04/06/2026,C307,Sofa,Furniture,Pune,5,110190,19523,Repeat Customer,June,Profit
+2255,Invalid Date,C155,Speaker,Electronics,Mumbai,6,,12161,Repeat Customer,Unknown,Profit
+2256,Invalid Date,C314,Perfume,Beauty,Hyderabad,4,11768,3687,Repeat Customer,Unknown,Profit
+2257,Invalid Date,C262,Cookware Set,Home,Pune,2,,1793,Repeat Customer,Unknown,Profit
+2258,05/04/2026,C227,Laptop,Electronics,Delhi,2,99878,9040,Repeat Customer,April,Profit
+2259,Invalid Date,C069,Headphones,Electronics,Bangalore,6,25812,4875,Repeat Customer,Unknown,Profit
+2260,Invalid Date,C445,Camera,Electronics,Hyderabad,4,243948,26598,Repeat Customer,Unknown,Profit
+2261,05/02/2026,C237,Laptop,Electronics,Pune,2,143204,13501,Repeat Customer,February,Profit
+2262,02/10/2026,C104,Phone,Electronics,Mumbai,3,39636,5236,Repeat Customer,October,Profit
+2263,Invalid Date,C192,Perfume,Beauty,Chennai,5,20615,7821,Repeat Customer,Unknown,Profit
+2264,Invalid Date,C219,Camera,Electronics,Kolkata,5,322620,43379,Repeat Customer,Unknown,Profit
+2265,Invalid Date,C413,Sofa,Furniture,Kolkata,6,130800,23437,Repeat Customer,Unknown,Profit
+2266,02/05/2026,C377,Blender,Home,Pune,6,11562,2116,Repeat Customer,May,Profit
+2267,02/02/2026,C391,Shoes,Apparel,Hyderabad,4,13836,4274,Repeat Customer,February,Profit
+2268,Invalid Date,C004,Blender,Home,Hyderabad,3,12576,2865,Repeat Customer,Unknown,Profit
+2269,08/08/2026,C220,Blender,Home,Pune,4,6400,1190,Repeat Customer,August,Profit
+2270,Invalid Date,C248,Kurta,Apparel,Unknown Region,5,3605,951,Repeat Customer,Unknown,Profit
+2271,08/08/2026,C010,Shoes,Apparel,Chennai,3,15129,4827,Repeat Customer,August,Profit
+2272,Invalid Date,C138,Desk,Furniture,Delhi,3,27549,5298,Repeat Customer,Unknown,Profit
+2273,Invalid Date,C391,Blender,Home,Chennai,3,9852,1946,Repeat Customer,Unknown,Profit
+2274,Invalid Date,C070,Speaker,Electronics,Delhi,3,8382,1689,Repeat Customer,Unknown,Profit
+2275,04/01/2026,C264,Jacket,Apparel,Pune,5,17470,4843,New Customer,January,Profit
+2276,Invalid Date,C115,Perfume,Beauty,Chennai,5,6580,2301,Repeat Customer,Unknown,Profit
+2277,01/11/2026,C006,Table,Furniture,Bangalore,1,,3581,Repeat Customer,November,Profit
+2278,Invalid Date,C127,Jeans,Apparel,Hyderabad,3,8943,2560,Repeat Customer,Unknown,Profit
+2279,07/08/2026,C476,Makeup Kit,Beauty,Mumbai,3,12666,4906,Repeat Customer,August,Profit
+2280,Invalid Date,C404,Kurta,Apparel,Hyderabad,3,0,940,Repeat Customer,Unknown,Profit
+2281,Invalid Date,C472,Skincare Set,Beauty,Delhi,5,19650,6957,Repeat Customer,Unknown,Profit
+2282,Invalid Date,C249,Jeans,Apparel,Hyderabad,6,,5136,Repeat Customer,Unknown,Profit
+2283,Invalid Date,C054,Perfume,Beauty,Kolkata,4,6620,2351,Repeat Customer,Unknown,Profit
+2284,06/10/2026,C271,Blender,Home,Kolkata,1,4952,875,Repeat Customer,October,Profit
+2285,06/11/2026,C241,Blender,Home,Mumbai,5,17980,3172,Repeat Customer,November,Profit
+2286,Invalid Date,C422,Vacuum Cleaner,Home,Pune,1,12965,2641,Repeat Customer,Unknown,Profit
+2287,05/11/2026,C052,Laptop,Electronics,Chennai,5,187005,15488,Repeat Customer,November,Profit
+2288,Invalid Date,C249,Skincare Set,Beauty,Bangalore,4,3956,1311,Repeat Customer,Unknown,Profit
+2289,Invalid Date,C074,Jeans,Apparel,Mumbai,2,3386,957,Repeat Customer,Unknown,Profit
+2290,Invalid Date,C167,Table,Furniture,Hyderabad,3,20196,5221,Repeat Customer,Unknown,Profit
+2291,08/12/2026,C379,Phone,Electronics,Mumbai,4,77840,9730,Repeat Customer,December,Profit
+2292,Invalid Date,C246,Sofa,Furniture,Pune,3,80109,13653,Repeat Customer,Unknown,Profit
+2293,Invalid Date,C197,Camera,Electronics,Mumbai,4,137312,17900,Repeat Customer,Unknown,Profit
+2294,07/08/2026,C204,Blender,Home,Pune,6,9924,2246,Repeat Customer,August,Profit
+2295,06/11/2026,C242,Vacuum Cleaner,Home,Hyderabad,2,27106,5180,Repeat Customer,November,Profit
+2296,Invalid Date,C396,Vacuum Cleaner,Home,Delhi,4,,7844,Repeat Customer,Unknown,Profit
+2297,06/01/2026,C446,Sofa,Furniture,Delhi,3,127356,23378,Repeat Customer,January,Profit
+2298,Invalid Date,C472,Blender,Home,Chennai,6,14928,3308,Repeat Customer,Unknown,Profit
+2299,01/09/2026,C397,Camera,Electronics,Chennai,4,112272,13770,Repeat Customer,September,Profit
+2300,05/02/2026,C161,Smartwatch,Electronics,Mumbai,2,23606,4440,Repeat Customer,February,Profit
+2301,02/05/2026,C353,Bookshelf,Furniture,Mumbai,3,32010,6464,Repeat Customer,May,Profit
+2302,Invalid Date,C229,Phone,Electronics,Delhi,2,88174,9062,Repeat Customer,Unknown,Profit
+2303,Invalid Date,C135,Unknown Product,Apparel,Pune,1,1211,305,Repeat Customer,Unknown,Profit
+2304,03/12/2026,C421,Table,Furniture,Pune,6,61146,12959,Repeat Customer,December,Profit
+2305,01/03/2026,C020,Headphones,Electronics,Bangalore,3,18759,3093,New Customer,March,Profit
+2306,Invalid Date,C447,Sofa,Furniture,Mumbai,6,175608,32657,Repeat Customer,Unknown,Profit
+2307,Invalid Date,C242,Headphones,Electronics,Bangalore,4,23524,5013,Repeat Customer,Unknown,Profit
+2308,Invalid Date,C319,Phone,Electronics,Chennai,6,72900,7703,New Customer,Unknown,Profit
+2309,Invalid Date,C331,Shoes,Apparel,Chennai,6,,4985,Repeat Customer,Unknown,Profit
+2310,Invalid Date,C447,Microwave,Home,Kolkata,1,11583,1795,Repeat Customer,Unknown,Profit
+2311,Invalid Date,C318,Kurta,Apparel,Mumbai,1,1958,637,Repeat Customer,Unknown,Profit
+2312,Invalid Date,C306,Camera,Electronics,Mumbai,5,183280,27784,Repeat Customer,Unknown,Profit
+2313,06/10/2026,C035,T-Shirt,Apparel,Mumbai,6,2130,656,Repeat Customer,October,Profit
+2314,03/05/2026,C262,Chair,Furniture,Bangalore,1,5741,1491,Repeat Customer,May,Profit
+2315,Invalid Date,C074,Cookware Set,Home,Chennai,1,4183,1085,Repeat Customer,Unknown,Profit
+2316,04/10/2026,C379,Bookshelf,Furniture,Mumbai,6,57882,12306,Repeat Customer,October,Profit
+2317,Invalid Date,C258,Sofa,Furniture,Delhi,1,20133,4236,Repeat Customer,Unknown,Profit
+2318,08/09/2026,C349,Skincare Set,Beauty,Kolkata,3,1214,429,Repeat Customer,September,Profit
+2319,Invalid Date,C023,Headphones,Electronics,Delhi,5,34360,6741,Repeat Customer,Unknown,Profit
+2320,04/12/2026,C047,Jacket,Apparel,Kolkata,1,3777,1090,Repeat Customer,December,Profit
+2321,Invalid Date,C367,Smartwatch,Electronics,Hyderabad,6,50328,10024,Repeat Customer,Unknown,Profit
+2322,Invalid Date,C038,Microwave,Home,Bangalore,6,37854,5549,Repeat Customer,Unknown,Profit
+2323,Invalid Date,C037,Chair,Furniture,Kolkata,1,6191,1287,Repeat Customer,Unknown,Profit
+2324,08/10/2026,C006,Camera,Electronics,Chennai,4,206360,23175,Repeat Customer,October,Profit
+2325,01/10/2026,C472,Phone,Electronics,Delhi,5,89865,7245,Repeat Customer,October,Profit
+2326,07/10/2026,C379,T-Shirt,Apparel,Pune,1,713,249,Repeat Customer,October,Profit
+2327,Invalid Date,C184,Table,Furniture,Mumbai,2,22460,4807,Repeat Customer,Unknown,Profit
+2328,Invalid Date,C155,Perfume,Beauty,Delhi,1,2865,1083,Repeat Customer,Unknown,Profit
+2329,Invalid Date,C183,Sofa,Furniture,Delhi,5,150260,25684,Repeat Customer,Unknown,Profit
+2330,Invalid Date,C391,Headphones,Electronics,Mumbai,1,1807,361,Repeat Customer,Unknown,Profit
+2331,Invalid Date,C332,Headphones,Electronics,Bangalore,1,4866,940,Repeat Customer,Unknown,Profit
+2331,Invalid Date,C332,Headphones,Electronics,Bangalore,1,4866,940,Repeat Customer,Unknown,Profit
+2332,06/03/2026,C095,Vacuum Cleaner,Home,Bangalore,6,103500,22418,Repeat Customer,March,Profit
+2333,Invalid Date,C089,Desk,Furniture,Delhi,6,63492,13195,Repeat Customer,Unknown,Profit
+2334,Invalid Date,C052,Vacuum Cleaner,Home,Bangalore,1,8243,1324,Repeat Customer,Unknown,Profit
+2335,Invalid Date,Unknown Customer,Speaker,Electronics,Bangalore,6,62322,12873,Unknown Customer,Unknown,Profit
+2336,Invalid Date,C391,Laptop,Electronics,Chennai,2,135732,0,Repeat Customer,Unknown,Break-even
+2337,Invalid Date,C140,Desk,Furniture,Kolkata,3,165690,31047,Repeat Customer,Unknown,Profit
+2338,Invalid Date,C012,Bookshelf,Furniture,Mumbai,4,46396,11194,Repeat Customer,Unknown,Profit
+2339,Invalid Date,C045,Jeans,Apparel,Kolkata,2,1740,439,Repeat Customer,Unknown,Profit
+2340,Invalid Date,C475,Vacuum Cleaner,Home,Bangalore,5,53585,9807,Repeat Customer,Unknown,Profit
+2341,07/04/2026,C155,Vacuum Cleaner,Home,Hyderabad,6,46344,9584,Repeat Customer,April,Profit
+2342,Invalid Date,C391,Bookshelf,Furniture,Pune,3,35538,0,Repeat Customer,Unknown,Break-even
+2343,Invalid Date,C314,Sofa,Furniture,Bangalore,5,174570,31429,Repeat Customer,Unknown,Profit
+2344,04/12/2026,C198,Headphones,Electronics,Mumbai,5,10330,2478,Repeat Customer,December,Profit
+2345,07/01/2026,C111,Jacket,Apparel,Pune,3,,3603,Repeat Customer,January,Profit
+2346,02/12/2026,C063,Bookshelf,Furniture,Bangalore,4,35672,7946,Repeat Customer,December,Profit
+2347,08/01/2026,C307,Camera,Electronics,Mumbai,5,210735,24754,Repeat Customer,January,Profit
+2348,Invalid Date,C391,Speaker,Electronics,Hyderabad,1,9251,1701,Repeat Customer,Unknown,Profit
+2349,Invalid Date,C324,Kurta,Apparel,Chennai,4,9432,2362,Repeat Customer,Unknown,Profit
+2350,Invalid Date,C262,Speaker,Electronics,Mumbai,1,,2205,Repeat Customer,Unknown,Profit
+2351,Invalid Date,C024,Kurta,Apparel,Mumbai,3,0,1306,Repeat Customer,Unknown,Profit
+2352,07/07/2026,C475,Sofa,Furniture,Pune,6,,39577,Repeat Customer,July,Profit
+2353,Invalid Date,C402,Laptop,Electronics,Pune,5,271895,27506,Repeat Customer,Unknown,Profit
+2354,04/11/2026,C153,T-Shirt,Apparel,Delhi,5,2315,768,Repeat Customer,November,Profit
+2355,Invalid Date,C476,Jeans,Apparel,Delhi,4,10204,2802,Repeat Customer,Unknown,Profit
+2356,03/04/2026,C304,Jacket,Apparel,Delhi,2,7966,2008,Repeat Customer,April,Profit
+2357,Invalid Date,C288,Smartwatch,Electronics,Bangalore,5,97280,17179,Repeat Customer,Unknown,Profit
+2358,Invalid Date,C385,Bookshelf,Furniture,Mumbai,2,8674,2101,Repeat Customer,Unknown,Profit
+2359,Invalid Date,C409,Smartwatch,Electronics,Chennai,3,40056,6626,Repeat Customer,Unknown,Profit
+2360,Invalid Date,C328,T-Shirt,Apparel,Mumbai,5,2970,989,Repeat Customer,Unknown,Profit
+2361,08/10/2026,C068,Skincare Set,Beauty,Delhi,2,7748,2648,Repeat Customer,October,Profit
+2362,Invalid Date,C179,Tablet,Electronics,Bangalore,6,162990,18118,Repeat Customer,Unknown,Profit
+2363,02/06/2026,C462,Jeans,Apparel,Pune,3,3828,1068,Repeat Customer,June,Profit
+2364,02/05/2026,C119,Vacuum Cleaner,Home,Hyderabad,6,29514,6371,Repeat Customer,May,Profit
+2365,Invalid Date,C193,Shoes,Apparel,Chennai,1,1551,478,Repeat Customer,Unknown,Profit
+2366,Invalid Date,C227,Blender,Home,Mumbai,2,6464,1383,Repeat Customer,Unknown,Profit
+2367,Invalid Date,C230,Vacuum Cleaner,Home,Hyderabad,3,33372,6939,Repeat Customer,Unknown,Profit
+2368,Invalid Date,C306,Camera,Electronics,Bangalore,6,120354,18526,Repeat Customer,Unknown,Profit
+2369,Invalid Date,C468,Makeup Kit,Beauty,Hyderabad,3,10839,3557,Repeat Customer,Unknown,Profit
+2370,01/10/2026,C127,Jacket,Apparel,Bangalore,3,10713,2723,Repeat Customer,October,Profit
+2371,Invalid Date,C063,Phone,Electronics,Mumbai,6,112386,13079,Repeat Customer,Unknown,Profit
+2372,Invalid Date,C105,Microwave,Home,Kolkata,4,48740,8975,Repeat Customer,Unknown,Profit
+2373,Invalid Date,C445,Vacuum Cleaner,Home,Kolkata,3,32739,7086,Repeat Customer,Unknown,Profit
+2374,Invalid Date,C325,Perfume,Beauty,Chennai,1,1745,0,Repeat Customer,Unknown,Break-even
+2375,Invalid Date,C149,Jeans,Apparel,Mumbai,4,10244,3391,New Customer,Unknown,Profit
+2376,05/04/2026,C411,Blender,Home,Unknown Region,1,3692,863,Repeat Customer,April,Profit
+2377,Invalid Date,C436,Makeup Kit,Beauty,Pune,5,10990,3437,Repeat Customer,Unknown,Profit
+2378,07/02/2026,C424,Smartwatch,Electronics,Mumbai,3,,11265,Repeat Customer,February,Profit
+2379,Invalid Date,C454,Skincare Set,Beauty,Kolkata,4,4972,1844,Repeat Customer,Unknown,Profit
+2380,Invalid Date,C135,Laptop,Electronics,Kolkata,2,91164,11885,Repeat Customer,Unknown,Profit
+2381,Invalid Date,C389,Chair,Furniture,Kolkata,4,,2574,Repeat Customer,Unknown,Profit
+2382,Invalid Date,C242,Perfume,Beauty,Pune,4,5092,1544,Repeat Customer,Unknown,Profit
+2383,08/07/2026,C421,Shoes,Apparel,Hyderabad,4,6924,1597,Repeat Customer,July,Profit
+2384,07/04/2026,C373,Smartwatch,Electronics,Delhi,1,19215,3981,Repeat Customer,April,Profit
+2385,Invalid Date,C393,Laptop,Electronics,Delhi,6,,44137,Repeat Customer,Unknown,Profit
+2386,Invalid Date,C328,Tablet,Electronics,Chennai,2,77816,10792,Repeat Customer,Unknown,Profit
+2387,03/01/2026,C091,Phone,Electronics,Hyderabad,1,46493,5361,New Customer,January,Profit
+2388,Invalid Date,C268,Headphones,Electronics,Bangalore,5,,8396,Repeat Customer,Unknown,Profit
+2389,07/03/2026,C476,Headphones,Electronics,Mumbai,6,40218,6301,Repeat Customer,March,Profit
+2390,Invalid Date,Unknown Customer,Headphones,Electronics,Delhi,6,35958,7818,Unknown Customer,Unknown,Profit
+2391,08/11/2026,C025,Smartwatch,Electronics,Hyderabad,2,37088,7467,Repeat Customer,November,Profit
+2392,02/10/2026,C082,Blender,Home,Pune,4,9868,1994,Repeat Customer,October,Profit
+2393,Invalid Date,C070,Jeans,Apparel,Kolkata,5,4225,1346,Repeat Customer,Unknown,Profit
+2393,Invalid Date,C070,Jeans,Apparel,Kolkata,5,4225,1346,Repeat Customer,Unknown,Profit
+2394,Invalid Date,C369,Sofa,Furniture,Kolkata,3,100599,16044,Repeat Customer,Unknown,Profit
+2395,02/05/2026,C412,Laptop,Electronics,Bangalore,3,39747,5424,Repeat Customer,May,Profit
+2396,03/11/2026,C114,Desk,Furniture,Pune,1,,2564,Repeat Customer,November,Profit
+2397,Invalid Date,C256,Shoes,Apparel,Chennai,4,15452,4932,Repeat Customer,Unknown,Profit
+2398,Invalid Date,C421,Phone,Electronics,Chennai,5,67520,8007,Repeat Customer,Unknown,Profit
+2399,01/07/2026,C377,Jacket,Apparel,Hyderabad,2,9654,2580,Repeat Customer,July,Profit
+2400,Invalid Date,C267,Perfume,Beauty,Delhi,3,11097,4065,Repeat Customer,Unknown,Profit
+2401,Invalid Date,C294,Chair,Furniture,Bangalore,1,5299,1135,Repeat Customer,Unknown,Profit
+2402,Invalid Date,C257,Skincare Set,Beauty,Bangalore,4,13520,4619,Repeat Customer,Unknown,Profit
+2403,04/02/2026,C155,Cookware Set,Home,Bangalore,6,32076,7339,Repeat Customer,February,Profit
+2404,Invalid Date,C277,Sofa,Furniture,Bangalore,3,115848,18795,Repeat Customer,Unknown,Profit
+2405,Invalid Date,C353,Chair,Furniture,Hyderabad,2,15670,3616,Repeat Customer,Unknown,Profit
+2406,03/01/2026,C442,Perfume,Beauty,Hyderabad,3,12039,3834,Repeat Customer,January,Profit
+2407,Invalid Date,C317,Cookware Set,Home,Pune,3,10620,2524,Repeat Customer,Unknown,Profit
+2408,01/11/2026,C391,Skincare Set,Beauty,Chennai,6,13248,4042,Repeat Customer,November,Profit
+2409,Invalid Date,C080,Vacuum Cleaner,Home,Delhi,3,,3541,New Customer,Unknown,Profit
+2410,Invalid Date,C242,Jeans,Apparel,Mumbai,3,7134,2385,Repeat Customer,Unknown,Profit
+2411,03/02/2026,C003,Laptop,Electronics,Kolkata,1,68499,8171,Repeat Customer,February,Profit
+2412,Invalid Date,C130,Headphones,Electronics,Chennai,1,4045,894,Repeat Customer,Unknown,Profit
+2413,01/12/2026,C370,Camera,Electronics,Bangalore,5,282205,28872,Repeat Customer,December,Profit
+2414,03/08/2026,C479,Speaker,Electronics,Pune,1,6035,1104,Repeat Customer,August,Profit
+2415,Invalid Date,C052,Perfume,Beauty,Mumbai,2,9540,3217,Repeat Customer,Unknown,Profit
+2416,Invalid Date,C211,Microwave,Home,Delhi,4,59644,11582,Repeat Customer,Unknown,Profit
+2417,Invalid Date,C403,Cookware Set,Home,Mumbai,5,,7330,Repeat Customer,Unknown,Profit
+2418,Invalid Date,C109,Sofa,Furniture,Bangalore,6,211650,32947,New Customer,Unknown,Profit
+2419,Invalid Date,C273,Cookware Set,Home,Delhi,6,,0,Repeat Customer,Unknown,Break-even
+2420,08/12/2026,C377,Perfume,Beauty,Chennai,3,5289,1969,Repeat Customer,December,Profit
+2421,Invalid Date,C307,Chair,Furniture,Bangalore,1,7468,1433,Repeat Customer,Unknown,Profit
+2422,05/11/2026,C097,Tablet,Electronics,Hyderabad,4,89132,8961,Repeat Customer,November,Profit
+2423,Invalid Date,C186,Jacket,Apparel,Chennai,1,1675,440,Repeat Customer,Unknown,Profit
+2424,Invalid Date,C396,Blender,Home,Pune,1,2238,359,Repeat Customer,Unknown,Profit
+2425,03/03/2026,C273,Kurta,Apparel,Bangalore,1,1828,535,Repeat Customer,March,Profit
+2426,07/06/2026,C002,Smartwatch,Electronics,Hyderabad,4,69752,15052,Repeat Customer,June,Profit
+2427,Invalid Date,C391,Perfume,Beauty,Pune,6,0,8556,Repeat Customer,Unknown,Profit
+2428,Invalid Date,C017,Skincare Set,Beauty,Bangalore,6,7308,2408,Repeat Customer,Unknown,Profit
+2429,07/06/2026,C384,Kurta,Apparel,Unknown Region,4,9992,2875,Repeat Customer,June,Profit
+2430,Invalid Date,C108,Desk,Furniture,Kolkata,6,44250,10467,Repeat Customer,Unknown,Profit
+2431,08/06/2026,C472,Smartwatch,Electronics,Kolkata,5,89000,16549,Repeat Customer,June,Profit
+2432,Invalid Date,C192,Jeans,Apparel,Kolkata,6,17592,5862,Repeat Customer,Unknown,Profit
+2433,Invalid Date,C170,Bookshelf,Furniture,Chennai,6,28662,6384,Repeat Customer,Unknown,Profit
+2434,Invalid Date,C074,T-Shirt,Apparel,Mumbai,2,1820,628,Repeat Customer,Unknown,Profit
+2435,05/07/2026,C155,Camera,Electronics,Kolkata,6,351984,53932,Repeat Customer,July,Profit
+2436,Invalid Date,C442,Perfume,Beauty,Mumbai,2,5586,1743,Repeat Customer,Unknown,Profit
+2437,08/06/2026,C479,Cookware Set,Home,Bangalore,3,18678,4114,Repeat Customer,June,Profit
+2438,Invalid Date,C193,Cookware Set,Home,Hyderabad,3,25098,5204,Repeat Customer,Unknown,Profit
+2439,07/05/2026,C236,Jacket,Apparel,Pune,2,3870,1351,Repeat Customer,May,Profit
+2440,Invalid Date,C368,Chair,Furniture,Delhi,2,,1239,Repeat Customer,Unknown,Profit
+2441,Invalid Date,C445,Blender,Home,Chennai,3,13461,3214,Repeat Customer,Unknown,Profit
+2442,Invalid Date,C297,Camera,Electronics,Mumbai,4,0,16577,Repeat Customer,Unknown,Profit
+2443,Invalid Date,C204,Table,Furniture,Delhi,5,94870,18818,Repeat Customer,Unknown,Profit
+2444,Invalid Date,C218,Speaker,Electronics,Bangalore,5,32175,7045,Repeat Customer,Unknown,Profit
+2445,Invalid Date,C359,T-Shirt,Apparel,Hyderabad,3,,546,Repeat Customer,Unknown,Profit
+2446,Invalid Date,C002,Bookshelf,Furniture,Delhi,5,22285,5481,Repeat Customer,Unknown,Profit
+2447,Invalid Date,C309,Vacuum Cleaner,Home,Mumbai,4,62604,12936,Repeat Customer,Unknown,Profit
+2448,Invalid Date,C186,Camera,Electronics,Kolkata,5,175525,20770,Repeat Customer,Unknown,Profit
+2449,Invalid Date,C400,Cookware Set,Home,Mumbai,3,11127,2094,Repeat Customer,Unknown,Profit
+2450,06/09/2026,C051,Kurta,Apparel,Kolkata,5,6375,1880,Repeat Customer,September,Profit
+2451,02/01/2026,C293,Jacket,Apparel,Pune,1,2518,832,Repeat Customer,January,Profit
+2452,Invalid Date,C248,Laptop,Electronics,Delhi,5,286480,32380,Repeat Customer,Unknown,Profit
+2453,Invalid Date,C323,Table,Furniture,Chennai,3,13496,3352,Repeat Customer,Unknown,Profit
+2454,03/08/2026,Unknown Customer,Perfume,Beauty,Chennai,4,20540,7022,Unknown Customer,August,Profit
+2455,Invalid Date,C285,Speaker,Electronics,Mumbai,2,16056,3127,Repeat Customer,Unknown,Profit
+2456,Invalid Date,C275,Chair,Furniture,Chennai,1,4111,986,Repeat Customer,Unknown,Profit
+2457,Invalid Date,C274,Bookshelf,Furniture,Delhi,6,66234,13637,Repeat Customer,Unknown,Profit
+2458,04/07/2026,C305,Microwave,Home,Mumbai,4,56652,10212,Repeat Customer,July,Profit
+2459,02/07/2026,C346,Cookware Set,Home,Hyderabad,3,,5421,Repeat Customer,July,Profit
+2460,04/05/2026,C406,T-Shirt,Apparel,Mumbai,6,,1091,Repeat Customer,May,Profit
+2461,04/11/2026,C140,Jacket,Apparel,Hyderabad,1,3337,1113,Repeat Customer,November,Profit
+2462,02/05/2026,C413,Phone,Electronics,Kolkata,5,258395,28359,Repeat Customer,May,Profit
+2463,Invalid Date,C251,Jeans,Apparel,Hyderabad,3,2736,898,Repeat Customer,Unknown,Profit
+2464,04/06/2026,C043,Camera,Electronics,Bangalore,3,208317,23427,Repeat Customer,June,Profit
+2465,Invalid Date,C034,Smartwatch,Electronics,Mumbai,6,69780,13033,Repeat Customer,Unknown,Profit
+2466,06/03/2026,C176,Skincare Set,Beauty,Pune,3,1865,719,Repeat Customer,March,Profit
+2467,Invalid Date,C396,Microwave,Home,Kolkata,3,,2768,Repeat Customer,Unknown,Profit
+2468,02/04/2026,C365,Vacuum Cleaner,Home,Chennai,6,24000,4726,Repeat Customer,April,Profit
+2469,Invalid Date,C397,Cookware Set,Home,Kolkata,5,36290,7334,Repeat Customer,Unknown,Profit
+2470,03/06/2026,C261,Cookware Set,Home,Kolkata,2,5098,1062,Repeat Customer,June,Profit
+2471,05/04/2026,C230,Bookshelf,Furniture,Mumbai,3,33249,6325,Repeat Customer,April,Profit
+2472,01/03/2026,C072,Headphones,Electronics,Kolkata,6,43386,8270,New Customer,March,Profit
+2473,06/09/2026,C171,Camera,Electronics,Bangalore,4,163432,17113,Repeat Customer,September,Profit
+2474,Invalid Date,C228,Microwave,Home,Kolkata,6,37464,7427,Repeat Customer,Unknown,Profit
+2475,Invalid Date,C050,Tablet,Electronics,Kolkata,5,199875,21087,Repeat Customer,Unknown,Profit
+2476,Invalid Date,C117,Sofa,Furniture,Mumbai,5,,39874,Repeat Customer,Unknown,Profit
+2477,Invalid Date,C301,Sofa,Furniture,Hyderabad,2,46348,9815,New Customer,Unknown,Profit
+2478,Invalid Date,C379,Phone,Electronics,Kolkata,6,232140,26218,Repeat Customer,Unknown,Profit
+2479,Invalid Date,C479,Speaker,Electronics,Kolkata,2,17322,3638,Repeat Customer,Unknown,Profit
+2480,Invalid Date,C465,Vacuum Cleaner,Home,Chennai,1,4282,943,Repeat Customer,Unknown,Profit
+2481,07/01/2026,C323,Skincare Set,Beauty,Delhi,4,9028,3071,Repeat Customer,January,Profit
+2481,07/01/2026,C323,Skincare Set,Beauty,Delhi,4,9028,3071,Repeat Customer,January,Profit
+2482,Invalid Date,C223,Desk,Furniture,Kolkata,6,64572,15549,Repeat Customer,Unknown,Profit
+2483,02/07/2026,C317,Table,Furniture,Pune,4,32000,6655,Repeat Customer,July,Profit
+2484,06/05/2026,C396,Kurta,Apparel,Delhi,1,1189,317,Repeat Customer,May,Profit
+2485,Invalid Date,C060,Microwave,Home,Delhi,1,13235,2316,New Customer,Unknown,Profit
+2486,06/01/2026,C216,Shoes,Apparel,Kolkata,4,15388,4897,Repeat Customer,January,Profit
+2487,Invalid Date,C421,Tablet,Electronics,Pune,2,66438,10319,Repeat Customer,Unknown,Profit
+2488,Invalid Date,C199,Table,Furniture,Pune,5,95340,19622,Repeat Customer,Unknown,Profit
+2489,03/07/2026,C280,Jeans,Apparel,Mumbai,5,11340,3920,Repeat Customer,July,Profit
+2490,Invalid Date,C293,Kurta,Apparel,Pune,6,13062,4310,Repeat Customer,Unknown,Profit
+2491,05/07/2026,C095,Laptop,Electronics,Pune,5,246540,25248,Repeat Customer,July,Profit
+2492,Invalid Date,C189,Kurta,Apparel,Bangalore,5,5240,1450,Repeat Customer,Unknown,Profit
+2493,02/10/2026,C176,Cookware Set,Home,Hyderabad,5,38670,7809,Repeat Customer,October,Profit
+2494,Invalid Date,C012,Tablet,Electronics,Pune,1,35221,4418,Repeat Customer,Unknown,Profit
+2495,Invalid Date,C012,Chair,Furniture,Hyderabad,3,7634,1588,Repeat Customer,Unknown,Profit
+2496,06/12/2026,C415,Smartwatch,Electronics,Mumbai,5,50220,9863,Repeat Customer,December,Profit
+2497,Invalid Date,C141,Table,Furniture,Delhi,2,21830,4055,Repeat Customer,Unknown,Profit
+2498,04/12/2026,C262,Laptop,Electronics,Bangalore,2,121504,16212,Repeat Customer,December,Profit
+2499,Invalid Date,C155,Sofa,Furniture,Kolkata,1,34637,6918,Repeat Customer,Unknown,Profit
+2500,06/05/2026,C467,Bookshelf,Furniture,Hyderabad,6,65208,14643,New Customer,May,Profit
+2501,Invalid Date,C138,Shoes,Apparel,Bangalore,4,4080,1146,Repeat Customer,Unknown,Profit
+2502,Invalid Date,C227,Smartwatch,Electronics,Kolkata,3,38385,6582,Repeat Customer,Unknown,Profit
+2503,Invalid Date,C442,Jacket,Apparel,Bangalore,4,11740,3309,Repeat Customer,Unknown,Profit
+2504,Invalid Date,C421,Jacket,Apparel,Delhi,4,19116,6596,Repeat Customer,Unknown,Profit
+2505,Invalid Date,C095,Jeans,Apparel,Chennai,1,995,343,Repeat Customer,Unknown,Profit
+2506,Invalid Date,C404,Desk,Furniture,Bangalore,5,52585,9902,Repeat Customer,Unknown,Profit
+2507,Invalid Date,C241,Smartwatch,Electronics,Kolkata,3,43359,9035,Repeat Customer,Unknown,Profit
+2508,Invalid Date,C248,Shoes,Apparel,Pune,6,0,3074,Repeat Customer,Unknown,Profit
+2509,Invalid Date,C070,Jeans,Apparel,Hyderabad,3,8454,2527,Repeat Customer,Unknown,Profit
+2510,04/09/2026,C044,Perfume,Beauty,Pune,1,4980,1797,Repeat Customer,September,Profit
+2511,Invalid Date,C373,Table,Furniture,Kolkata,5,65425,12708,Repeat Customer,Unknown,Profit
+2512,Invalid Date,C250,T-Shirt,Apparel,Chennai,2,,435,Repeat Customer,Unknown,Profit
+2513,08/06/2026,C229,Headphones,Electronics,Mumbai,3,7116,1502,Repeat Customer,June,Profit
+2514,Invalid Date,C374,Jacket,Apparel,Hyderabad,5,15975,0,Repeat Customer,Unknown,Break-even
+2515,03/09/2026,C391,Desk,Furniture,Pune,3,42558,8987,Repeat Customer,September,Profit
+2516,Invalid Date,C079,Smartwatch,Electronics,Kolkata,5,78950,15065,Repeat Customer,Unknown,Profit
+2517,04/06/2026,C306,Microwave,Home,Chennai,5,71495,10638,Repeat Customer,June,Profit
+2518,Invalid Date,C070,Skincare Set,Beauty,Pune,3,3336,1033,Repeat Customer,Unknown,Profit
+2519,Invalid Date,C386,Blender,Home,Pune,5,9550,1693,Repeat Customer,Unknown,Profit
+2520,04/12/2026,C329,Headphones,Electronics,Bangalore,2,6248,1103,Repeat Customer,December,Profit
+2521,Invalid Date,C472,Jacket,Apparel,Delhi,1,3227,962,Repeat Customer,Unknown,Profit
+2522,Invalid Date,C036,Tablet,Electronics,Chennai,3,98634,12917,Repeat Customer,Unknown,Profit
+2523,Invalid Date,C034,Table,Furniture,Kolkata,3,23364,4361,Repeat Customer,Unknown,Profit
+2524,Invalid Date,C146,Vacuum Cleaner,Home,Delhi,2,19018,4561,New Customer,Unknown,Profit
+2525,Invalid Date,C140,Laptop,Electronics,Chennai,1,56765,4769,Repeat Customer,Unknown,Profit
+2526,06/09/2026,C130,Blender,Home,Hyderabad,3,14238,2289,Repeat Customer,September,Profit
+2526,06/09/2026,C130,Blender,Home,Hyderabad,3,14238,2289,Repeat Customer,September,Profit
+2527,Invalid Date,C447,Desk,Furniture,Chennai,3,19149,3964,Repeat Customer,Unknown,Profit
+2528,08/08/2026,C133,Chair,Furniture,Mumbai,3,18033,4161,New Customer,August,Profit
+2529,Invalid Date,C141,Phone,Electronics,Bangalore,4,62936,6180,Repeat Customer,Unknown,Profit
+2530,Invalid Date,C391,Jeans,Apparel,Chennai,1,2657,771,Repeat Customer,Unknown,Profit
+2531,Invalid Date,C237,Vacuum Cleaner,Home,Hyderabad,1,14470,3195,Repeat Customer,Unknown,Profit
+2532,08/08/2026,C393,Bookshelf,Furniture,Delhi,3,25338,5641,Repeat Customer,August,Profit
+2533,04/03/2026,C035,Jacket,Apparel,Delhi,5,14870,4785,Repeat Customer,March,Profit
+2534,03/08/2026,C249,T-Shirt,Apparel,Bangalore,5,4390,1164,Repeat Customer,August,Profit
+2535,06/09/2026,C015,Desk,Furniture,Hyderabad,4,44832,10684,Repeat Customer,September,Profit
+2536,Invalid Date,C035,Jeans,Apparel,Chennai,3,8154,2571,Repeat Customer,Unknown,Profit
+2537,Invalid Date,C447,Jeans,Apparel,Pune,3,3912,1211,Repeat Customer,Unknown,Profit
+2538,01/01/2026,C070,Camera,Electronics,Kolkata,2,73060,7404,Repeat Customer,January,Profit
+2539,Invalid Date,C262,Smartwatch,Electronics,Mumbai,5,79190,12657,Repeat Customer,Unknown,Profit
+2540,Invalid Date,C218,Blender,Home,Chennai,3,7515,1780,Repeat Customer,Unknown,Profit
+2541,02/01/2026,C183,Sofa,Furniture,Mumbai,1,30717,6695,Repeat Customer,January,Profit
+2542,05/04/2026,C447,Jacket,Apparel,Delhi,1,4045,1376,Repeat Customer,April,Profit
+2543,01/03/2026,C012,Jacket,Apparel,Mumbai,6,10872,2889,Repeat Customer,March,Profit
+2544,01/01/2026,C336,Blender,Home,Kolkata,4,6072,1009,Repeat Customer,January,Profit
+2545,01/05/2026,C474,Desk,Furniture,Bangalore,3,18282,4065,Repeat Customer,May,Profit
+2546,01/04/2026,C274,Kurta,Apparel,Hyderabad,4,4468,1485,Repeat Customer,April,Profit
+2547,03/10/2026,C465,Jacket,Apparel,Mumbai,6,22644,6872,Repeat Customer,October,Profit
+2548,02/03/2026,C032,Shoes,Apparel,Hyderabad,6,,7340,New Customer,March,Profit
+2549,02/11/2026,C221,Smartwatch,Electronics,Unknown Region,3,21417,4269,Repeat Customer,November,Profit
+2550,Invalid Date,C138,Blender,Home,Hyderabad,3,14460,2810,Repeat Customer,Unknown,Profit
+2551,Invalid Date,C375,Sofa,Furniture,Mumbai,4,168360,30110,Repeat Customer,Unknown,Profit
+2552,02/12/2026,C476,Chair,Furniture,Pune,4,35208,7689,Repeat Customer,December,Profit
+2553,Invalid Date,C135,Desk,Furniture,Chennai,4,40144,8891,Repeat Customer,Unknown,Profit
+2554,08/02/2026,C327,T-Shirt,Apparel,Delhi,6,2106,528,Repeat Customer,February,Profit
+2555,Invalid Date,C105,Cookware Set,Home,Mumbai,2,10758,2135,Repeat Customer,Unknown,Profit
+2556,Invalid Date,C277,Jeans,Apparel,Mumbai,4,8288,2286,Repeat Customer,Unknown,Profit
+2557,Invalid Date,C242,Shoes,Apparel,Hyderabad,3,7020,1922,Repeat Customer,Unknown,Profit
+2558,06/12/2026,C476,Cookware Set,Home,Delhi,2,11066,2136,Repeat Customer,December,Profit
+2559,Invalid Date,C306,Jeans,Apparel,Chennai,6,12456,3676,Repeat Customer,Unknown,Profit
+2560,Invalid Date,C183,Makeup Kit,Beauty,Hyderabad,6,16638,5596,Repeat Customer,Unknown,Profit
+2561,Invalid Date,C056,Speaker,Electronics,Pune,3,14577,2755,Repeat Customer,Unknown,Profit
+2562,Invalid Date,C074,Skincare Set,Beauty,Mumbai,2,5066,1947,Repeat Customer,Unknown,Profit
+2563,Invalid Date,C119,Headphones,Electronics,Chennai,2,5162,1196,Repeat Customer,Unknown,Profit
+2564,Invalid Date,C135,Vacuum Cleaner,Home,Pune,3,28755,4764,Repeat Customer,Unknown,Profit
+2565,08/08/2026,C428,Chair,Furniture,Pune,3,9522,2279,Repeat Customer,August,Profit
+2566,08/12/2026,C275,Tablet,Electronics,Chennai,2,41382,5706,Repeat Customer,December,Profit
+2567,Invalid Date,C262,Perfume,Beauty,Chennai,2,2550,765,Repeat Customer,Unknown,Profit
+2568,Invalid Date,C056,Headphones,Electronics,Bangalore,2,14348,2186,Repeat Customer,Unknown,Profit
+2569,07/01/2026,C434,Jacket,Apparel,Pune,5,18910,5850,Repeat Customer,January,Profit
+2570,05/03/2026,C368,Shoes,Apparel,Pune,4,23524,5999,Repeat Customer,March,Profit
+2571,01/08/2026,C035,Speaker,Electronics,Pune,3,19195,4147,Repeat Customer,August,Profit
+2572,03/09/2026,C365,Kurta,Apparel,Kolkata,5,10780,3372,Repeat Customer,September,Profit
+2573,Invalid Date,C268,Kurta,Apparel,Kolkata,4,6080,2047,Repeat Customer,Unknown,Profit
+2574,Invalid Date,C044,Headphones,Electronics,Kolkata,6,41232,8611,Repeat Customer,Unknown,Profit
+2575,Invalid Date,C241,Laptop,Electronics,Hyderabad,4,,29370,Repeat Customer,Unknown,Profit
+2576,06/11/2026,C248,Sofa,Furniture,Bangalore,6,101364,17303,Repeat Customer,November,Profit
+2577,Invalid Date,C083,Jacket,Apparel,Mumbai,1,,838,Repeat Customer,Unknown,Profit
+2578,Invalid Date,C470,Laptop,Electronics,Chennai,6,319302,44541,Repeat Customer,Unknown,Profit
+2579,Invalid Date,C428,Smartwatch,Electronics,Bangalore,3,48735,7876,Repeat Customer,Unknown,Profit
+2580,Invalid Date,C338,Shoes,Apparel,Kolkata,3,,1681,Repeat Customer,Unknown,Profit
+2581,Invalid Date,C242,Shoes,Apparel,Kolkata,3,14940,3337,Repeat Customer,Unknown,Profit
+2582,08/12/2026,C218,Smartwatch,Electronics,Mumbai,3,,4451,Repeat Customer,December,Profit
+2583,Invalid Date,C325,Perfume,Beauty,Mumbai,4,8788,3328,Repeat Customer,Unknown,Profit
+2584,01/12/2026,C269,Tablet,Electronics,Pune,5,95510,14404,New Customer,December,Profit
+2585,Invalid Date,C035,Headphones,Electronics,Mumbai,5,11745,2769,Repeat Customer,Unknown,Profit
+2586,Invalid Date,C258,Sofa,Furniture,Bangalore,5,134170,25502,Repeat Customer,Unknown,Profit
+2587,Invalid Date,C406,Desk,Furniture,Pune,3,30468,7790,Repeat Customer,Unknown,Profit
+2588,Invalid Date,C241,Microwave,Home,Kolkata,5,618450,121558,Repeat Customer,Unknown,Profit
+2589,Invalid Date,C031,Chair,Furniture,Mumbai,4,,4350,Repeat Customer,Unknown,Profit
+2590,Invalid Date,C397,Tablet,Electronics,Mumbai,4,64908,7614,Repeat Customer,Unknown,Profit
+2591,05/04/2026,C107,Shoes,Apparel,Delhi,6,18108,4176,Repeat Customer,April,Profit
+2592,03/10/2026,C137,Cookware Set,Home,Mumbai,1,5638,1064,Repeat Customer,October,Profit
+2593,Invalid Date,C082,Desk,Furniture,Bangalore,4,49340,9798,Repeat Customer,Unknown,Profit
+2594,07/09/2026,C172,Camera,Electronics,Hyderabad,2,40164,5840,New Customer,September,Profit
+2595,Invalid Date,C390,Jeans,Apparel,Mumbai,4,6744,2272,Repeat Customer,Unknown,Profit
+2596,Invalid Date,C262,Bookshelf,Furniture,Hyderabad,5,26280,6115,Repeat Customer,Unknown,Profit
+2597,Invalid Date,C110,Jeans,Apparel,Delhi,3,6870,1787,Repeat Customer,Unknown,Profit
+2598,06/03/2026,C442,Desk,Furniture,Pune,3,34692,0,Repeat Customer,March,Break-even
+2599,01/02/2026,C442,Smartwatch,Electronics,Chennai,1,15947,3226,Repeat Customer,February,Profit
+2600,Invalid Date,C442,Tablet,Electronics,Hyderabad,1,17725,2223,Repeat Customer,Unknown,Profit
+2600,Invalid Date,C442,Tablet,Electronics,Hyderabad,1,17725,2223,Repeat Customer,Unknown,Profit
+2601,Invalid Date,C126,Skincare Set,Beauty,Hyderabad,2,6966,2459,Repeat Customer,Unknown,Profit
+2602,Invalid Date,C239,Camera,Electronics,Delhi,6,223176,28929,Repeat Customer,Unknown,Profit
+2603,Invalid Date,C476,Headphones,Electronics,Pune,5,,1988,Repeat Customer,Unknown,Profit
+2604,Invalid Date,C391,T-Shirt,Apparel,Bangalore,6,5652,1547,Repeat Customer,Unknown,Profit
+2605,06/04/2026,C012,Microwave,Home,Hyderabad,2,21248,4121,Repeat Customer,April,Profit
+2606,08/12/2026,C035,Speaker,Electronics,Mumbai,5,43950,7386,Repeat Customer,December,Profit
+2607,Invalid Date,C242,Sofa,Furniture,Pune,2,33036,5011,Repeat Customer,Unknown,Profit
+2608,Invalid Date,C448,Perfume,Beauty,Mumbai,5,25615,7818,Repeat Customer,Unknown,Profit
+2609,Invalid Date,C265,Kurta,Apparel,Hyderabad,3,898,270,Repeat Customer,Unknown,Profit
+2610,Invalid Date,C250,Camera,Electronics,Kolkata,4,,27988,Repeat Customer,Unknown,Profit
+2611,03/05/2026,C053,T-Shirt,Apparel,Mumbai,4,3872,1134,Repeat Customer,May,Profit
+2612,Invalid Date,C329,Perfume,Beauty,Mumbai,2,6540,2327,Repeat Customer,Unknown,Profit
+2613,Invalid Date,Unknown Customer,Perfume,Beauty,Chennai,3,16986,5408,Unknown Customer,Unknown,Profit
+2614,Invalid Date,C198,Perfume,Beauty,Chennai,2,8880,2803,Repeat Customer,Unknown,Profit
+2615,Invalid Date,C392,Perfume,Beauty,Mumbai,2,5806,0,Repeat Customer,Unknown,Break-even
+2616,Invalid Date,C474,Vacuum Cleaner,Home,Bangalore,4,37684,7760,Repeat Customer,Unknown,Profit
+2617,01/02/2026,Unknown Customer,Cookware Set,Home,Chennai,4,31816,5750,Unknown Customer,February,Profit
+2618,04/02/2026,C262,Sofa,Furniture,Pune,5,,15981,Repeat Customer,February,Profit
+2619,Invalid Date,C151,Vacuum Cleaner,Home,Kolkata,4,56320,12188,Repeat Customer,Unknown,Profit
+2620,Invalid Date,C400,Phone,Electronics,Bangalore,5,123275,14654,Repeat Customer,Unknown,Profit
+2621,Invalid Date,C283,Cookware Set,Home,Bangalore,1,2712,559,New Customer,Unknown,Profit
+2622,08/06/2026,C316,Blender,Home,Kolkata,3,3162,749,Repeat Customer,June,Profit
+2623,Invalid Date,C402,Smartwatch,Electronics,Mumbai,2,30114,5209,Repeat Customer,Unknown,Profit
+2624,04/10/2026,C205,Headphones,Electronics,Delhi,4,25412,4379,Repeat Customer,October,Profit
+2625,03/11/2026,C452,Desk,Furniture,Kolkata,1,6786,0,Repeat Customer,November,Break-even
+2626,06/04/2026,Unknown Customer,Headphones,Electronics,Mumbai,6,37398,7803,Unknown Customer,April,Profit
+2627,05/12/2026,C077,Cookware Set,Home,Mumbai,6,28134,7168,Repeat Customer,December,Profit
+2628,05/01/2026,C359,Blender,Home,Pune,4,14396,2932,Repeat Customer,January,Profit
+2629,Invalid Date,C400,Cookware Set,Home,Kolkata,6,44118,10700,Repeat Customer,Unknown,Profit
+2630,05/12/2026,C162,Smartwatch,Electronics,Chennai,3,36996,6320,Repeat Customer,December,Profit
+2631,Invalid Date,C432,Bookshelf,Furniture,Hyderabad,5,50340,12332,Repeat Customer,Unknown,Profit
+2632,Invalid Date,C447,Kurta,Apparel,Chennai,2,2454,733,Repeat Customer,Unknown,Profit
+2633,Invalid Date,C141,Skincare Set,Beauty,Delhi,1,0,905,Repeat Customer,Unknown,Profit
+2634,Invalid Date,C476,Blender,Home,Bangalore,1,4482,748,Repeat Customer,Unknown,Profit
+2635,Invalid Date,C070,Smartwatch,Electronics,Bangalore,1,9172,1457,Repeat Customer,Unknown,Profit
+2636,Invalid Date,C108,Smartwatch,Electronics,Delhi,1,18409,3012,Repeat Customer,Unknown,Profit
+2637,07/01/2026,C095,Headphones,Electronics,Hyderabad,6,44994,6813,Repeat Customer,January,Profit
+2638,05/08/2026,C446,Sofa,Furniture,Bangalore,6,159342,23950,Repeat Customer,August,Profit
+2639,03/04/2026,C327,Cookware Set,Home,Pune,2,,1709,Repeat Customer,April,Profit
+2640,Invalid Date,C075,Skincare Set,Beauty,Pune,4,12420,4902,Repeat Customer,Unknown,Profit
+2641,Invalid Date,C230,Bookshelf,Furniture,Hyderabad,1,4457,1104,Repeat Customer,Unknown,Profit
+2642,Invalid Date,C307,Chair,Furniture,Kolkata,1,7884,1999,Repeat Customer,Unknown,Profit
+2643,02/07/2026,C046,Smartwatch,Electronics,Kolkata,4,70256,11432,New Customer,July,Profit
+2644,Invalid Date,C442,Speaker,Electronics,Hyderabad,6,14532,3177,Repeat Customer,Unknown,Profit
+2645,05/01/2026,C404,Microwave,Home,Chennai,1,11989,2362,Repeat Customer,January,Profit
+2646,02/09/2026,C256,Table,Furniture,Delhi,6,104718,22339,Repeat Customer,September,Profit
+2647,Invalid Date,C474,Shoes,Apparel,Delhi,2,,2440,Repeat Customer,Unknown,Profit
+2648,Invalid Date,C220,Bookshelf,Furniture,Chennai,4,33784,8229,Repeat Customer,Unknown,Profit
+2649,03/08/2026,C476,Tablet,Electronics,Mumbai,3,58125,7071,Repeat Customer,August,Profit
+2650,Invalid Date,C338,Laptop,Electronics,Hyderabad,1,80360,9919,Repeat Customer,Unknown,Profit
+2651,Invalid Date,C316,Blender,Home,Kolkata,4,15780,3407,Repeat Customer,Unknown,Profit
+2652,Invalid Date,C083,Blender,Home,Hyderabad,6,13338,2185,Repeat Customer,Unknown,Profit
+2653,Invalid Date,C442,Jacket,Apparel,Bangalore,5,17190,5089,Repeat Customer,Unknown,Profit
+2654,Invalid Date,C227,Desk,Furniture,Mumbai,6,55350,10697,Repeat Customer,Unknown,Profit
+2655,01/02/2026,C081,Chair,Furniture,Chennai,5,24410,5935,Repeat Customer,February,Profit
+2656,Invalid Date,C007,Jacket,Apparel,Pune,4,10932,2783,Repeat Customer,Unknown,Profit
+2657,Invalid Date,C274,Speaker,Electronics,Bangalore,6,46944,7914,Repeat Customer,Unknown,Profit
+2658,Invalid Date,C262,Perfume,Beauty,Delhi,5,21230,8198,Repeat Customer,Unknown,Profit
+2659,03/09/2026,C367,T-Shirt,Apparel,Delhi,2,706,208,Repeat Customer,September,Profit
+2660,Invalid Date,C446,Jacket,Apparel,Hyderabad,1,2871,802,Repeat Customer,Unknown,Profit
+2661,Invalid Date,C044,Jacket,Apparel,Hyderabad,6,22266,-678,Repeat Customer,Unknown,Loss
+2662,Invalid Date,C376,Speaker,Electronics,Chennai,1,6447,1032,Repeat Customer,Unknown,Profit
+2663,Invalid Date,C097,Bookshelf,Furniture,Unknown Region,5,30565,7356,Repeat Customer,Unknown,Profit
+2664,08/04/2026,C433,Laptop,Electronics,Hyderabad,5,317525,34045,Repeat Customer,April,Profit
+2665,Invalid Date,C412,Sofa,Furniture,Chennai,4,154208,26903,Repeat Customer,Unknown,Profit
+2666,Invalid Date,C266,Laptop,Electronics,Hyderabad,5,257680,34009,Repeat Customer,Unknown,Profit
+2667,Invalid Date,C365,Vacuum Cleaner,Home,Hyderabad,4,20416,4304,Repeat Customer,Unknown,Profit
+2668,Invalid Date,C160,Speaker,Electronics,Kolkata,5,13890,2488,Repeat Customer,Unknown,Profit
+2669,04/10/2026,C244,Speaker,Electronics,Hyderabad,6,63336,10118,Repeat Customer,October,Profit
+2670,06/07/2026,C412,Shoes,Apparel,Pune,5,25540,8156,Repeat Customer,July,Profit
+2671,02/04/2026,C241,Jeans,Apparel,Delhi,2,3316,1133,Repeat Customer,April,Profit
+2672,07/10/2026,C187,Skincare Set,Beauty,Pune,4,5556,2077,Repeat Customer,October,Profit
+2673,Invalid Date,C249,Blender,Home,Mumbai,3,12336,2776,Repeat Customer,Unknown,Profit
+2674,Invalid Date,C413,Vacuum Cleaner,Home,Hyderabad,1,8172,1529,Repeat Customer,Unknown,Profit
+2675,Invalid Date,C177,Laptop,Electronics,Bangalore,3,113208,15651,Repeat Customer,Unknown,Profit
+2676,Invalid Date,C089,Tablet,Electronics,Chennai,5,163050,16981,Repeat Customer,Unknown,Profit
+2677,Invalid Date,C365,Table,Furniture,Kolkata,3,54672,12025,Repeat Customer,Unknown,Profit
+2678,Invalid Date,C413,T-Shirt,Apparel,Mumbai,5,2840,875,Repeat Customer,Unknown,Profit
+2679,Invalid Date,C053,Chair,Furniture,Pune,5,35955,6809,Repeat Customer,Unknown,Profit
+2680,Invalid Date,C127,Headphones,Electronics,Delhi,1,2458,422,Repeat Customer,Unknown,Profit
+2681,Invalid Date,C070,Desk,Furniture,Kolkata,5,55150,13970,Repeat Customer,Unknown,Profit
+2682,08/07/2026,C183,Kurta,Apparel,Mumbai,6,4614,1292,Repeat Customer,July,Profit
+2683,Invalid Date,C237,Phone,Electronics,Chennai,5,,24385,Repeat Customer,Unknown,Profit
+2684,Invalid Date,C385,Phone,Electronics,Pune,6,125280,12921,Repeat Customer,Unknown,Profit
+2685,Invalid Date,C325,Headphones,Electronics,Pune,3,11520,2536,Repeat Customer,Unknown,Profit
+2686,02/09/2026,C311,Desk,Furniture,Hyderabad,2,21586,4432,Repeat Customer,September,Profit
+2687,Invalid Date,C184,Headphones,Electronics,Kolkata,1,7903,1817,Repeat Customer,Unknown,Profit
+2688,Invalid Date,C421,T-Shirt,Apparel,Kolkata,2,1610,534,Repeat Customer,Unknown,Profit
+2689,08/11/2026,C244,Blender,Home,Delhi,5,19835,4038,Repeat Customer,November,Profit
+2690,07/02/2026,C476,Headphones,Electronics,Hyderabad,3,14145,3150,Repeat Customer,February,Profit
+2691,02/10/2026,C316,Jacket,Apparel,Delhi,3,,2652,Repeat Customer,October,Profit
+2692,04/02/2026,C066,Chair,Furniture,Bangalore,3,23559,4293,New Customer,February,Profit
+2693,Invalid Date,C345,Smartwatch,Electronics,Mumbai,4,39388,5980,New Customer,Unknown,Profit
+2694,04/12/2026,C167,Laptop,Electronics,Mumbai,5,375555,47428,Repeat Customer,December,Profit
+2695,Invalid Date,C352,Perfume,Beauty,Mumbai,2,5974,1827,Repeat Customer,Unknown,Profit
+2696,06/03/2026,C036,Camera,Electronics,Bangalore,1,69324,10632,Repeat Customer,March,Profit
+2697,Invalid Date,C089,Jacket,Apparel,Mumbai,3,11154,2946,Repeat Customer,Unknown,Profit
+2698,Invalid Date,C431,Sofa,Furniture,Kolkata,2,58072,10990,Repeat Customer,Unknown,Profit
+2699,Invalid Date,C119,Desk,Furniture,Kolkata,4,37920,9064,Repeat Customer,Unknown,Profit
+2700,Invalid Date,C419,Phone,Electronics,Delhi,5,158925,13700,Repeat Customer,Unknown,Profit
+2701,03/08/2026,C143,Tablet,Electronics,Delhi,1,21496,2247,Repeat Customer,August,Profit
+2702,Invalid Date,C323,Chair,Furniture,Chennai,3,14688,2749,Repeat Customer,Unknown,Profit
+2703,Invalid Date,C359,Laptop,Electronics,Mumbai,1,41076,4305,Repeat Customer,Unknown,Profit
+2704,01/08/2026,C258,Jeans,Apparel,Hyderabad,2,,1310,Repeat Customer,August,Profit
+2705,03/11/2026,C155,Headphones,Electronics,Chennai,3,5313,833,Repeat Customer,November,Profit
+2706,06/06/2026,C114,Jacket,Apparel,Pune,1,4330,1433,Repeat Customer,June,Profit
+2707,07/10/2026,C014,Bookshelf,Furniture,Bangalore,1,10077,2197,Repeat Customer,October,Profit
+2708,Invalid Date,C155,Perfume,Beauty,Pune,4,11504,3981,Repeat Customer,Unknown,Profit
+2709,Invalid Date,C326,Makeup Kit,Beauty,Kolkata,6,8238,3034,Repeat Customer,Unknown,Profit
+2710,Invalid Date,C465,Makeup Kit,Beauty,Mumbai,3,13737,5421,Repeat Customer,Unknown,Profit
+2711,04/07/2026,C442,Blender,Home,Mumbai,4,,1970,Repeat Customer,July,Profit
+2712,Invalid Date,C391,Perfume,Beauty,Chennai,1,3998,1251,Repeat Customer,Unknown,Profit
+2713,04/03/2026,C397,Jacket,Apparel,Hyderabad,1,3206,897,Repeat Customer,March,Profit
+2714,Invalid Date,C337,Sofa,Furniture,Pune,2,77950,15351,Repeat Customer,Unknown,Profit
+2715,Invalid Date,C138,Jeans,Apparel,Delhi,5,,1839,Repeat Customer,Unknown,Profit
+2716,Invalid Date,C447,Phone,Electronics,Kolkata,4,155984,13867,Repeat Customer,Unknown,Profit
+2717,06/11/2026,C340,Smartwatch,Electronics,Delhi,1,3454,758,New Customer,November,Profit
+2718,Invalid Date,C274,Perfume,Beauty,Hyderabad,5,15205,5319,Repeat Customer,Unknown,Profit
+2719,03/12/2026,C055,Blender,Home,Chennai,6,13320,2501,Repeat Customer,December,Profit
+2720,Invalid Date,C235,Speaker,Electronics,Kolkata,5,32235,-2422,Repeat Customer,Unknown,Loss
+2721,Invalid Date,C242,Makeup Kit,Beauty,Chennai,3,7242,2843,Repeat Customer,Unknown,Profit
+2722,07/04/2026,C438,Bookshelf,Furniture,Delhi,3,15603,3147,Repeat Customer,April,Profit
+2723,03/01/2026,C270,Camera,Electronics,Chennai,4,237412,26506,Repeat Customer,January,Profit
+2724,02/06/2026,C198,Chair,Furniture,Chennai,2,,2265,Repeat Customer,June,Profit
+2725,Invalid Date,C476,Phone,Electronics,Mumbai,1,29504,2773,Repeat Customer,Unknown,Profit
+2726,01/05/2026,C055,Blender,Home,Hyderabad,3,10209,1715,Repeat Customer,May,Profit
+2727,Invalid Date,C224,Kurta,Apparel,Bangalore,6,7980,2575,Repeat Customer,Unknown,Profit
+2728,06/05/2026,C024,Jeans,Apparel,Mumbai,5,,3657,Repeat Customer,May,Profit
+2729,Invalid Date,C382,Skincare Set,Beauty,Kolkata,6,9990,3368,Repeat Customer,Unknown,Profit
+2730,Invalid Date,C454,Laptop,Electronics,Chennai,6,465330,55036,Repeat Customer,Unknown,Profit
+2731,Invalid Date,C143,Microwave,Home,Bangalore,1,5015,802,Repeat Customer,Unknown,Profit
+2732,Invalid Date,C433,Chair,Furniture,Kolkata,5,28795,5848,Repeat Customer,Unknown,Profit
+2733,Invalid Date,C153,Phone,Electronics,Mumbai,1,13028,1617,Repeat Customer,Unknown,Profit
+2734,07/04/2026,C449,Speaker,Electronics,Hyderabad,5,,7757,Repeat Customer,April,Profit
+2735,Invalid Date,C389,Jeans,Apparel,Mumbai,6,8586,2407,Repeat Customer,Unknown,Profit
+2736,05/06/2026,C406,Phone,Electronics,Pune,6,81126,0,Repeat Customer,June,Break-even
+2737,05/09/2026,C009,T-Shirt,Apparel,Chennai,3,1683,554,Repeat Customer,September,Profit
+2738,03/09/2026,C473,Bookshelf,Furniture,Chennai,1,8531,1905,Repeat Customer,September,Profit
+2739,Invalid Date,C370,Kurta,Apparel,Kolkata,2,3260,866,Repeat Customer,Unknown,Profit
+2740,01/12/2026,C155,Sofa,Furniture,Pune,3,69687,13354,Repeat Customer,December,Profit
+2741,Invalid Date,C413,T-Shirt,Apparel,Kolkata,4,1200,370,Repeat Customer,Unknown,Profit
+2742,01/11/2026,C145,Bookshelf,Furniture,Delhi,2,,4667,New Customer,November,Profit
+2743,Invalid Date,C442,Bookshelf,Furniture,Kolkata,2,11550,2859,Repeat Customer,Unknown,Profit
+2744,06/03/2026,C056,Camera,Electronics,Pune,1,22042,3335,Repeat Customer,March,Profit
+2745,Invalid Date,C362,Microwave,Home,Delhi,4,44488,7179,Repeat Customer,Unknown,Profit
+2746,05/06/2026,C266,Laptop,Electronics,Kolkata,3,224991,26064,Repeat Customer,June,Profit
+2747,Invalid Date,C051,Cookware Set,Home,Chennai,5,19010,3635,Repeat Customer,Unknown,Profit
+2748,Invalid Date,C127,Jacket,Apparel,Pune,4,14124,4315,Repeat Customer,Unknown,Profit
+2749,Invalid Date,C006,Makeup Kit,Beauty,Delhi,1,,992,Repeat Customer,Unknown,Profit
+2750,Invalid Date,C243,Skincare Set,Beauty,Hyderabad,2,7166,2585,Repeat Customer,Unknown,Profit
+2751,Invalid Date,C155,Sofa,Furniture,Pune,5,145525,28832,Repeat Customer,Unknown,Profit
+2752,07/11/2026,Unknown Customer,Laptop,Electronics,Bangalore,1,44239,5775,Unknown Customer,November,Profit
+2753,01/03/2026,C155,Phone,Electronics,Kolkata,6,312324,26901,Repeat Customer,March,Profit
+2754,01/11/2026,C155,Makeup Kit,Beauty,Bangalore,5,5710,1788,Repeat Customer,November,Profit
+2755,Invalid Date,C383,Table,Furniture,Delhi,6,96816,19675,Repeat Customer,Unknown,Profit
+2756,Invalid Date,C028,Headphones,Electronics,Kolkata,2,3734,910,Repeat Customer,Unknown,Profit
+2757,Invalid Date,C447,Skincare Set,Beauty,Chennai,4,9556,3591,Repeat Customer,Unknown,Profit
+2758,Invalid Date,C428,Skincare Set,Beauty,Chennai,1,1311,442,Repeat Customer,Unknown,Profit
+2759,Invalid Date,C338,Smartwatch,Electronics,Bangalore,2,28294,5883,Repeat Customer,Unknown,Profit
+2760,Invalid Date,C297,Bookshelf,Furniture,Pune,6,,10495,Repeat Customer,Unknown,Profit
+2761,Invalid Date,C446,Smartwatch,Electronics,Mumbai,6,42294,6596,Repeat Customer,Unknown,Profit
+2762,Invalid Date,C095,Blender,Home,Pune,2,5172,1158,Repeat Customer,Unknown,Profit
+2763,02/11/2026,C044,Shoes,Apparel,Mumbai,2,10062,2782,Repeat Customer,November,Profit
+2764,Invalid Date,C127,Jeans,Apparel,Kolkata,4,6756,1933,Repeat Customer,Unknown,Profit
+2765,03/05/2026,C400,Jacket,Apparel,Pune,3,8319,2234,Repeat Customer,May,Profit
+2766,Invalid Date,C017,Blender,Home,Hyderabad,5,17160,4100,Repeat Customer,Unknown,Profit
+2767,Invalid Date,C288,Makeup Kit,Beauty,Hyderabad,6,17610,5410,Repeat Customer,Unknown,Profit
+2768,04/01/2026,C479,Sofa,Furniture,Hyderabad,1,23418,-1619,Repeat Customer,January,Loss
+2769,01/08/2026,C431,Camera,Electronics,Mumbai,5,256900,27577,Repeat Customer,August,Profit
+2770,08/03/2026,C262,Makeup Kit,Beauty,Mumbai,3,,2079,Repeat Customer,March,Profit
+2771,Invalid Date,C035,Phone,Electronics,Hyderabad,2,39152,4519,Repeat Customer,Unknown,Profit
+2772,04/12/2026,C415,Speaker,Electronics,Mumbai,3,18978,4081,Repeat Customer,December,Profit
+2773,08/07/2026,C302,Jacket,Apparel,Hyderabad,3,4578,1245,New Customer,July,Profit
+2774,Invalid Date,C056,Tablet,Electronics,Pune,6,216810,23254,Repeat Customer,Unknown,Profit
+2775,Invalid Date,C051,Cookware Set,Home,Mumbai,1,4452,929,Repeat Customer,Unknown,Profit
+2776,02/09/2026,C448,Speaker,Electronics,Mumbai,3,16104,3002,Repeat Customer,September,Profit
+2777,Invalid Date,C338,Laptop,Electronics,Pune,2,131300,11200,Repeat Customer,Unknown,Profit
+2778,Invalid Date,C413,Desk,Furniture,Hyderabad,5,55495,11134,Repeat Customer,Unknown,Profit
+2779,Invalid Date,C442,Jeans,Apparel,Chennai,4,11196,3033,Repeat Customer,Unknown,Profit
+2780,Invalid Date,C280,Blender,Home,Hyderabad,3,6699,1335,Repeat Customer,Unknown,Profit
+2781,04/11/2026,C261,Sofa,Furniture,Kolkata,3,,11937,Repeat Customer,November,Profit
+2782,Invalid Date,C227,Table,Furniture,Pune,5,31515,7258,Repeat Customer,Unknown,Profit
+2783,Invalid Date,C162,Kurta,Apparel,Chennai,1,1796,470,Repeat Customer,Unknown,Profit
+2784,Invalid Date,C228,Desk,Furniture,Kolkata,1,10964,2571,Repeat Customer,Unknown,Profit
+2785,Invalid Date,C391,Speaker,Electronics,Hyderabad,4,8300,1585,Repeat Customer,Unknown,Profit
+2786,05/07/2026,C304,Desk,Furniture,Kolkata,4,58740,11571,Repeat Customer,July,Profit
+2787,03/03/2026,C446,Desk,Furniture,Kolkata,3,31455,7312,Repeat Customer,March,Profit
+2788,Invalid Date,C232,Table,Furniture,Pune,1,17745,3553,Repeat Customer,Unknown,Profit
+2789,Invalid Date,C306,Table,Furniture,Bangalore,2,26448,5499,Repeat Customer,Unknown,Profit
+2790,01/01/2026,C315,Cookware Set,Home,Delhi,5,25555,6113,Repeat Customer,January,Profit
+2791,04/12/2026,C296,Speaker,Electronics,Pune,3,7440,1139,Repeat Customer,December,Profit
+2792,Invalid Date,C362,Table,Furniture,Hyderabad,4,52300,10450,Repeat Customer,Unknown,Profit
+2793,Invalid Date,C125,Sofa,Furniture,Pune,1,43741,7109,Repeat Customer,Unknown,Profit
+2794,Invalid Date,C258,Jacket,Apparel,Mumbai,2,9836,2544,Repeat Customer,Unknown,Profit
+2795,Invalid Date,C053,Vacuum Cleaner,Home,Hyderabad,1,7042,1143,Repeat Customer,Unknown,Profit
+2796,03/05/2026,C199,Chair,Furniture,Hyderabad,1,4789,910,Repeat Customer,May,Profit
+2797,05/07/2026,C249,Jeans,Apparel,Delhi,6,17208,4322,Repeat Customer,July,Profit
+2798,Invalid Date,C326,Camera,Electronics,Pune,6,238506,34307,Repeat Customer,Unknown,Profit
+2798,Invalid Date,C326,Camera,Electronics,Pune,6,238506,34307,Repeat Customer,Unknown,Profit
+2799,Invalid Date,C470,Sofa,Furniture,Bangalore,4,84208,16252,Repeat Customer,Unknown,Profit
+2800,Invalid Date,C303,Bookshelf,Furniture,Hyderabad,3,35301,7108,Repeat Customer,Unknown,Profit
+2801,04/08/2026,C384,Laptop,Electronics,Pune,3,135378,15906,Repeat Customer,August,Profit
+2802,Invalid Date,Unknown Customer,Cookware Set,Home,Pune,2,9868,2091,Unknown Customer,Unknown,Profit
+2803,08/07/2026,C316,Speaker,Electronics,Delhi,6,71892,11253,Repeat Customer,July,Profit
+2804,06/03/2026,C037,Phone,Electronics,Bangalore,1,57424,5412,Repeat Customer,March,Profit
+2805,03/12/2026,C135,Shoes,Apparel,Hyderabad,6,22194,5609,Repeat Customer,December,Profit
+2806,Invalid Date,C189,Tablet,Electronics,Kolkata,3,80892,11416,Repeat Customer,Unknown,Profit
+2807,07/08/2026,C246,Cookware Set,Home,Bangalore,3,24228,5112,Repeat Customer,August,Profit
+2808,08/09/2026,C026,Vacuum Cleaner,Home,Bangalore,6,52554,12265,Repeat Customer,September,Profit
+2809,07/01/2026,C070,Phone,Electronics,Kolkata,2,111036,11805,Repeat Customer,January,Profit
+2810,07/08/2026,C141,Jeans,Apparel,Mumbai,6,10902,3237,Repeat Customer,August,Profit
+2811,Invalid Date,C476,Makeup Kit,Beauty,Pune,4,10984,4039,Repeat Customer,Unknown,Profit
+2812,Invalid Date,C173,Makeup Kit,Beauty,Pune,3,2233,704,New Customer,Unknown,Profit
+2813,Invalid Date,C248,Jacket,Apparel,Hyderabad,1,2888,827,Repeat Customer,Unknown,Profit
+2814,Invalid Date,C105,Skincare Set,Beauty,Mumbai,6,0,6441,Repeat Customer,Unknown,Profit
+2815,01/12/2026,C306,Perfume,Beauty,Delhi,1,5080,1986,Repeat Customer,December,Profit
+2816,Invalid Date,C144,Chair,Furniture,Pune,6,,8737,New Customer,Unknown,Profit
+2817,01/01/2026,C113,Desk,Furniture,Pune,1,7650,1406,Repeat Customer,January,Profit
+2818,Invalid Date,C261,Blender,Home,Kolkata,5,10970,2627,Repeat Customer,Unknown,Profit
+2819,08/06/2026,C002,Table,Furniture,Pune,6,36774,7498,Repeat Customer,June,Profit
+2820,06/06/2026,C003,Blender,Home,Mumbai,2,9238,2084,Repeat Customer,June,Profit
+2821,06/07/2026,C116,Shoes,Apparel,Chennai,3,9321,2619,Repeat Customer,July,Profit
+2822,Invalid Date,C018,Vacuum Cleaner,Home,Chennai,5,82175,16799,Repeat Customer,Unknown,Profit
+2823,Invalid Date,C054,Smartwatch,Electronics,Kolkata,2,21924,4286,Repeat Customer,Unknown,Profit
+2824,Invalid Date,C179,Kurta,Apparel,Hyderabad,2,3308,1131,Repeat Customer,Unknown,Profit
+2825,Invalid Date,C404,Jeans,Apparel,Hyderabad,6,13938,4126,Repeat Customer,Unknown,Profit
+2826,Invalid Date,C280,Cookware Set,Home,Bangalore,4,,2806,Repeat Customer,Unknown,Profit
+2827,Invalid Date,C258,Jeans,Apparel,Hyderabad,3,4086,1154,Repeat Customer,Unknown,Profit
+2828,06/01/2026,C154,Bookshelf,Furniture,Delhi,6,36930,9343,Repeat Customer,January,Profit
+2829,03/10/2026,C464,Table,Furniture,Mumbai,5,378450,69348,Repeat Customer,October,Profit
+2830,Invalid Date,C205,Vacuum Cleaner,Home,Pune,3,40524,7801,Repeat Customer,Unknown,Profit
+2831,Invalid Date,C049,Shoes,Apparel,Pune,3,3153,844,Repeat Customer,Unknown,Profit
+2832,Invalid Date,C309,Bookshelf,Furniture,Pune,4,19612,4231,Repeat Customer,Unknown,Profit
+2833,Invalid Date,C056,Chair,Furniture,Mumbai,4,23656,4300,Repeat Customer,Unknown,Profit
+2834,Invalid Date,C182,Jeans,Apparel,Hyderabad,1,,237,New Customer,Unknown,Profit
+2835,Invalid Date,C257,Shoes,Apparel,Delhi,4,,5622,Repeat Customer,Unknown,Profit
+2836,Invalid Date,C442,Headphones,Electronics,Pune,3,16125,3864,Repeat Customer,Unknown,Profit
+2837,Invalid Date,C249,Skincare Set,Beauty,Bangalore,5,4500,1365,Repeat Customer,Unknown,Profit
+2838,Invalid Date,C361,Makeup Kit,Beauty,Mumbai,4,7324,2201,New Customer,Unknown,Profit
+2839,08/02/2026,C479,Jeans,Apparel,Chennai,6,8400,2488,Repeat Customer,February,Profit
+2840,Invalid Date,C070,Vacuum Cleaner,Home,Pune,4,22064,5013,Repeat Customer,Unknown,Profit
+2841,Invalid Date,C141,Perfume,Beauty,Delhi,6,24258,9442,Repeat Customer,Unknown,Profit
+2842,Invalid Date,C204,Cookware Set,Home,Hyderabad,6,26742,5563,Repeat Customer,Unknown,Profit
+2843,01/07/2026,C224,Kurta,Apparel,Pune,5,5670,1910,Repeat Customer,July,Profit
+2844,Invalid Date,C218,Vacuum Cleaner,Home,Hyderabad,6,104514,17736,Repeat Customer,Unknown,Profit
+2845,Invalid Date,C447,Laptop,Electronics,Pune,6,393768,52111,Repeat Customer,Unknown,Profit
+2846,05/06/2026,C367,Phone,Electronics,Delhi,5,212090,21875,Repeat Customer,June,Profit
+2847,Invalid Date,C306,Cookware Set,Home,Bangalore,5,38090,8662,Repeat Customer,Unknown,Profit
+2848,Invalid Date,C157,Sofa,Furniture,Hyderabad,6,209892,32143,Repeat Customer,Unknown,Profit
+2849,04/06/2026,C413,Makeup Kit,Beauty,Chennai,4,19464,6810,Repeat Customer,June,Profit
+2850,Invalid Date,C472,Jacket,Apparel,Pune,3,6276,2097,Repeat Customer,Unknown,Profit
+2851,03/01/2026,C412,Camera,Electronics,Mumbai,6,134772,14094,Repeat Customer,January,Profit
+2852,07/10/2026,C002,Speaker,Electronics,Chennai,1,4224,715,Repeat Customer,October,Profit
+2853,08/03/2026,C317,Microwave,Home,Mumbai,2,28972,4821,Repeat Customer,March,Profit
+2854,05/09/2026,C031,Bookshelf,Furniture,Bangalore,6,56448,12339,Repeat Customer,September,Profit
+2855,Invalid Date,C137,Perfume,Beauty,Bangalore,1,2352,813,Repeat Customer,Unknown,Profit
+2856,03/11/2026,C034,Camera,Electronics,Kolkata,5,223720,32989,Repeat Customer,November,Profit
+2857,Invalid Date,C305,Perfume,Beauty,Delhi,3,10374,3727,Repeat Customer,Unknown,Profit
+2858,07/03/2026,C352,Cookware Set,Home,Kolkata,2,6548,1630,Repeat Customer,March,Profit
+2859,02/11/2026,C056,Sofa,Furniture,Chennai,1,36070,7879,Repeat Customer,November,Profit
+2860,03/12/2026,C199,Tablet,Electronics,Pune,6,139278,19133,Repeat Customer,December,Profit
+2861,Invalid Date,C241,Cookware Set,Home,Bangalore,3,,4183,Repeat Customer,Unknown,Profit
+2862,08/01/2026,C193,Headphones,Electronics,Bangalore,6,13194,1979,Repeat Customer,January,Profit
+2863,Invalid Date,C062,Bookshelf,Furniture,Bangalore,2,19044,4025,Repeat Customer,Unknown,Profit
+2864,Invalid Date,C221,Cookware Set,Home,Delhi,6,35268,7944,Repeat Customer,Unknown,Profit
+2865,Invalid Date,C386,Cookware Set,Home,Bangalore,3,8706,2090,Repeat Customer,Unknown,Profit
+2866,06/09/2026,C037,Speaker,Electronics,Pune,1,9376,1434,Repeat Customer,September,Profit
+2867,Invalid Date,C044,Blender,Home,Mumbai,5,10050,1918,Repeat Customer,Unknown,Profit
+2868,07/03/2026,C185,Tablet,Electronics,Kolkata,1,18223,2387,Repeat Customer,March,Profit
+2869,02/10/2026,C468,Smartwatch,Electronics,Hyderabad,3,47784,8482,Repeat Customer,October,Profit
+2870,07/01/2026,C338,Phone,Electronics,Pune,4,55768,4911,Repeat Customer,January,Profit
+2871,08/07/2026,C347,Phone,Electronics,Kolkata,4,175608,14839,Repeat Customer,July,Profit
+2872,06/01/2026,C189,Cookware Set,Home,Hyderabad,2,8646,2112,Repeat Customer,January,Profit
+2873,Invalid Date,C297,T-Shirt,Apparel,Pune,6,6180,1885,Repeat Customer,Unknown,Profit
+2874,04/05/2026,C004,Jeans,Apparel,Kolkata,5,4435,1545,Repeat Customer,May,Profit
+2875,Invalid Date,C317,Headphones,Electronics,Hyderabad,5,31795,5026,Repeat Customer,Unknown,Profit
+2876,01/03/2026,C451,Blender,Home,Pune,5,13285,2773,Repeat Customer,March,Profit
+2877,06/06/2026,C306,Desk,Furniture,Delhi,3,42153,8798,Repeat Customer,June,Profit
+2878,Invalid Date,C442,Microwave,Home,Chennai,6,64836,11985,Repeat Customer,Unknown,Profit
+2879,01/11/2026,C368,Laptop,Electronics,Pune,1,51502,4853,Repeat Customer,November,Profit
+2880,07/09/2026,C062,Skincare Set,Beauty,Mumbai,5,6290,1937,Repeat Customer,September,Profit
+2881,Invalid Date,C447,Smartwatch,Electronics,Pune,2,34916,7554,Repeat Customer,Unknown,Profit
+2882,03/04/2026,C035,Shoes,Apparel,Chennai,2,2882,845,Repeat Customer,April,Profit
+2883,05/01/2026,C263,Desk,Furniture,Hyderabad,1,5729,1260,New Customer,January,Profit
+2884,Invalid Date,C070,Vacuum Cleaner,Home,Mumbai,1,8612,1773,Repeat Customer,Unknown,Profit
+2885,07/04/2026,C005,Phone,Electronics,Chennai,1,13363,1385,Repeat Customer,April,Profit
+2886,Invalid Date,C224,Smartwatch,Electronics,Hyderabad,6,,11132,Repeat Customer,Unknown,Profit
+2887,Invalid Date,C155,Blender,Home,Chennai,4,14044,3073,Repeat Customer,Unknown,Profit
+2888,08/01/2026,C248,Vacuum Cleaner,Home,Pune,3,36903,6019,Repeat Customer,January,Profit
+2889,06/08/2026,C282,Blender,Home,Kolkata,1,3542,730,Repeat Customer,August,Profit
+2890,Invalid Date,C025,Blender,Home,Hyderabad,6,18612,3027,Repeat Customer,Unknown,Profit
+2891,Invalid Date,C063,T-Shirt,Apparel,Chennai,3,1056,331,Repeat Customer,Unknown,Profit
+2892,07/03/2026,C274,Sofa,Furniture,Pune,4,159460,29680,Repeat Customer,March,Profit
+2893,Invalid Date,C179,Tablet,Electronics,Pune,6,,10579,Repeat Customer,Unknown,Profit
+2894,Invalid Date,C374,Skincare Set,Beauty,Chennai,1,1944,755,Repeat Customer,Unknown,Profit
+2895,Invalid Date,C326,Jacket,Apparel,Delhi,5,18735,4837,Repeat Customer,Unknown,Profit
+2896,03/08/2026,C424,Laptop,Electronics,Chennai,3,,22614,Repeat Customer,August,Profit
+2897,Invalid Date,C357,Tablet,Electronics,Pune,5,172450,22420,Repeat Customer,Unknown,Profit
+2898,Invalid Date,C227,T-Shirt,Apparel,Pune,2,878,290,Repeat Customer,Unknown,Profit
+2899,02/09/2026,C342,Jeans,Apparel,Bangalore,2,4500,1487,Repeat Customer,September,Profit
+2900,08/12/2026,C141,Bookshelf,Furniture,Bangalore,1,4930,1250,Repeat Customer,December,Profit
+2901,Invalid Date,C155,Skincare Set,Beauty,Bangalore,6,15216,5230,Repeat Customer,Unknown,Profit
+2902,02/09/2026,C397,Skincare Set,Beauty,Pune,6,19818,7401,Repeat Customer,September,Profit
+2903,05/11/2026,C234,Vacuum Cleaner,Home,Kolkata,5,28720,6001,Repeat Customer,November,Profit
+2904,Invalid Date,C402,Skincare Set,Beauty,Hyderabad,3,,3631,Repeat Customer,Unknown,Profit
+2905,Invalid Date,C412,Table,Furniture,Pune,3,24462,4952,Repeat Customer,Unknown,Profit
+2906,Invalid Date,C432,T-Shirt,Apparel,Delhi,5,5970,1573,Repeat Customer,Unknown,Profit
+2907,Invalid Date,C454,Vacuum Cleaner,Home,Pune,4,17356,2970,Repeat Customer,Unknown,Profit
+2908,02/01/2026,C227,Cookware Set,Home,Pune,2,6314,1511,Repeat Customer,January,Profit
+2909,04/02/2026,C163,Camera,Electronics,Mumbai,6,210882,33469,Repeat Customer,February,Profit
+2910,Invalid Date,C288,T-Shirt,Apparel,Delhi,4,3620,1111,Repeat Customer,Unknown,Profit
+2911,Invalid Date,C193,Camera,Electronics,Hyderabad,6,233202,35397,Repeat Customer,Unknown,Profit
+2912,03/01/2026,C303,Smartwatch,Electronics,Chennai,4,65560,11075,Repeat Customer,January,Profit
+2913,07/03/2026,C364,Laptop,Electronics,Bangalore,3,162712,14298,Repeat Customer,March,Profit
+2914,Invalid Date,C353,T-Shirt,Apparel,Chennai,3,1458,395,Repeat Customer,Unknown,Profit
+2915,Invalid Date,C195,Microwave,Home,Mumbai,3,20883,-970,New Customer,Unknown,Loss
+2916,04/03/2026,C085,Bookshelf,Furniture,Mumbai,1,6958,1517,Repeat Customer,March,Profit
+2917,Invalid Date,C227,Chair,Furniture,Chennai,2,7726,1769,Repeat Customer,Unknown,Profit
+2918,02/01/2026,Unknown Customer,Cookware Set,Home,Hyderabad,6,13314,2835,Unknown Customer,January,Profit
+2919,Invalid Date,C446,Table,Furniture,Bangalore,5,82685,18655,Repeat Customer,Unknown,Profit
+2920,Invalid Date,C183,Cookware Set,Home,Delhi,2,4224,946,Repeat Customer,Unknown,Profit
+2921,Invalid Date,C076,Laptop,Electronics,Delhi,6,424794,50540,Repeat Customer,Unknown,Profit
+2922,Invalid Date,C012,Jeans,Apparel,Mumbai,4,9952,3161,Repeat Customer,Unknown,Profit
+2923,Invalid Date,C325,Skincare Set,Beauty,Bangalore,6,21726,7389,Repeat Customer,Unknown,Profit
+2924,03/11/2026,C318,Kurta,Apparel,Chennai,1,1504,478,Repeat Customer,November,Profit
+2925,Invalid Date,C179,Headphones,Electronics,Delhi,4,20996,5203,Repeat Customer,Unknown,Profit
+2926,05/04/2026,C038,Camera,Electronics,Pune,6,,31486,Repeat Customer,April,Profit
+2927,07/05/2026,C216,Desk,Furniture,Delhi,4,44460,10065,Repeat Customer,May,Profit
+2928,Invalid Date,C158,Bookshelf,Furniture,Pune,2,13966,3054,Repeat Customer,Unknown,Profit
+2929,Invalid Date,C346,Perfume,Beauty,Bangalore,4,17272,6183,Repeat Customer,Unknown,Profit
+2930,07/04/2026,C306,Table,Furniture,Delhi,2,38928,8060,Repeat Customer,April,Profit
+2931,07/06/2026,C192,Laptop,Electronics,Hyderabad,1,,6917,Repeat Customer,June,Profit
+2932,05/06/2026,C116,Sofa,Furniture,Bangalore,5,,29483,Repeat Customer,June,Profit
+2933,03/06/2026,C476,Makeup Kit,Beauty,Bangalore,3,13239,4539,Repeat Customer,June,Profit
+2934,02/10/2026,C241,Shoes,Apparel,Kolkata,4,10788,3113,Repeat Customer,October,Profit
+2935,08/01/2026,C353,Laptop,Electronics,Delhi,1,48868,4315,Repeat Customer,January,Profit
+2936,Invalid Date,C070,Makeup Kit,Beauty,Chennai,4,10396,3446,Repeat Customer,Unknown,Profit
+2937,Invalid Date,C248,Kurta,Apparel,Bangalore,6,8916,2996,Repeat Customer,Unknown,Profit
+2938,Invalid Date,C012,Speaker,Electronics,Delhi,1,6710,1258,Repeat Customer,Unknown,Profit
+2939,Invalid Date,C256,Perfume,Beauty,Delhi,5,12970,4586,Repeat Customer,Unknown,Profit
+2940,03/09/2026,C474,Speaker,Electronics,Pune,3,18147,2835,Repeat Customer,September,Profit
+2941,07/01/2026,C199,Table,Furniture,Kolkata,3,43707,9166,Repeat Customer,January,Profit
+2942,Invalid Date,C021,Headphones,Electronics,Chennai,5,15680,3067,Repeat Customer,Unknown,Profit
+2943,Invalid Date,C013,Microwave,Home,Bangalore,6,82806,12836,Repeat Customer,Unknown,Profit
+2944,Invalid Date,C200,T-Shirt,Apparel,Mumbai,4,3668,1089,New Customer,Unknown,Profit
+2945,06/08/2026,Unknown Customer,Camera,Electronics,Chennai,6,358368,36882,Unknown Customer,August,Profit
+2946,Invalid Date,C012,Skincare Set,Beauty,Pune,1,,574,Repeat Customer,Unknown,Profit
+2947,04/09/2026,C390,Makeup Kit,Beauty,Bangalore,2,3232,1095,Repeat Customer,September,Profit
+2948,Invalid Date,C241,Blender,Home,Delhi,1,2462,491,Repeat Customer,Unknown,Profit
+2949,Invalid Date,C151,Phone,Electronics,Chennai,1,51337,6777,Repeat Customer,Unknown,Profit
+2950,Invalid Date,C447,Laptop,Electronics,Kolkata,3,165216,14941,Repeat Customer,Unknown,Profit
+2951,Invalid Date,C056,Jeans,Apparel,Mumbai,4,6888,1935,Repeat Customer,Unknown,Profit
+2952,06/08/2026,C472,Smartwatch,Electronics,Kolkata,4,18684,4060,Repeat Customer,August,Profit
+2953,Invalid Date,C160,Cookware Set,Home,Hyderabad,5,17410,4265,Repeat Customer,Unknown,Profit
+2954,Invalid Date,C446,Jeans,Apparel,Bangalore,5,11425,3619,Repeat Customer,Unknown,Profit
+2955,Invalid Date,C305,Skincare Set,Beauty,Bangalore,1,815,312,Repeat Customer,Unknown,Profit
+2956,Invalid Date,C413,Perfume,Beauty,Pune,6,7566,2620,Repeat Customer,Unknown,Profit
+2957,05/12/2026,C476,Blender,Home,Bangalore,1,1730,307,Repeat Customer,December,Profit
+2958,07/02/2026,C151,Jacket,Apparel,Chennai,3,9444,2751,Repeat Customer,February,Profit
+2959,Invalid Date,C472,Vacuum Cleaner,Home,Pune,6,64608,13068,Repeat Customer,Unknown,Profit
+2960,Invalid Date,C201,Desk,Furniture,Delhi,4,0,9690,Repeat Customer,Unknown,Profit
+2961,04/01/2026,C199,Chair,Furniture,Chennai,2,8986,1901,Repeat Customer,January,Profit
+2962,Invalid Date,C179,Desk,Furniture,Pune,4,28548,6044,Repeat Customer,Unknown,Profit
+2963,Invalid Date,C266,Blender,Home,Mumbai,5,,4950,Repeat Customer,Unknown,Profit
+2964,Invalid Date,C076,Blender,Home,Bangalore,3,4798,1015,Repeat Customer,Unknown,Profit
+2965,Invalid Date,C273,Phone,Electronics,Chennai,3,0,13280,Repeat Customer,Unknown,Profit
+2966,Invalid Date,C267,Skincare Set,Beauty,Hyderabad,6,5202,1735,Repeat Customer,Unknown,Profit
+2967,03/06/2026,C391,Speaker,Electronics,Chennai,3,26292,5453,Repeat Customer,June,Profit
+2968,07/11/2026,C416,T-Shirt,Apparel,Chennai,3,1206,337,New Customer,November,Profit
+2969,07/01/2026,C231,Jacket,Apparel,Kolkata,3,7578,2640,Repeat Customer,January,Profit
+2970,Invalid Date,C155,Chair,Furniture,Hyderabad,1,7599,1506,Repeat Customer,Unknown,Profit
+2971,Invalid Date,C138,Camera,Electronics,Chennai,5,181165,24746,Repeat Customer,Unknown,Profit
+2972,01/12/2026,C104,Chair,Furniture,Kolkata,2,9542,1866,Repeat Customer,December,Profit
+2973,01/04/2026,C034,Cookware Set,Home,Chennai,1,8830,2029,Repeat Customer,April,Profit
+2973,01/04/2026,C034,Cookware Set,Home,Chennai,1,8830,2029,Repeat Customer,April,Profit
+2974,08/10/2026,C179,Tablet,Electronics,Hyderabad,6,105564,12939,Repeat Customer,October,Profit
+2975,Invalid Date,C140,Tablet,Electronics,Bangalore,3,,8631,Repeat Customer,Unknown,Profit
+2976,01/04/2026,C474,Phone,Electronics,Delhi,6,354714,46702,Repeat Customer,April,Profit
+2977,Invalid Date,C274,Perfume,Beauty,Mumbai,6,,3433,Repeat Customer,Unknown,Profit

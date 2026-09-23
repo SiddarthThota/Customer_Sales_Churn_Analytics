@@ -1,0 +1,9 @@
+.venv/
+.venv_final/
+.venv_clean/
+.ml_env/
+.dashboard_env/
+.dashboard313/
+__pycache__/
+*.pyc
+.streamlit/

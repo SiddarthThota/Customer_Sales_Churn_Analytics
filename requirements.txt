@@ -1,0 +1,10 @@
+# Core dashboard dependencies
+numpy==2.4.6
+pandas==2.3.3
+plotly==5.24.1
+pyarrow==19.0.1
+streamlit==1.64.0
+
+# Churn model dependencies (required for churn_model.py reproducibility)
+scipy==1.17.1
+scikit-learn==1.9.1
