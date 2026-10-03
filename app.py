@@ -28,11 +28,7 @@ Run
 """
 
 import os
-import pandas as pd
-import numpy as np
 import streamlit as st
-import plotly.express as px
-import plotly.graph_objects as go
 
 # ---------------------------------------------------------------------------
 # Page config — must be first Streamlit call
@@ -43,6 +39,11 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+import pandas as pd
+import numpy as np
+import plotly.express as px
+import plotly.graph_objects as go
 
 # ---------------------------------------------------------------------------
 # Project module imports (pandas / plotly only — no scikit-learn)

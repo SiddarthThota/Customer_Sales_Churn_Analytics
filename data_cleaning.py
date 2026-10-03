@@ -65,12 +65,15 @@ def _parse_dates(df: pd.DataFrame) -> pd.DataFrame:
     """
     df["Order_Date_Raw"] = df["Order_Date"].astype(str).str.strip()
 
-    parsed = pd.to_datetime(df["Order_Date_Raw"], format="%m/%d/%Y", errors="coerce")
+    # Fast-path: remove literal "Invalid Date" so pandas doesn't hang trying to infer its format
+    raw_dates = df["Order_Date_Raw"].replace("Invalid Date", np.nan)
+
+    parsed = pd.to_datetime(raw_dates, format="%m/%d/%Y", errors="coerce")
     # Fallback: try dayfirst for any still-NaT rows
-    mask_nat = parsed.isna()
+    mask_nat = parsed.isna() & raw_dates.notna()
     if mask_nat.any():
         fallback = pd.to_datetime(
-            df.loc[mask_nat, "Order_Date_Raw"], dayfirst=True, errors="coerce"
+            raw_dates[mask_nat], dayfirst=True, errors="coerce"
         )
         parsed[mask_nat] = fallback
 
